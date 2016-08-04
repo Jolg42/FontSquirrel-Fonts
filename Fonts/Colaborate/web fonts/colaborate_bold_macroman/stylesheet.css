@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'colaborate-boldregular';
+    src: url('ColabBol-webfont.eot');
+    src: url('ColabBol-webfont.eot?#iefix') format('embedded-opentype'),
+         url('ColabBol-webfont.woff') format('woff'),
+         url('ColabBol-webfont.ttf') format('truetype'),
+         url('ColabBol-webfont.svg#colaborate-boldregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

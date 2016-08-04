@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'hamburgerheavenregular';
+    src: url('HAMBH___-webfont.eot');
+    src: url('HAMBH___-webfont.eot?#iefix') format('embedded-opentype'),
+         url('HAMBH___-webfont.woff') format('woff'),
+         url('HAMBH___-webfont.ttf') format('truetype'),
+         url('HAMBH___-webfont.svg#hamburgerheavenregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

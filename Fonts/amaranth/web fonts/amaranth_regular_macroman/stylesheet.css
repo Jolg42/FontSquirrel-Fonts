@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'amaranthregular';
+    src: url('Amaranth-Regular-webfont.eot');
+    src: url('Amaranth-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Amaranth-Regular-webfont.woff') format('woff'),
+         url('Amaranth-Regular-webfont.ttf') format('truetype'),
+         url('Amaranth-Regular-webfont.svg#amaranthregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

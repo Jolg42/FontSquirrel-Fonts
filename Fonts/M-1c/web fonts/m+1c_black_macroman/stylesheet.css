@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'm_1cblack';
+    src: url('mplus-1c-black-webfont.eot');
+    src: url('mplus-1c-black-webfont.eot?#iefix') format('embedded-opentype'),
+         url('mplus-1c-black-webfont.woff') format('woff'),
+         url('mplus-1c-black-webfont.ttf') format('truetype'),
+         url('mplus-1c-black-webfont.svg#m_1cblack') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'bpdotsunicasesquarelight';
+    src: url('BPdotsUnicaseSquareLight-webfont.eot');
+    src: url('BPdotsUnicaseSquareLight-webfont.eot?#iefix') format('embedded-opentype'),
+         url('BPdotsUnicaseSquareLight-webfont.woff') format('woff'),
+         url('BPdotsUnicaseSquareLight-webfont.ttf') format('truetype'),
+         url('BPdotsUnicaseSquareLight-webfont.svg#bpdotsunicasesquarelight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

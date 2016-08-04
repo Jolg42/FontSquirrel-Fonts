@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'momstypewriterregular';
+    src: url('Moms_typewriter-webfont.eot');
+    src: url('Moms_typewriter-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Moms_typewriter-webfont.woff') format('woff'),
+         url('Moms_typewriter-webfont.ttf') format('truetype'),
+         url('Moms_typewriter-webfont.svg#momstypewriterregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

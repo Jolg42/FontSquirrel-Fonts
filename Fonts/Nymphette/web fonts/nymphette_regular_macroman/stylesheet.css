@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'nymphetteregular';
+    src: url('Nymphette-webfont.eot');
+    src: url('Nymphette-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Nymphette-webfont.woff') format('woff'),
+         url('Nymphette-webfont.ttf') format('truetype'),
+         url('Nymphette-webfont.svg#nymphetteregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

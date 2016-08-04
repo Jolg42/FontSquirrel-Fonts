@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'hanaleiregular';
+    src: url('Hanalei-Regular-webfont.eot');
+    src: url('Hanalei-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Hanalei-Regular-webfont.woff') format('woff'),
+         url('Hanalei-Regular-webfont.ttf') format('truetype'),
+         url('Hanalei-Regular-webfont.svg#hanaleiregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

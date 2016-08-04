@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'sf_toontimebold';
+    src: url('SF_Toontime_Bold-webfont.eot');
+    src: url('SF_Toontime_Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('SF_Toontime_Bold-webfont.woff') format('woff'),
+         url('SF_Toontime_Bold-webfont.ttf') format('truetype'),
+         url('SF_Toontime_Bold-webfont.svg#sf_toontimebold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'volkhovitalic';
+    src: url('Volkhov-Italic-webfont.eot');
+    src: url('Volkhov-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Volkhov-Italic-webfont.woff') format('woff'),
+         url('Volkhov-Italic-webfont.ttf') format('truetype'),
+         url('Volkhov-Italic-webfont.svg#volkhovitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

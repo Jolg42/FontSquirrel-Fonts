@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'quick_end_jerkregular';
+    src: url('quick_end_jerk-webfont.eot');
+    src: url('quick_end_jerk-webfont.eot?#iefix') format('embedded-opentype'),
+         url('quick_end_jerk-webfont.woff') format('woff'),
+         url('quick_end_jerk-webfont.ttf') format('truetype'),
+         url('quick_end_jerk-webfont.svg#quick_end_jerkregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

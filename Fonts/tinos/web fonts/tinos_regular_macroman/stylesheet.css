@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'tinosregular';
+    src: url('Tinos-Regular-webfont.eot');
+    src: url('Tinos-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Tinos-Regular-webfont.woff') format('woff'),
+         url('Tinos-Regular-webfont.ttf') format('truetype'),
+         url('Tinos-Regular-webfont.svg#tinosregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

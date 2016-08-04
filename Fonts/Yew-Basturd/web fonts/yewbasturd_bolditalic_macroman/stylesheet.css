@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'yew_basturdbolditalic';
+    src: url('YEWBBI__-webfont.eot');
+    src: url('YEWBBI__-webfont.eot?#iefix') format('embedded-opentype'),
+         url('YEWBBI__-webfont.woff') format('woff'),
+         url('YEWBBI__-webfont.ttf') format('truetype'),
+         url('YEWBBI__-webfont.svg#yew_basturdbolditalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

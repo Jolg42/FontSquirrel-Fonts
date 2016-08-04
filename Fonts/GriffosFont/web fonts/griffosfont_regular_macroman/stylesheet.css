@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'griffosfontregular';
+    src: url('GriffosFont-webfont.eot');
+    src: url('GriffosFont-webfont.eot?#iefix') format('embedded-opentype'),
+         url('GriffosFont-webfont.woff') format('woff'),
+         url('GriffosFont-webfont.ttf') format('truetype'),
+         url('GriffosFont-webfont.svg#griffosfontregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

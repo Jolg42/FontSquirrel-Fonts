@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'carouselregular';
+    src: url('Carousel-webfont.eot');
+    src: url('Carousel-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Carousel-webfont.woff') format('woff'),
+         url('Carousel-webfont.ttf') format('truetype'),
+         url('Carousel-webfont.svg#carouselregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

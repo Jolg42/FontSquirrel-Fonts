@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'cousineregular';
+    src: url('Cousine-Regular-webfont.eot');
+    src: url('Cousine-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Cousine-Regular-webfont.woff') format('woff'),
+         url('Cousine-Regular-webfont.ttf') format('truetype'),
+         url('Cousine-Regular-webfont.svg#cousineregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'ceviche_oneregular';
+    src: url('CevicheOne-Regular-webfont.eot');
+    src: url('CevicheOne-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('CevicheOne-Regular-webfont.woff') format('woff'),
+         url('CevicheOne-Regular-webfont.ttf') format('truetype'),
+         url('CevicheOne-Regular-webfont.svg#ceviche_oneregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

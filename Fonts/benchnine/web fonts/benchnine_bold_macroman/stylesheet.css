@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'benchninebold';
+    src: url('BenchNine-Bold-webfont.eot');
+    src: url('BenchNine-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('BenchNine-Bold-webfont.woff') format('woff'),
+         url('BenchNine-Bold-webfont.ttf') format('truetype'),
+         url('BenchNine-Bold-webfont.svg#benchninebold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

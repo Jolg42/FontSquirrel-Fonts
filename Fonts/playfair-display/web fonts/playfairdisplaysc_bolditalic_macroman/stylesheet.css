@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'playfair_display_scBdIt';
+    src: url('PlayfairDisplaySC-BoldItalic-webfont.eot');
+    src: url('PlayfairDisplaySC-BoldItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('PlayfairDisplaySC-BoldItalic-webfont.woff') format('woff'),
+         url('PlayfairDisplaySC-BoldItalic-webfont.ttf') format('truetype'),
+         url('PlayfairDisplaySC-BoldItalic-webfont.svg#playfair_display_scBdIt') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

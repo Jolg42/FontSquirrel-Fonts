@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'bp_dietultrablack_italic';
+    src: url('BPdietItalics-webfont.eot');
+    src: url('BPdietItalics-webfont.eot?#iefix') format('embedded-opentype'),
+         url('BPdietItalics-webfont.woff') format('woff'),
+         url('BPdietItalics-webfont.ttf') format('truetype'),
+         url('BPdietItalics-webfont.svg#bp_dietultrablack_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

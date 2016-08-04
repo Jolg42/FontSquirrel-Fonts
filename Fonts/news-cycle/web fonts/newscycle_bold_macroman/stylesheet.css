@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'news_cyclebold';
+    src: url('NewsCycle-Bold-webfont.eot');
+    src: url('NewsCycle-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('NewsCycle-Bold-webfont.woff') format('woff'),
+         url('NewsCycle-Bold-webfont.ttf') format('truetype'),
+         url('NewsCycle-Bold-webfont.svg#news_cyclebold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

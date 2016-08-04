@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'newrockerregular';
+    src: url('NewRocker-Regular-webfont.eot');
+    src: url('NewRocker-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('NewRocker-Regular-webfont.woff') format('woff'),
+         url('NewRocker-Regular-webfont.ttf') format('truetype'),
+         url('NewRocker-Regular-webfont.svg#newrockerregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'economicaregular';
+    src: url('Economica-Regular-OTF-webfont.eot');
+    src: url('Economica-Regular-OTF-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Economica-Regular-OTF-webfont.woff') format('woff'),
+         url('Economica-Regular-OTF-webfont.ttf') format('truetype'),
+         url('Economica-Regular-OTF-webfont.svg#economicaregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

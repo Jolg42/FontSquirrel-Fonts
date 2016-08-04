@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'gessoregular';
+    src: url('GESSO___-webfont.eot');
+    src: url('GESSO___-webfont.eot?#iefix') format('embedded-opentype'),
+         url('GESSO___-webfont.woff') format('woff'),
+         url('GESSO___-webfont.ttf') format('truetype'),
+         url('GESSO___-webfont.svg#gessoregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

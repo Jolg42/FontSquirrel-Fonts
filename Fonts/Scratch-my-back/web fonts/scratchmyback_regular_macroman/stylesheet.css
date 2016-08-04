@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'scratch_my_backregular';
+    src: url('SCRATCHM-webfont.eot');
+    src: url('SCRATCHM-webfont.eot?#iefix') format('embedded-opentype'),
+         url('SCRATCHM-webfont.woff') format('woff'),
+         url('SCRATCHM-webfont.ttf') format('truetype'),
+         url('SCRATCHM-webfont.svg#scratch_my_backregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

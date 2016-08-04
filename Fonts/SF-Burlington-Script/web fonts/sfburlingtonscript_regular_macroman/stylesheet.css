@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'sf_burlington_scriptregular';
+    src: url('SF_Burlington_Script-webfont.eot');
+    src: url('SF_Burlington_Script-webfont.eot?#iefix') format('embedded-opentype'),
+         url('SF_Burlington_Script-webfont.woff') format('woff'),
+         url('SF_Burlington_Script-webfont.ttf') format('truetype'),
+         url('SF_Burlington_Script-webfont.svg#sf_burlington_scriptregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

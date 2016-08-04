@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'limelightregular';
+    src: url('Limelight-webfont.eot');
+    src: url('Limelight-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Limelight-webfont.woff') format('woff'),
+         url('Limelight-webfont.ttf') format('truetype'),
+         url('Limelight-webfont.svg#limelightregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

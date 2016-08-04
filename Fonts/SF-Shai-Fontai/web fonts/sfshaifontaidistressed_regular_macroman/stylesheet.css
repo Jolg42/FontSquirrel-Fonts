@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'sf_shai_fontai_distressedRg';
+    src: url('SF_Shai_Fontai_Distressed-webfont.eot');
+    src: url('SF_Shai_Fontai_Distressed-webfont.eot?#iefix') format('embedded-opentype'),
+         url('SF_Shai_Fontai_Distressed-webfont.woff') format('woff'),
+         url('SF_Shai_Fontai_Distressed-webfont.ttf') format('truetype'),
+         url('SF_Shai_Fontai_Distressed-webfont.svg#sf_shai_fontai_distressedRg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

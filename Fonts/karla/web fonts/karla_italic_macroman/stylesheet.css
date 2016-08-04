@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'karlaitalic';
+    src: url('Karla-Italic-webfont.eot');
+    src: url('Karla-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Karla-Italic-webfont.woff') format('woff'),
+         url('Karla-Italic-webfont.ttf') format('truetype'),
+         url('Karla-Italic-webfont.svg#karlaitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'alpha_echoregular';
+    src: url('alpha_echo-webfont.eot');
+    src: url('alpha_echo-webfont.eot?#iefix') format('embedded-opentype'),
+         url('alpha_echo-webfont.woff') format('woff'),
+         url('alpha_echo-webfont.ttf') format('truetype'),
+         url('alpha_echo-webfont.svg#alpha_echoregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

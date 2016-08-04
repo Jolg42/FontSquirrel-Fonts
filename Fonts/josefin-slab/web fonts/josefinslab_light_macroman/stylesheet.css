@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'josefin_slablight';
+    src: url('JosefinSlab-Light-webfont.eot');
+    src: url('JosefinSlab-Light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('JosefinSlab-Light-webfont.woff') format('woff'),
+         url('JosefinSlab-Light-webfont.ttf') format('truetype'),
+         url('JosefinSlab-Light-webfont.svg#josefin_slablight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'bitterregular';
+    src: url('Bitter-Regular-webfont.eot');
+    src: url('Bitter-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Bitter-Regular-webfont.woff') format('woff'),
+         url('Bitter-Regular-webfont.ttf') format('truetype'),
+         url('Bitter-Regular-webfont.svg#bitterregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'noto_serifitalic';
+    src: url('NotoSerif-Italic-webfont.eot');
+    src: url('NotoSerif-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('NotoSerif-Italic-webfont.woff') format('woff'),
+         url('NotoSerif-Italic-webfont.ttf') format('truetype'),
+         url('NotoSerif-Italic-webfont.svg#noto_serifitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

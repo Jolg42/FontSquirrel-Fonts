@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'banksia_bold';
+    src: url('banksb20-webfont.eot');
+    src: url('banksb20-webfont.eot?#iefix') format('embedded-opentype'),
+         url('banksb20-webfont.woff') format('woff'),
+         url('banksb20-webfont.ttf') format('truetype'),
+         url('banksb20-webfont.svg#banksia_bold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

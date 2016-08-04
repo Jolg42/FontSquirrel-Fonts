@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'sigmarregular';
+    src: url('SigmarOne-webfont.eot');
+    src: url('SigmarOne-webfont.eot?#iefix') format('embedded-opentype'),
+         url('SigmarOne-webfont.woff') format('woff'),
+         url('SigmarOne-webfont.ttf') format('truetype'),
+         url('SigmarOne-webfont.svg#sigmarregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

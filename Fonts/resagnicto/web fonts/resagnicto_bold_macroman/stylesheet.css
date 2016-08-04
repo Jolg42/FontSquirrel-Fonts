@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'resagnictobold';
+    src: url('ResagnictoBold-webfont.eot');
+    src: url('ResagnictoBold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('ResagnictoBold-webfont.woff') format('woff'),
+         url('ResagnictoBold-webfont.ttf') format('truetype'),
+         url('ResagnictoBold-webfont.svg#resagnictobold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

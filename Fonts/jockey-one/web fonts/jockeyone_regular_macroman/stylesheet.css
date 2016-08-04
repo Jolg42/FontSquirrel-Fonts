@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'jockey_oneregular';
+    src: url('JockeyOne-Regular-webfont.eot');
+    src: url('JockeyOne-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('JockeyOne-Regular-webfont.woff') format('woff'),
+         url('JockeyOne-Regular-webfont.ttf') format('truetype'),
+         url('JockeyOne-Regular-webfont.svg#jockey_oneregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

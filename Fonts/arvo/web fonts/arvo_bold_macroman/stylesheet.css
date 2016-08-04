@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'arvobold';
+    src: url('Arvo-Bold-webfont.eot');
+    src: url('Arvo-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Arvo-Bold-webfont.woff') format('woff'),
+         url('Arvo-Bold-webfont.ttf') format('truetype'),
+         url('Arvo-Bold-webfont.svg#arvobold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'codaheavy';
+    src: url('Coda-Heavy-webfont.eot');
+    src: url('Coda-Heavy-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Coda-Heavy-webfont.woff') format('woff'),
+         url('Coda-Heavy-webfont.ttf') format('truetype'),
+         url('Coda-Heavy-webfont.svg#codaheavy') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

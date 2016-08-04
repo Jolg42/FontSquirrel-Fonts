@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'benthamregular';
+    src: url('Bentham-webfont.eot');
+    src: url('Bentham-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Bentham-webfont.woff') format('woff'),
+         url('Bentham-webfont.ttf') format('truetype'),
+         url('Bentham-webfont.svg#benthamregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

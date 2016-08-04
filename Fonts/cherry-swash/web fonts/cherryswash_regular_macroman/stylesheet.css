@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'cherry_swashregular';
+    src: url('CherrySwash-Regular-webfont.eot');
+    src: url('CherrySwash-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('CherrySwash-Regular-webfont.woff') format('woff'),
+         url('CherrySwash-Regular-webfont.ttf') format('truetype'),
+         url('CherrySwash-Regular-webfont.svg#cherry_swashregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

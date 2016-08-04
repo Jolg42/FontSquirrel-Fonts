@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'kawoszehmedium';
+    src: url('kawoszeh-webfont.eot');
+    src: url('kawoszeh-webfont.eot?#iefix') format('embedded-opentype'),
+         url('kawoszeh-webfont.woff') format('woff'),
+         url('kawoszeh-webfont.ttf') format('truetype'),
+         url('kawoszeh-webfont.svg#kawoszehmedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

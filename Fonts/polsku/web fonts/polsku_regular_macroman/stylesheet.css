@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'polskuregular';
+    src: url('Polsku-webfont.eot');
+    src: url('Polsku-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Polsku-webfont.woff') format('woff'),
+         url('Polsku-webfont.ttf') format('truetype'),
+         url('Polsku-webfont.svg#polskuregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

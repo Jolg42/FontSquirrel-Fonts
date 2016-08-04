@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'universal_fruitcakeregular';
+    src: url('UNIVERSALFRUITCAKE-webfont.eot');
+    src: url('UNIVERSALFRUITCAKE-webfont.eot?#iefix') format('embedded-opentype'),
+         url('UNIVERSALFRUITCAKE-webfont.woff') format('woff'),
+         url('UNIVERSALFRUITCAKE-webfont.ttf') format('truetype'),
+         url('UNIVERSALFRUITCAKE-webfont.svg#universal_fruitcakeregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

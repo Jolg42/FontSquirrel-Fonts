@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'vollkornitalic';
+    src: url('Vollkorn-Italic-webfont.eot');
+    src: url('Vollkorn-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Vollkorn-Italic-webfont.woff') format('woff'),
+         url('Vollkorn-Italic-webfont.ttf') format('truetype'),
+         url('Vollkorn-Italic-webfont.svg#vollkornitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

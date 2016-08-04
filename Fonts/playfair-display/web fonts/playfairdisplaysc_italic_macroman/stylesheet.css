@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'playfair_display_scitalic';
+    src: url('PlayfairDisplaySC-Italic-webfont.eot');
+    src: url('PlayfairDisplaySC-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('PlayfairDisplaySC-Italic-webfont.woff') format('woff'),
+         url('PlayfairDisplaySC-Italic-webfont.ttf') format('truetype'),
+         url('PlayfairDisplaySC-Italic-webfont.svg#playfair_display_scitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

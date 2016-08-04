@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'sf_wasabiregular';
+    src: url('SF_Wasabi-webfont.eot');
+    src: url('SF_Wasabi-webfont.eot?#iefix') format('embedded-opentype'),
+         url('SF_Wasabi-webfont.woff') format('woff'),
+         url('SF_Wasabi-webfont.ttf') format('truetype'),
+         url('SF_Wasabi-webfont.svg#sf_wasabiregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

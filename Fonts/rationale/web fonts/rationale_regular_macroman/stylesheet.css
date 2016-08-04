@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'rationale_oneregular';
+    src: url('Rationale-Regular-webfont.eot');
+    src: url('Rationale-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Rationale-Regular-webfont.woff') format('woff'),
+         url('Rationale-Regular-webfont.ttf') format('truetype'),
+         url('Rationale-Regular-webfont.svg#rationale_oneregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

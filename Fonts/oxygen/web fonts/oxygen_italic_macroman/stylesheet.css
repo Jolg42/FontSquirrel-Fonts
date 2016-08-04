@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'oxygenitalic';
+    src: url('Oxygen-Italic-webfont.eot');
+    src: url('Oxygen-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Oxygen-Italic-webfont.woff') format('woff'),
+         url('Oxygen-Italic-webfont.ttf') format('truetype'),
+         url('Oxygen-Italic-webfont.svg#oxygenitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'vag-handwrittenregular';
+    src: url('VAG-HandWritten-webfont.eot');
+    src: url('VAG-HandWritten-webfont.eot?#iefix') format('embedded-opentype'),
+         url('VAG-HandWritten-webfont.woff') format('woff'),
+         url('VAG-HandWritten-webfont.ttf') format('truetype'),
+         url('VAG-HandWritten-webfont.svg#vag-handwrittenregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

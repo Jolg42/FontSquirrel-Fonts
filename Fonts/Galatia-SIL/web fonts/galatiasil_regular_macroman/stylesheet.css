@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'galatia_silregular';
+    src: url('GalSILR-webfont.eot');
+    src: url('GalSILR-webfont.eot?#iefix') format('embedded-opentype'),
+         url('GalSILR-webfont.woff') format('woff'),
+         url('GalSILR-webfont.ttf') format('truetype'),
+         url('GalSILR-webfont.svg#galatia_silregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

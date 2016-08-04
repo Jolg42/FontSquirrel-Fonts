@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'share-techregular';
+    src: url('Share-Tech-webfont.eot');
+    src: url('Share-Tech-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Share-Tech-webfont.woff') format('woff'),
+         url('Share-Tech-webfont.ttf') format('truetype'),
+         url('Share-Tech-webfont.svg#share-techregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

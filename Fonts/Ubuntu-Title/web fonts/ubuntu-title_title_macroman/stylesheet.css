@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'ubuntu-titletitle';
+    src: url('Ubuntu-Title-webfont.eot');
+    src: url('Ubuntu-Title-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Ubuntu-Title-webfont.woff') format('woff'),
+         url('Ubuntu-Title-webfont.ttf') format('truetype'),
+         url('Ubuntu-Title-webfont.svg#ubuntu-titletitle') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

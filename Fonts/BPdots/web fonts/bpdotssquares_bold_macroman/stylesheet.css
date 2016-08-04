@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'bpdotssquaresbold';
+    src: url('BPdotsSquareBold-webfont.eot');
+    src: url('BPdotsSquareBold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('BPdotsSquareBold-webfont.woff') format('woff'),
+         url('BPdotsSquareBold-webfont.ttf') format('truetype'),
+         url('BPdotsSquareBold-webfont.svg#bpdotssquaresbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

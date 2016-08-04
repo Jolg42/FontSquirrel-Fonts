@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'junction_regularregular';
+    src: url('Junction-webfont.eot');
+    src: url('Junction-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Junction-webfont.woff') format('woff'),
+         url('Junction-webfont.ttf') format('truetype'),
+         url('Junction-webfont.svg#junction_regularregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

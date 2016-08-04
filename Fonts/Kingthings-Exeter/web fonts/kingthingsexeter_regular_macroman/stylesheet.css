@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'kingthings_exeterregular';
+    src: url('Kingthings_Exeter-webfont.eot');
+    src: url('Kingthings_Exeter-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Kingthings_Exeter-webfont.woff') format('woff'),
+         url('Kingthings_Exeter-webfont.ttf') format('truetype'),
+         url('Kingthings_Exeter-webfont.svg#kingthings_exeterregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

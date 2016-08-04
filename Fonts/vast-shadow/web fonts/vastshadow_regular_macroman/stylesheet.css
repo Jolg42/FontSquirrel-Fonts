@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'vast_shadowregular';
+    src: url('VastShadow-Regular-webfont.eot');
+    src: url('VastShadow-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('VastShadow-Regular-webfont.woff') format('woff'),
+         url('VastShadow-Regular-webfont.ttf') format('truetype'),
+         url('VastShadow-Regular-webfont.svg#vast_shadowregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

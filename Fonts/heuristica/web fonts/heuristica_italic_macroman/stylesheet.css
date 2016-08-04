@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'heuristicaitalic';
+    src: url('Heuristica-Italic-webfont.eot');
+    src: url('Heuristica-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Heuristica-Italic-webfont.woff') format('woff'),
+         url('Heuristica-Italic-webfont.ttf') format('truetype'),
+         url('Heuristica-Italic-webfont.svg#heuristicaitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

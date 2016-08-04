@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'england_hand_dbregular';
+    src: url('england-webfont.eot');
+    src: url('england-webfont.eot?#iefix') format('embedded-opentype'),
+         url('england-webfont.woff') format('woff'),
+         url('england-webfont.ttf') format('truetype'),
+         url('england-webfont.svg#england_hand_dbregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

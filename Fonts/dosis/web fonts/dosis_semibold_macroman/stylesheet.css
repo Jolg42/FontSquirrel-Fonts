@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'dosissemibold';
+    src: url('Dosis-SemiBold-webfont.eot');
+    src: url('Dosis-SemiBold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Dosis-SemiBold-webfont.woff') format('woff'),
+         url('Dosis-SemiBold-webfont.ttf') format('truetype'),
+         url('Dosis-SemiBold-webfont.svg#dosissemibold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

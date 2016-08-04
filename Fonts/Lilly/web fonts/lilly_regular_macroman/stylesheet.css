@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'lillyregular';
+    src: url('Lilly__-webfont.eot');
+    src: url('Lilly__-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Lilly__-webfont.woff') format('woff'),
+         url('Lilly__-webfont.ttf') format('truetype'),
+         url('Lilly__-webfont.svg#lillyregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

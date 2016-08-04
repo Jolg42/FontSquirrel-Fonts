@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'destencilnfregular';
+    src: url('DESTENCI-webfont.eot');
+    src: url('DESTENCI-webfont.eot?#iefix') format('embedded-opentype'),
+         url('DESTENCI-webfont.woff') format('woff'),
+         url('DESTENCI-webfont.ttf') format('truetype'),
+         url('DESTENCI-webfont.svg#destencilnfregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'webfontregular';
+    src: url('BRUSHSTP-webfont.eot');
+    src: url('BRUSHSTP-webfont.eot?#iefix') format('embedded-opentype'),
+         url('BRUSHSTP-webfont.woff') format('woff'),
+         url('BRUSHSTP-webfont.ttf') format('truetype'),
+         url('BRUSHSTP-webfont.svg#webfontregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

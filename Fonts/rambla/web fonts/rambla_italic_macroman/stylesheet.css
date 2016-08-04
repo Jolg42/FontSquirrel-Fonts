@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'ramblaitalic';
+    src: url('Rambla-Italic-webfont.eot');
+    src: url('Rambla-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Rambla-Italic-webfont.woff') format('woff'),
+         url('Rambla-Italic-webfont.ttf') format('truetype'),
+         url('Rambla-Italic-webfont.svg#ramblaitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

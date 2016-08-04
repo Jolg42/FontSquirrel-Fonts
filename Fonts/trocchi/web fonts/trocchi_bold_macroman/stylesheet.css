@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'trocchi_boldbold';
+    src: url('Trocchi-Bold-webfont.eot');
+    src: url('Trocchi-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Trocchi-Bold-webfont.woff') format('woff'),
+         url('Trocchi-Bold-webfont.ttf') format('truetype'),
+         url('Trocchi-Bold-webfont.svg#trocchi_boldbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

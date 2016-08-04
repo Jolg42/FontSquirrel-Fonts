@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'henny_pennyregular';
+    src: url('HennyPenny-Regular-webfont.eot');
+    src: url('HennyPenny-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('HennyPenny-Regular-webfont.woff') format('woff'),
+         url('HennyPenny-Regular-webfont.ttf') format('truetype'),
+         url('HennyPenny-Regular-webfont.svg#henny_pennyregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

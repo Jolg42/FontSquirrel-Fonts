@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'ralewaysemibold';
+    src: url('Raleway-SemiBold-webfont.eot');
+    src: url('Raleway-SemiBold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Raleway-SemiBold-webfont.woff') format('woff'),
+         url('Raleway-SemiBold-webfont.ttf') format('truetype'),
+         url('Raleway-SemiBold-webfont.svg#ralewaysemibold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

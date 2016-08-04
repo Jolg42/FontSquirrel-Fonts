@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'carringtonregular';
+    src: url('Carrington-webfont.eot');
+    src: url('Carrington-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Carrington-webfont.woff') format('woff'),
+         url('Carrington-webfont.ttf') format('truetype'),
+         url('Carrington-webfont.svg#carringtonregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

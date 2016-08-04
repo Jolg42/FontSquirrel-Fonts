@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'liberation_sansbold_italic';
+    src: url('LiberationSans-BoldItalic-webfont.eot');
+    src: url('LiberationSans-BoldItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('LiberationSans-BoldItalic-webfont.woff') format('woff'),
+         url('LiberationSans-BoldItalic-webfont.ttf') format('truetype'),
+         url('LiberationSans-BoldItalic-webfont.svg#liberation_sansbold_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

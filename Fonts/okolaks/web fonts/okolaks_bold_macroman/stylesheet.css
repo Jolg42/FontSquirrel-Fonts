@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'okolaksbold';
+    src: url('okolaksBold-webfont.eot');
+    src: url('okolaksBold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('okolaksBold-webfont.woff') format('woff'),
+         url('okolaksBold-webfont.ttf') format('truetype'),
+         url('okolaksBold-webfont.svg#okolaksbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

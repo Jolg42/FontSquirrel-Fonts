@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'judsonmedium';
+    src: url('Judson-Regular-webfont.eot');
+    src: url('Judson-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Judson-Regular-webfont.woff') format('woff'),
+         url('Judson-Regular-webfont.ttf') format('truetype'),
+         url('Judson-Regular-webfont.svg#judsonmedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

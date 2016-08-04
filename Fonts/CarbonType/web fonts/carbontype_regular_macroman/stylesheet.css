@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'carbontyperegular';
+    src: url('carbontype-webfont.eot');
+    src: url('carbontype-webfont.eot?#iefix') format('embedded-opentype'),
+         url('carbontype-webfont.woff') format('woff'),
+         url('carbontype-webfont.ttf') format('truetype'),
+         url('carbontype-webfont.svg#carbontyperegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

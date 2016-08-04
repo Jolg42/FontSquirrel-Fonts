@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'minotaurphatte';
+    src: url('minotaur-webfont.eot');
+    src: url('minotaur-webfont.eot?#iefix') format('embedded-opentype'),
+         url('minotaur-webfont.woff') format('woff'),
+         url('minotaur-webfont.ttf') format('truetype'),
+         url('minotaur-webfont.svg#minotaurphatte') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

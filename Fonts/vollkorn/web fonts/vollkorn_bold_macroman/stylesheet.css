@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'vollkornbold';
+    src: url('Vollkorn-Bold-webfont.eot');
+    src: url('Vollkorn-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Vollkorn-Bold-webfont.woff') format('woff'),
+         url('Vollkorn-Bold-webfont.ttf') format('truetype'),
+         url('Vollkorn-Bold-webfont.svg#vollkornbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

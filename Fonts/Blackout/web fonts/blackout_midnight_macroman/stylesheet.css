@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'blackoutmidnight';
+    src: url('Blackout-Midnight-webfont.eot');
+    src: url('Blackout-Midnight-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Blackout-Midnight-webfont.woff') format('woff'),
+         url('Blackout-Midnight-webfont.ttf') format('truetype'),
+         url('Blackout-Midnight-webfont.svg#blackoutmidnight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

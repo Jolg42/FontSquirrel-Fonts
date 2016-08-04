@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'gondola_sd_-_swashregular';
+    src: url('Gondola_SD-Swash-webfont.eot');
+    src: url('Gondola_SD-Swash-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Gondola_SD-Swash-webfont.woff') format('woff'),
+         url('Gondola_SD-Swash-webfont.ttf') format('truetype'),
+         url('Gondola_SD-Swash-webfont.svg#gondola_sd_-_swashregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

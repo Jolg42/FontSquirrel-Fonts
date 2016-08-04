@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'neristhin_italic';
+    src: url('Neris-ThinItalic-webfont.eot');
+    src: url('Neris-ThinItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Neris-ThinItalic-webfont.woff') format('woff'),
+         url('Neris-ThinItalic-webfont.ttf') format('truetype'),
+         url('Neris-ThinItalic-webfont.svg#neristhin_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

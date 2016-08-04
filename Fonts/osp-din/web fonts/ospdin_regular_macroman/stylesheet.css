@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'osp-dindin';
+    src: url('OSP-DIN-webfont.eot');
+    src: url('OSP-DIN-webfont.eot?#iefix') format('embedded-opentype'),
+         url('OSP-DIN-webfont.woff') format('woff'),
+         url('OSP-DIN-webfont.ttf') format('truetype'),
+         url('OSP-DIN-webfont.svg#osp-dindin') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

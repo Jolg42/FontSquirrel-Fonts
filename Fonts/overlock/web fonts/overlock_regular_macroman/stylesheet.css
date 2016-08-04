@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'overlockregular';
+    src: url('Overlock-Regular-webfont.eot');
+    src: url('Overlock-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Overlock-Regular-webfont.woff') format('woff'),
+         url('Overlock-Regular-webfont.ttf') format('truetype'),
+         url('Overlock-Regular-webfont.svg#overlockregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

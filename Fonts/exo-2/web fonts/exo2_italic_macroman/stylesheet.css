@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'exo_2italic';
+    src: url('Exo2-Italic-webfont.eot');
+    src: url('Exo2-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Exo2-Italic-webfont.woff') format('woff'),
+         url('Exo2-Italic-webfont.ttf') format('truetype'),
+         url('Exo2-Italic-webfont.svg#exo_2italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'nerislight';
+    src: url('Neris-Light-webfont.eot');
+    src: url('Neris-Light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Neris-Light-webfont.woff') format('woff'),
+         url('Neris-Light-webfont.ttf') format('truetype'),
+         url('Neris-Light-webfont.svg#nerislight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

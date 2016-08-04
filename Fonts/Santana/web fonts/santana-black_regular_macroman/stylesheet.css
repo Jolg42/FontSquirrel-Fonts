@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'santana-blackregular';
+    src: url('Santana-Black-webfont.eot');
+    src: url('Santana-Black-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Santana-Black-webfont.woff') format('woff'),
+         url('Santana-Black-webfont.ttf') format('truetype'),
+         url('Santana-Black-webfont.svg#santana-blackregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

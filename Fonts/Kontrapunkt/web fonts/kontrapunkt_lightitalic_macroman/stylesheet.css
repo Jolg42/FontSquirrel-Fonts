@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'kontrapunktlight_italic';
+    src: url('Kontrapunkt-LightItalic-webfont.eot');
+    src: url('Kontrapunkt-LightItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Kontrapunkt-LightItalic-webfont.woff') format('woff'),
+         url('Kontrapunkt-LightItalic-webfont.ttf') format('truetype'),
+         url('Kontrapunkt-LightItalic-webfont.svg#kontrapunktlight_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

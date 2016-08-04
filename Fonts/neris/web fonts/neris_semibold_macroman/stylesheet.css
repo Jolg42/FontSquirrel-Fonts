@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'nerissemibold';
+    src: url('Neris-SemiBold-webfont.eot');
+    src: url('Neris-SemiBold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Neris-SemiBold-webfont.woff') format('woff'),
+         url('Neris-SemiBold-webfont.ttf') format('truetype'),
+         url('Neris-SemiBold-webfont.svg#nerissemibold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

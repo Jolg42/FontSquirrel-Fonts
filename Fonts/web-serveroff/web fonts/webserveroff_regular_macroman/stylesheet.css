@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'web_serveroffregular';
+    src: url('Web_Serveroff-webfont.eot');
+    src: url('Web_Serveroff-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Web_Serveroff-webfont.woff') format('woff'),
+         url('Web_Serveroff-webfont.ttf') format('truetype'),
+         url('Web_Serveroff-webfont.svg#web_serveroffregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

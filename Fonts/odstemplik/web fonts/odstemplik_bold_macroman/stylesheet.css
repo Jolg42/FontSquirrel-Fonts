@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'odstemplikbold';
+    src: url('odstemplikBold-webfont.eot');
+    src: url('odstemplikBold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('odstemplikBold-webfont.woff') format('woff'),
+         url('odstemplikBold-webfont.ttf') format('truetype'),
+         url('odstemplikBold-webfont.svg#odstemplikbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

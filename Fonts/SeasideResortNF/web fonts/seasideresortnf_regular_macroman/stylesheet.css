@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'seasideresortnfregular';
+    src: url('SEASRN__-webfont.eot');
+    src: url('SEASRN__-webfont.eot?#iefix') format('embedded-opentype'),
+         url('SEASRN__-webfont.woff') format('woff'),
+         url('SEASRN__-webfont.ttf') format('truetype'),
+         url('SEASRN__-webfont.svg#seasideresortnfregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

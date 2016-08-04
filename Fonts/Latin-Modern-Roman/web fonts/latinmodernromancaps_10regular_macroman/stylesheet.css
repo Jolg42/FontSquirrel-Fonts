@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'latin_modern_roman_caps10Rg';
+    src: url('lmromancaps10-regular-webfont.eot');
+    src: url('lmromancaps10-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('lmromancaps10-regular-webfont.woff') format('woff'),
+         url('lmromancaps10-regular-webfont.ttf') format('truetype'),
+         url('lmromancaps10-regular-webfont.svg#latin_modern_roman_caps10Rg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

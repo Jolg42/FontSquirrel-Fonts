@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'piedraregular';
+    src: url('Piedra-Regular-webfont.eot');
+    src: url('Piedra-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Piedra-Regular-webfont.woff') format('woff'),
+         url('Piedra-Regular-webfont.ttf') format('truetype'),
+         url('Piedra-Regular-webfont.svg#piedraregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

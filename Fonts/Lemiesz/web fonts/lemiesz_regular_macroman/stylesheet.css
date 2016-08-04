@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'lemieszregular';
+    src: url('Lemiesz-webfont.eot');
+    src: url('Lemiesz-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Lemiesz-webfont.woff') format('woff'),
+         url('Lemiesz-webfont.ttf') format('truetype'),
+         url('Lemiesz-webfont.svg#lemieszregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

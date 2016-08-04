@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'anonymousregular';
+    src: url('Anonymous-webfont.eot');
+    src: url('Anonymous-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Anonymous-webfont.woff') format('woff'),
+         url('Anonymous-webfont.ttf') format('truetype'),
+         url('Anonymous-webfont.svg#anonymousregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'quicksanddash';
+    src: url('Quicksand_Dash-webfont.eot');
+    src: url('Quicksand_Dash-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Quicksand_Dash-webfont.woff') format('woff'),
+         url('Quicksand_Dash-webfont.ttf') format('truetype'),
+         url('Quicksand_Dash-webfont.svg#quicksanddash') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

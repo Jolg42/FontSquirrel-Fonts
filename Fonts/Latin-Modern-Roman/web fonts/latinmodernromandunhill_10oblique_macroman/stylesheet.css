@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'latin_modern_roman_dunhil10Ob';
+    src: url('lmromandunh10-oblique-webfont.eot');
+    src: url('lmromandunh10-oblique-webfont.eot?#iefix') format('embedded-opentype'),
+         url('lmromandunh10-oblique-webfont.woff') format('woff'),
+         url('lmromandunh10-oblique-webfont.ttf') format('truetype'),
+         url('lmromandunh10-oblique-webfont.svg#latin_modern_roman_dunhil10Ob') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

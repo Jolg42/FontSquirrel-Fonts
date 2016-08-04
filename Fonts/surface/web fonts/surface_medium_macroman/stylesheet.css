@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'surfacemedium';
+    src: url('Surface_Medium-webfont.eot');
+    src: url('Surface_Medium-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Surface_Medium-webfont.woff') format('woff'),
+         url('Surface_Medium-webfont.ttf') format('truetype'),
+         url('Surface_Medium-webfont.svg#surfacemedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

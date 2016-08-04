@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'anudawitalic';
+    src: url('ANUDI___-webfont.eot');
+    src: url('ANUDI___-webfont.eot?#iefix') format('embedded-opentype'),
+         url('ANUDI___-webfont.woff') format('woff'),
+         url('ANUDI___-webfont.ttf') format('truetype'),
+         url('ANUDI___-webfont.svg#anudawitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

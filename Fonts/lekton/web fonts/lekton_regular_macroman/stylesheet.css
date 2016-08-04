@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'lektonregular';
+    src: url('Lekton-Regular-webfont.eot');
+    src: url('Lekton-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Lekton-Regular-webfont.woff') format('woff'),
+         url('Lekton-Regular-webfont.ttf') format('truetype'),
+         url('Lekton-Regular-webfont.svg#lektonregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

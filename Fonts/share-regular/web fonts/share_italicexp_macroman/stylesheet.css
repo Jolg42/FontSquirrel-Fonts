@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'share-italicexpregular';
+    src: url('Share-ItalicExp-webfont.eot');
+    src: url('Share-ItalicExp-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Share-ItalicExp-webfont.woff') format('woff'),
+         url('Share-ItalicExp-webfont.ttf') format('truetype'),
+         url('Share-ItalicExp-webfont.svg#share-italicexpregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

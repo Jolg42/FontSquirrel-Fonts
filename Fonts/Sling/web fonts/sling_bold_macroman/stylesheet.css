@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'slingbold';
+    src: url('SlingBold-webfont.eot');
+    src: url('SlingBold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('SlingBold-webfont.woff') format('woff'),
+         url('SlingBold-webfont.ttf') format('truetype'),
+         url('SlingBold-webfont.svg#slingbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

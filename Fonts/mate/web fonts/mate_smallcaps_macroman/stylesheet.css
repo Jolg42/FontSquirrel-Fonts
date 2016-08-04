@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'mate_scregular';
+    src: url('MateSC-Regular-webfont.eot');
+    src: url('MateSC-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('MateSC-Regular-webfont.woff') format('woff'),
+         url('MateSC-Regular-webfont.ttf') format('truetype'),
+         url('MateSC-Regular-webfont.svg#mate_scregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

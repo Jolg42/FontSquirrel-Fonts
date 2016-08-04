@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'artifikamedium';
+    src: url('Artifika-Regular-webfont.eot');
+    src: url('Artifika-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Artifika-Regular-webfont.woff') format('woff'),
+         url('Artifika-Regular-webfont.ttf') format('truetype'),
+         url('Artifika-Regular-webfont.svg#artifikamedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

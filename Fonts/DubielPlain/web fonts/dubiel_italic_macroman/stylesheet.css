@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'dubielitalic';
+    src: url('DubielItalic-webfont.eot');
+    src: url('DubielItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('DubielItalic-webfont.woff') format('woff'),
+         url('DubielItalic-webfont.ttf') format('truetype'),
+         url('DubielItalic-webfont.svg#dubielitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

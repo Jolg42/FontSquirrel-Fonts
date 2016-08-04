@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'good_footregular';
+    src: url('goodfoot-webfont.eot');
+    src: url('goodfoot-webfont.eot?#iefix') format('embedded-opentype'),
+         url('goodfoot-webfont.woff') format('woff'),
+         url('goodfoot-webfont.ttf') format('truetype'),
+         url('goodfoot-webfont.svg#good_footregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

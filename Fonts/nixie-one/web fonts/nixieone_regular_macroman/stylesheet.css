@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'nixie_oneregular';
+    src: url('NixieOne-Regular-webfont.eot');
+    src: url('NixieOne-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('NixieOne-Regular-webfont.woff') format('woff'),
+         url('NixieOne-Regular-webfont.ttf') format('truetype'),
+         url('NixieOne-Regular-webfont.svg#nixie_oneregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

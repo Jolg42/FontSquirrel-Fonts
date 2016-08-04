@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'ramblaregular';
+    src: url('Rambla-Regular-webfont.eot');
+    src: url('Rambla-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Rambla-Regular-webfont.woff') format('woff'),
+         url('Rambla-Regular-webfont.ttf') format('truetype'),
+         url('Rambla-Regular-webfont.svg#ramblaregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'shangrilanfregular';
+    src: url('SHANLN__-webfont.eot');
+    src: url('SHANLN__-webfont.eot?#iefix') format('embedded-opentype'),
+         url('SHANLN__-webfont.woff') format('woff'),
+         url('SHANLN__-webfont.ttf') format('truetype'),
+         url('SHANLN__-webfont.svg#shangrilanfregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

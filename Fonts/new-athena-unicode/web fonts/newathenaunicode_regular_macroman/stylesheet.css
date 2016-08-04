@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'new_athena_unicoderegular';
+    src: url('new_athena_unicode-webfont.eot');
+    src: url('new_athena_unicode-webfont.eot?#iefix') format('embedded-opentype'),
+         url('new_athena_unicode-webfont.woff') format('woff'),
+         url('new_athena_unicode-webfont.ttf') format('truetype'),
+         url('new_athena_unicode-webfont.svg#new_athena_unicoderegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

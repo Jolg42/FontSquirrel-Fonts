@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'rawengulkdemibold';
+    src: url('RawengulkDemibold-webfont.eot');
+    src: url('RawengulkDemibold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('RawengulkDemibold-webfont.woff') format('woff'),
+         url('RawengulkDemibold-webfont.ttf') format('truetype'),
+         url('RawengulkDemibold-webfont.svg#rawengulkdemibold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

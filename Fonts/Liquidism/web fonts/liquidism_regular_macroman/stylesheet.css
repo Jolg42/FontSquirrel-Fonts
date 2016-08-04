@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'liquidismregular';
+    src: url('Liquidism-webfont.eot');
+    src: url('Liquidism-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Liquidism-webfont.woff') format('woff'),
+         url('Liquidism-webfont.ttf') format('truetype'),
+         url('Liquidism-webfont.svg#liquidismregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

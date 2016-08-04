@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'bubblegum_sansregular';
+    src: url('BubblegumSans-Regular-webfont.eot');
+    src: url('BubblegumSans-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('BubblegumSans-Regular-webfont.woff') format('woff'),
+         url('BubblegumSans-Regular-webfont.ttf') format('truetype'),
+         url('BubblegumSans-Regular-webfont.svg#bubblegum_sansregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

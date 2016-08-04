@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'josefin_sanslight_italic';
+    src: url('JosefinSans-LightItalic-webfont.eot');
+    src: url('JosefinSans-LightItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('JosefinSans-LightItalic-webfont.woff') format('woff'),
+         url('JosefinSans-LightItalic-webfont.ttf') format('truetype'),
+         url('JosefinSans-LightItalic-webfont.svg#josefin_sanslight_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

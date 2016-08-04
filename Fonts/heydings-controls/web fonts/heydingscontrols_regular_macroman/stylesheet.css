@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'heydings_controlsregular';
+    src: url('heydings_controls-webfont.eot');
+    src: url('heydings_controls-webfont.eot?#iefix') format('embedded-opentype'),
+         url('heydings_controls-webfont.woff') format('woff'),
+         url('heydings_controls-webfont.ttf') format('truetype'),
+         url('heydings_controls-webfont.svg#heydings_controlsregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

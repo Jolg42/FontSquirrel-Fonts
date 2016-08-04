@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'noto_serifregular';
+    src: url('NotoSerif-Regular-webfont.eot');
+    src: url('NotoSerif-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('NotoSerif-Regular-webfont.woff') format('woff'),
+         url('NotoSerif-Regular-webfont.ttf') format('truetype'),
+         url('NotoSerif-Regular-webfont.svg#noto_serifregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

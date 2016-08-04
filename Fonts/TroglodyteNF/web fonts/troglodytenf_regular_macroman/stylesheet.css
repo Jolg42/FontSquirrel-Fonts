@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'troglodytenfregular';
+    src: url('TROGN___-webfont.eot');
+    src: url('TROGN___-webfont.eot?#iefix') format('embedded-opentype'),
+         url('TROGN___-webfont.woff') format('woff'),
+         url('TROGN___-webfont.ttf') format('truetype'),
+         url('TROGN___-webfont.svg#troglodytenfregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

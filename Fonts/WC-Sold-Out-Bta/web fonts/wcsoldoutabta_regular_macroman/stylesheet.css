@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'wc_sold_out_a_btaregular';
+    src: url('WCSoldOutABta-webfont.eot');
+    src: url('WCSoldOutABta-webfont.eot?#iefix') format('embedded-opentype'),
+         url('WCSoldOutABta-webfont.woff') format('woff'),
+         url('WCSoldOutABta-webfont.ttf') format('truetype'),
+         url('WCSoldOutABta-webfont.svg#wc_sold_out_a_btaregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

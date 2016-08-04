@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'londrina_outlineregular';
+    src: url('LondrinaOutline-Regular-webfont.eot');
+    src: url('LondrinaOutline-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('LondrinaOutline-Regular-webfont.woff') format('woff'),
+         url('LondrinaOutline-Regular-webfont.ttf') format('truetype'),
+         url('LondrinaOutline-Regular-webfont.svg#londrina_outlineregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

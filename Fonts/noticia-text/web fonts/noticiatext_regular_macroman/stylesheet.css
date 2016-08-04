@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'noticia_textregular';
+    src: url('NoticiaText-Regular-webfont.eot');
+    src: url('NoticiaText-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('NoticiaText-Regular-webfont.woff') format('woff'),
+         url('NoticiaText-Regular-webfont.ttf') format('truetype'),
+         url('NoticiaText-Regular-webfont.svg#noticia_textregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

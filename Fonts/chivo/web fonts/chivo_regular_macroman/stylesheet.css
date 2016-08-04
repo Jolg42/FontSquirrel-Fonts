@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'chivoregular';
+    src: url('Chivo-Regular-webfont.eot');
+    src: url('Chivo-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Chivo-Regular-webfont.woff') format('woff'),
+         url('Chivo-Regular-webfont.ttf') format('truetype'),
+         url('Chivo-Regular-webfont.svg#chivoregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

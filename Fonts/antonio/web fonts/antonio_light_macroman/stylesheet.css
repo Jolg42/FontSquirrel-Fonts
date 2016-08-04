@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'antoniolight';
+    src: url('Antonio-Light-webfont.eot');
+    src: url('Antonio-Light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Antonio-Light-webfont.woff') format('woff'),
+         url('Antonio-Light-webfont.ttf') format('truetype'),
+         url('Antonio-Light-webfont.svg#antoniolight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

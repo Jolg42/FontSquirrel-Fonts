@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'airstreamregular';
+    src: url('Airstream-webfont.eot');
+    src: url('Airstream-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Airstream-webfont.woff') format('woff'),
+         url('Airstream-webfont.ttf') format('truetype'),
+         url('Airstream-webfont.svg#airstreamregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

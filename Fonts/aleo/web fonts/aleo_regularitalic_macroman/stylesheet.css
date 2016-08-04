@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'aleoitalic';
+    src: url('Aleo-Italic-webfont.eot');
+    src: url('Aleo-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Aleo-Italic-webfont.woff') format('woff'),
+         url('Aleo-Italic-webfont.ttf') format('truetype'),
+         url('Aleo-Italic-webfont.svg#aleoitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

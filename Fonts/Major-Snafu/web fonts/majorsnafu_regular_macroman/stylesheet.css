@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'major_snafuregular';
+    src: url('major_shift-webfont.eot');
+    src: url('major_shift-webfont.eot?#iefix') format('embedded-opentype'),
+         url('major_shift-webfont.woff') format('woff'),
+         url('major_shift-webfont.ttf') format('truetype'),
+         url('major_shift-webfont.svg#major_snafuregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

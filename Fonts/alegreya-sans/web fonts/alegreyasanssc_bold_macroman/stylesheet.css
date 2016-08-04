@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'alegreya_sans_scbold';
+    src: url('AlegreyaSansSC-Bold-webfont.eot');
+    src: url('AlegreyaSansSC-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('AlegreyaSansSC-Bold-webfont.woff') format('woff'),
+         url('AlegreyaSansSC-Bold-webfont.ttf') format('truetype'),
+         url('AlegreyaSansSC-Bold-webfont.svg#alegreya_sans_scbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

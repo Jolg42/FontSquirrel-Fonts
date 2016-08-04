@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'redressedregular';
+    src: url('Redressed-webfont.eot');
+    src: url('Redressed-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Redressed-webfont.woff') format('woff'),
+         url('Redressed-webfont.ttf') format('truetype'),
+         url('Redressed-webfont.svg#redressedregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

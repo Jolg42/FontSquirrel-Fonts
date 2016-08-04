@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'bpmonoregular';
+    src: url('BPmono-webfont.eot');
+    src: url('BPmono-webfont.eot?#iefix') format('embedded-opentype'),
+         url('BPmono-webfont.woff') format('woff'),
+         url('BPmono-webfont.ttf') format('truetype'),
+         url('BPmono-webfont.svg#bpmonoregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'silkscreennormal';
+    src: url('slkscr-webfont.eot');
+    src: url('slkscr-webfont.eot?#iefix') format('embedded-opentype'),
+         url('slkscr-webfont.woff') format('woff'),
+         url('slkscr-webfont.ttf') format('truetype'),
+         url('slkscr-webfont.svg#silkscreennormal') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

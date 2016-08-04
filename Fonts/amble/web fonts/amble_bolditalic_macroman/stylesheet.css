@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'amblebold_italic';
+    src: url('Amble-BoldItalic-webfont.eot');
+    src: url('Amble-BoldItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Amble-BoldItalic-webfont.woff') format('woff'),
+         url('Amble-BoldItalic-webfont.ttf') format('truetype'),
+         url('Amble-BoldItalic-webfont.svg#amblebold_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

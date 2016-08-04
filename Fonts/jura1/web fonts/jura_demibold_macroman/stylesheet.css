@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'jurademibold';
+    src: url('Jura-DemiBold-webfont.eot');
+    src: url('Jura-DemiBold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Jura-DemiBold-webfont.woff') format('woff'),
+         url('Jura-DemiBold-webfont.ttf') format('truetype'),
+         url('Jura-DemiBold-webfont.svg#jurademibold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

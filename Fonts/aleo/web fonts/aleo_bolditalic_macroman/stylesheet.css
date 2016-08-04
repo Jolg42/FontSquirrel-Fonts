@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'aleobolditalic';
+    src: url('Aleo-BoldItalic-webfont.eot');
+    src: url('Aleo-BoldItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Aleo-BoldItalic-webfont.woff') format('woff'),
+         url('Aleo-BoldItalic-webfont.ttf') format('truetype'),
+         url('Aleo-BoldItalic-webfont.svg#aleobolditalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

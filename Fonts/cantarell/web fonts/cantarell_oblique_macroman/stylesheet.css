@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'cantarelloblique';
+    src: url('Cantarell-Oblique-webfont.eot');
+    src: url('Cantarell-Oblique-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Cantarell-Oblique-webfont.woff') format('woff'),
+         url('Cantarell-Oblique-webfont.ttf') format('truetype'),
+         url('Cantarell-Oblique-webfont.svg#cantarelloblique') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

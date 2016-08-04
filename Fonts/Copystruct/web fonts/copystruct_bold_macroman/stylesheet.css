@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'copystructbold';
+    src: url('COPYB___-webfont.eot');
+    src: url('COPYB___-webfont.eot?#iefix') format('embedded-opentype'),
+         url('COPYB___-webfont.woff') format('woff'),
+         url('COPYB___-webfont.ttf') format('truetype'),
+         url('COPYB___-webfont.svg#copystructbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

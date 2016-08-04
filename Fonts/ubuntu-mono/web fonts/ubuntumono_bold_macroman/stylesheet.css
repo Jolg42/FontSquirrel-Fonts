@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'ubuntu_monobold';
+    src: url('UbuntuMono-B-webfont.eot');
+    src: url('UbuntuMono-B-webfont.eot?#iefix') format('embedded-opentype'),
+         url('UbuntuMono-B-webfont.woff') format('woff'),
+         url('UbuntuMono-B-webfont.ttf') format('truetype'),
+         url('UbuntuMono-B-webfont.svg#ubuntu_monobold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

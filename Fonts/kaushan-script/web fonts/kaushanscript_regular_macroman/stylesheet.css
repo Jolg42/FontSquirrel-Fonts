@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'kaushan_scriptregular';
+    src: url('KaushanScript-Regular-webfont.eot');
+    src: url('KaushanScript-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('KaushanScript-Regular-webfont.woff') format('woff'),
+         url('KaushanScript-Regular-webfont.ttf') format('truetype'),
+         url('KaushanScript-Regular-webfont.svg#kaushan_scriptregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'karatulanormal';
+    src: url('KARAN___-webfont.eot');
+    src: url('KARAN___-webfont.eot?#iefix') format('embedded-opentype'),
+         url('KARAN___-webfont.woff') format('woff'),
+         url('KARAN___-webfont.ttf') format('truetype'),
+         url('KARAN___-webfont.svg#karatulanormal') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

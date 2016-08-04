@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'quattrocento_sansbold_italic';
+    src: url('QuattrocentoSans-BoldItalic-webfont.eot');
+    src: url('QuattrocentoSans-BoldItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('QuattrocentoSans-BoldItalic-webfont.woff') format('woff'),
+         url('QuattrocentoSans-BoldItalic-webfont.ttf') format('truetype'),
+         url('QuattrocentoSans-BoldItalic-webfont.svg#quattrocento_sansbold_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

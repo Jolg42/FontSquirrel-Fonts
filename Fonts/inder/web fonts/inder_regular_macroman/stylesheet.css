@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'inderregular';
+    src: url('Inder-Regular-webfont.eot');
+    src: url('Inder-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Inder-Regular-webfont.woff') format('woff'),
+         url('Inder-Regular-webfont.ttf') format('truetype'),
+         url('Inder-Regular-webfont.svg#inderregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

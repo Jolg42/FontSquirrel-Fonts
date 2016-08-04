@@ -1,0 +1,433 @@
+FONTLOG
+
+Kelvinch font family
+====================
+
+	by Paul J. Miller (with help from others)
+
+Status
+------
+
+Kelvinch is a free font, free in the sense of free of restrictions and DRM but also free in the sense of cost.
+
+Under the terms of the license you may use Kelvinch in any kind of publication, print or electronic, without fees or restrictions.  You may modify the font for your own use. You may distribute your modified version in accordance with the terms of the SIL license.
+
+You may use Kelvinch for any purpose including commercial usage.
+
+Kelvinch is licensed under the SIL Open Font License: for the full text, go to http://scripts.sil.org/OFL.  It was also originally intended to be licensed under the GNU GPL (with the font exception).  These two licenses are compatible with each other.
+
+Without the font exception in GNU GPL you would be required to release any publications you write using Kelvinch into the public domain.  With the font exception you can release any publications you produce under any license terms you want.  You may use it for your latest book and sell the book either on paper or in electronic form without any restrictions or requirements.
+
+The only thing you may NOT do is sell the font on its own as a standalone font.
+
+Kelvinch may not be the best choice of font for all occasions.  If you are producing an electronic document for someone else and they don't have Kelvinch installed on their system the document won't be rendered correctly especially if you have used any of the characters from the Private Use Area.  However you are free to give them a copy of Kelvinch so they can install it on their system.  If you are going to do this it would be better to give them the .ZIP file you downloaded, but this is not a requirement because the .OTF files contain the license information within the relevant fields of the font file itself.
+
+Kelvinch may be embedded in a .PDF file without any restrictions.
+
+Another problem might arise if Kelvinch is used on a Website; Kelvinch has not been made into a WOFF project (this might change in the future, depending on demand) so if you embed Kelvinch into a website it is very likely that the computer viewing the website doesn't have Kelvinch installed and so the web page will be rendered incorrectly.
+
+
+Compatibility
+-------------
+
+If the application you are using doesn't support Unicode then you will only be able to use a subset of the first 256 characters of Kelvinch.
+
+If the application you are using claims to support Unicode then it will certainly support 16 bit characters and probably support 32 bit characters as well.  Newer applications are getting better at supporting Unicode but some applications still only support 16 bit characters.  Fortunately most of Kelvinch has 16 bit encoding and the few characters that are 32 bit have been given aliases in the Private Use Area and so are still accessible.
+
+If you are using Windows 7, make sure you have the Service Pack 1 installed. It fixes some problems with Unicode text rendering.
+
+Many applications now have support for open type features, Kelvinch has a few open type features and will get more as I learn how to implement them.
+
+
+Description
+-----------
+
+Kelvinch is the result of about one year of work in my spare time.  Although Kelvinch is meant for body text I have endeavoured to make the characters as aesthetically pleasing as possible without compromising its objective to be comfortable to read in long texts.
+
+It comes in Regular, Italic, Bold and Bold Italic faces.
+
+Kelvinch started out as a font just for me, my very own personal font, I had been searching for a font which satisfied my own requirements for design and coverage for many years.  Many fonts tick some of the boxes but none ticked all the boxes and so it was in January 2015 that I became aware of Font Forge (https://fontforge.github.io/en-US/) and started to create the font which I wanted.  I have always been attracted to Baskerville style fonts and also Venetian style fonts, Kelvinch contains features from both of these.
+
+It started out as my own personal font but somewhere along the way that changed and other people became interested in it and I took the decision to try to make it good enough that I wouldn't be embarrassed to know that other people were using it.  I never once considered selling it.
+
+About five months into the development I bought a commercial font editor program, Font Creator (http://www.high-logic.com/).  This was a good move, Font Creator has much more extensive facilities, editing characters is far easier in Font Creator than in Font Forge and there are many helpful people on the Font Creator forum.  The development process became a lot quicker from that point on.  You can do everything you need to do in Font Forge but it is a lot more work and a lot slower.
+
+At first it was just intended to implement the basic A-Z, a-z, numbers and a few punctuation marks.  But then there are the accented characters, I started adding extra characters so that my wife could type in her native language if she wanted to.  Then I added more so that other people I know could type in their native languages but at this point I didn't know which ones would be most useful to people so basically I just kept adding characters until I had added all the characters in a block.  Then there were the Mathematical Operators which I would have found very useful when I was doing my degree.  The font mandated by the university for writing papers and projects was 'Times New Roman' and that doesn't have a great coverage of the block $2200 to $22FF so I had to keep switching fonts.
+
+I am one of those people whom make collections of things.  And when I make a collection I always try to get the complete set, this is bad news when applied to font design because the complete set is enormous.  But I have tried to include those characters which would give it maximum utility to the maximum number of people.
+
+For example I have added Cyrillic, Georgian and Armenian.  There are a lot of people in those countries and by adding these characters I have made the font useful to a great many more people.  Cyrillic is well known and it was easy to get source material which portrays the Cyrillic character set.
+
+Georgian was more difficult but source material is available if you know where to look and the internet is a great research tool.  There are three alphabets in the Georgian language but the most commonly used is the Mkhedruli alphabet.  There are many photographs taken by Russian tourists in Georgia and from the Black Sea coast which show small fragments of the alphabet as it is used in Georgia, usually in the background and sometimes out of focus.  From these I was able to get a good idea of the alphabet and how it relates to the characters which appear in the Unicode standard.  The Unicode standard portrays a good representation of the Mkhedruli alphabet.  I got a good idea of the Asomtavruli alphabet by studying photographs of inscriptions carved in stone in the churches of Georgia, the Unicode standard portrays a good representation of the Asomtavruli alphabet.
+
+The Nuskhuri alphabet was more difficult because it is not in common usage in Georgia at this time, nonetheless it does appear in the Unicode standard in the 'Georgian Supplement' block ($2D00 to $2D2F), I found only a few pieces of source material for this but they were all consistent with each other and not consistent with the Unicode standard, the best one was several scanned pages from a school textbook, I have portrayed these characters as they appear in the source material but cleaned up and made consistent with the other characters of Kelvinch, the Unicode standard portrays a very poor representation of the Nuskhuri alphabet.
+
+As an update to the paragraphs above it has become apparent that the Nuskhuri alphabet and the Asomtavruli alphabet are not used in everyday life in Georgia, they use the Mkhedruli alphabet exclusively, the other two alphabets are leftovers from an earlier age, they are historic and their only current use is for liturgical purposes within the orthodox christian church.  Maybe they should be removed from Kelvinch.
+
+The Armenian alphabet was also difficult but again there was some source material available from an Iranian who has travelled in Armenia and posted his many photographs online, some of which contain background snippets of text in Armenian (but his website is in Arabic and translation facilities on the internet are still somewhat lacking).  From this material I came to the conclusion that the Unicode standard does not give a good representation of the Armenian alphabet as it is used in Armenia.  But the characters were still recognisable.  It is as if the Unicode Committee had taken a fancy oblique sans serif display font and included that in the Unicode standard as a representation of the basic latin alphabet.  I have done the alphabet as I believe it to be used in Armenia, if you are Armenian and you think I have done it wrong then please get in touch and let me know.
+
+I have added far more than I ever intended to do at the start.  Was it worth it?  I don't know, I think I will probably be happy no matter what the outcome, for all I know it might be a total flop and get a small handful of downloads, then it will just be my very own personal font and I will have no regrets, it will still have been worth it.  However if someone else benefits from using this font then that will be so much better.  I am in the fortunate position that I can give it away and I still have it.
+
+If there is a demand for a specific character or characters then I will consider adding them, this does not mean that I will add every character that anyone asks for, but if there is a demand from several people then I will look into the practicality of adding them if I feel like it.
+
+There is a lot which I did not add, you will find no Arabic, Hebrew, Japanese, Chinese or Korean.  Some of these character sets are enormous and would be a lifetimes work to add, but for all of them I don't know what a true representation looks like and so I might end up making what I consider to be a subtle change to a character which might totally change the meaning to a native speaker, adding characters when you don't know what they should look like is a minefield.  If anyone wants to extend Kelvinch with their own native character set then be my guest.  You can even send me a copy and if I am satisfied that the added characters are authentic I will add your character set to the main Kelvinch.
+
+There is no monetary reward but you will be named as a co-author.
+
+Kelvinch is a Modified Version of Gentium Book Basic, although all the characters have been HEAVILY modified and do not resemble Gentium at this point, some of the punctuation and other symbols may still resemble the original Gentium.  
+
+The Panose numbers have been modified from Gentium, I believe them to be the correct numbers for Kelvinch but working out Panose numbers is quite difficult.
+
+The Greek alphabet was ripped from Gentium Plus then heavily modified.
+
+I added the mathematical symbols and Letterlike symbols, and one or two other characters.
+
+Many dingbats, geometric shapes and other symbols copied from the Pali font by Bhikkhu Pesala.
+
+These characters appear by kind permission of  :-
+
+Bhikkhu Pesala - http://www.softerviews.org/Fonts.html 
+
+Many thanks to Bhikkhu Pesala.
+
+
+_________________________________________________
+This font was made in Sheffield, South Yorkshire!
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+
+Change Log
+---------
+(This should list both major and minor changes, most recent first.)
+
+8 May 2016
+
+	I did a new advert for Kelvinch but this time I didn't use Inkscape, I used Libre Office Draw.  This exported to bitmap and kept it's kerning.
+
+7 May 2016
+
+	Finished the Open Type features to correctly handle the Dutch IJ digraph.  Also changed the fist symbol ($270A) in the bold and bold italic fonts to make it into a fist with it's middle finger extended, this is a rude sign but I hope it will be useful to some people, most people won't even notice that it's there.  Altered the version number to 3.2
+
+3 & 5 May 2016
+
+	Put in some Open Type features to alter the Cyrillic italics for Serbian and Macedonian.
+
+28 April to 1 May 2016
+
+	Re-kerned all four fonts.
+
+26 April 2016
+
+	Corrected some width issues which had been criticised on Reddit.
+
+23 & 24 April 2016
+
+	Re-designed the curve of the n,m,h and u for the upright fonts based on feedback from Reddit which I thought was valid.  However the design of the lower case a for the upright fonts remains the same as I thought the criticism was unjustified, yes it may look different but if all fonts looked the same then type designers would be out of a job.  I think it looks OK.  However the curved crossbar on the capital A was universally unpopular in the feedback I received so I straightened it, it is a pity because Kelvinch has lost some of it's unique character, however unique character is not always a good thing in a font for body text, too much character can get tiresome very quickly.
+
+16 April 2016
+
+	I was wrong about 3.1 being the final version.
+	
+	My son did some promotion of my font without telling me beforehand.  He posted some comments on a website called 'Reddit' in a section frequented by professional typographers.  There were many comments, most discussion was about the Kerning on the advert I did.  The advert was done in Inkscape and in Inkscape ti was properly kerned, when exported to PDF it was properly kerned, when printed on paper it was properly kerned, when exported to a bitmap it lost it's kerning and I didn't notice until I had already uploaded it.  The download page for Kelvinch had only had about twenty views since the upload, this suddenly went up to hundreds per hour.
+
+14 April 2016
+
+	Uploaded the new version 3.1 to the Deviant Art website.  Everything is fixed and hopefully this is the final version.
+
+13 April 2016
+
+	There has been some criticism of the placement of diacritic marks within Kelvinch, in particular that they don't need to be so high especially for the double diacritics mainly within the 'Latin Extended Additional' block.  I have spent some time re-positioning the diacritic marks.  Erwin also came through with a tweaked version of Font Creator, so hopefully I should be able to create the final version of Kelvinch today.
+
+5 April 2016
+
+	I was informed by Erwin Denissen that there was a corrupt sub table in the kerning tables.  He is going to update his software so it can cope with Kelvinch.  I was also informed that one of the Cyrillic characters has it's descender misplaced (fixed).
+
+2 & 3 April 2016
+
+	Tested Kelvinch on various applications.  Tested the kerning using the 'Kern King' text formatted in 20 point Kelvinch, then Bold, Italic and Bold-Italic, then the same in 11 point.  Made a few minor adjustments to the kerning.  I should have used 'Kern King' to set the bearings after the Optical Metrics instead of various random word documents.  Never mind I will know for next time.
+
+	Decided to license the font using only the SIL Open Font License, this is because the text in the license field of the font is the SIL License and it would be awkward to add the extra text and change everything now.  The SIL License is equivalent to the GNU GPL anyway (except that is a little more concise) so there is little point in having both.
+
+31 March 2016 & 1 April 2016
+
+	Finished culling the useless combinations in Bold, Italic and Bold-Italic.  Noticed a few mistakes and anomalies, fixed them all.  Finished about 1:30 am thus this font was completed on 1st April, an auspicious day to complete such a venture.
+
+29 March 2016
+
+	Finished culling useless combinations in Bold-Italic.  Corrected some mistakes in all four fonts.  Re-generated the superscript and subscript numbers 6, 8 and 9 which hadn't been updated when the numbers 6, 8 and 9 were edited in February.  Altered the italic and bold italic oi ligature to more closely resemble the rest of the italic characters.
+
+26 & 27 March 2016
+
+	Generated Auto Kerning several times with different parameters until I got a set which covered most combinations without generating too many pairs then set about culling the useless ones.  Meanwhile tested the unkerned version on various applications.
+
+24 March 2016
+
+	Added the petite caps open type feature to the fonts.  Discovered and corrected several mistakes.  Completed the fractions open type feature.  Added the apple logo character ($F000) and had some fun with the italic variants.  Tested the fonts in MS Word.  Added the power connector symbols at $F8DE and $F8DF and added the USB symbol at $F8E0.
+	
+	All appears to be well.  I will upload the fonts to the High Logic Forum and see what mistakes they can find which I have missed.
+
+22 March 2016
+
+	The Ligature combinations have now been completed.  All that remains is to add open type features to give access to these ligatures and other features like small caps and fractions.  I have already added some fractions to the Roman font following the instructions in Bhikkhu Pesala's video tutorial.  I need to add more then add them in the Italic, Bold and Bold-Italic fonts.  I need to find out more about Open Type designer in Font Creator, unfortunately the documentation for Open Type Designer is introductory and not very comprehensive.  I hope this changes in future.
+
+21 March 2016
+
+	More testing done, another mistake found and fixed.  Also evened out the weights of some of the small capitals.
+
+19 & 20 March 2016
+
+	During testing several mistakes were found and corrected.  I have noticed that after correcting the e and c lower case italics the lower case s now looks out of place so it has also been re-designed, that makes yet another complete re-design of the lower case italic character set. But I do think that they now look OK.  Of course the reversed lower case s in Cyrillic also had to be re-designed because a simple reflected s made all the contrasts wrong.  Oh well ...
+	
+	Also re-designed the Upper and lower case Schwa characters, the Schwa is not just a lower case turned e, it is an important character in Cyrillic but has an even greater importance in the latin alphabet as used in some of the pan-turkik languages (Uyghur, Uzbek, Kazakh, Bashkir, Tartar and Azerbaijani) so it is only fair that I should lavish some attention on it.  In particular the italic schwa which was challenging to get right.  I think that the current one is now correct and fits with the rest of the italic characters.
+
+15 & 17 March 2016
+
+	Re designed lower case e and c italics, these characters had been left mostly unchanged when many of the other lower case italics had been modified.  The rest of the lower case italics have evolved into something better than they were when they started out.  The starting point was just a slanted version of the normal characters (except for the f).  The rest of the italic characters are now acceptable but for a long time I failed to see that they were diverging from the design of the e and the c.  Its funny how you can fail to notice something which develops slowly, I had become accustomed to the appearance of the e and the c and failed to notice how different they were.  Now I realise that they look as though they come from a different font.  The re design makes them look a lot more like the rest of the lower case italic characters.
+	
+	Of course this had consequences for the other related characters like the æ ligature and the œ ligature and also the characters :- ƈ ɕ ͻ.
+
+5 to 13 March 2016
+
+	Went through many non latin characters setting up the bearings.  Added the Power Symbols in the place they are likely to be added in the next iteration of the Unicode Standard.  They were highlighted in red because they are not yet standard characters.  The next iteration of Unicode comes out in June but at this rate Kelvinch will not be finished by June so there is no problem.  If the Unicode committee put the power symbols somewhere else then I will just move them to the appropriate place.
+
+3 March 2016
+
+	Corrected some spacing and bearings issues.  Corrected the position of some diacritic marks.
+
+1 March 2016
+
+	Tested Kelvinch on MS Word, Inkscape and Libre Office using long texts and the 'Kern King' text.
+
+27 & 28 February 2016
+
+	Re- designed the numbers 6, 8 and 9 for all fonts, re-designed lower case italic 'g' and put the Runes back in.  The italic g was challenging because I didn't know what end result I was aiming for, I started out with the idea of making it a script g without the closed bowl at the bottom but kept on extending the descender round in a spiral and then a loop until it eventually met with the upper bowl so it is now back as a two bowl g but the design is quite different from the upright font.
+	
+	Added the euro currency symbol to all fonts just for completeness, it is never used.
+
+	I have decided that the second font (with added MUFI) will only be developed if Kelvinch becomes popular.
+
+25 February 2016
+
+	I came to a decision today.
+	
+	I was going to build the ultimate font.
+
+	One font to rule them all,
+	One font in which to find them,
+	One font to bring them all,
+	and in a ligature bind them.
+	
+	But it doesn't work!  It's too big.
+
+	That MUFI specification contains a terrible large count of characters.  Let's not be hasty, barr rarr rhum ...
+
+	I think it more sensible to split Kelvinch into two fonts both identical except for the coverage.
+
+	Kelvinch will have Cyrillic, Georgian, Armenian, Miscellaneous symbols and a few other things but not the MUFI characters or the Runes.
+
+	The new font which has yet to be named will not have Cyrillic, Georgian, Armenian, Miscellaneous symbols and Geometric shapes but will contain MUFI, Ancient Symbols, Gothic and Alchemical Symbols.  If Kelvinch is a flop then I will just add the runes back in and not develop the new font.
+
+	I made a copy of Kelvinch as it was at the beginning of the evening, then I deleted the Runes and the Ancient Symbols and all the MUFI characters in the Private Use Area.  That means Kelvinch is largely finished apart from a bit of a tidy up and adding some kerning pairs.
+
+23 February 2016
+
+	I stayed up editing glyphs until 2:30 am but all the glyphs from Unicode which I intended to add are all finished.  The only characters left to add are the MUFI characters.  The only problem is that there are an awful lot of MUFI characters.  Is it worth adding them, I will have to think about that, they would only benefit a small number of people.
+
+16 to 21 February 2016
+
+	Latin Extended - D block has now been cleaned up, so has the Alphabetic Presentation forms.  Next task is the Ancient Symbols block.  Tested Kelvinch on MS Word
+
+13 & 14 February 2016
+
+	The Georgian Supplement block has been cleaned up and the Latin Extended - D block is now being cleaned up.
+	
+	There is still a question which remains about the MUFI characters.  I have been adding characters from the MUFI 3.0 specification but now a new specification has come out, MUFI 4.0 with many new characters.  There are an awful lot of MUFI characters.  If I decide to add them all then I can imagine that before I finish a MUFI 5.0 specification with even more characters might be released, I would be forever playing catch-up.
+	
+	I don't even know if anyone will use the MUFI characters, so I will stick with what I have for now and if there are any requests for Kelvinch to be MUFI compliant then I may add more characters in the future.  If nobody notices their absence then they were obviously not needed.
+
+11 February 2016
+
+	It has come to my attention that German character Double S ($DF) and German Sharp S ($1E9E) are not the same even though most fonts which implement Sharp S do it as a copy of Double S.  Sharp S is actually the upper case rendition of Double S.  Spent all evening making up a glyph for Sharp S in all four fonts.  The letter double S is actually a ligature of long s (ſ $17F) and round s (normal s).
+
+9 February 2016
+
+	Started cleaning up the Georgian Supplement block, this is slow because it was only really implemented on the Roman font, the italic fonts were just copied and made oblique and the bold font is just a straight copy.  So I started making the Bold bold and the italics true italics.
+
+6 & 7 February 2016
+
+	Cleanup operation now reached the end of the Miscellaneous Mathematical Symbols-B block which is only very sparsely populated.  The Miscellaneous Symbols block and the Dingbats block were already very good, I just went through inspecting them.  I did make one change to the skidding car symbol ($26D0) which made it more like the English road sign (but only on two of the fonts) and altered the ferry symbol ($26F4).
+
+4 February 2016
+	Finished the cleanup on the Letterlike Symbols.  The following blocks were largely done and complete so there was not much to do. Mathematical Operators, Miscellaneous Technical, Number Forms and Arrows were trivial to do because the work had already been done so the cleanup has advanced to the end of the Miscellaneous Technical block.
+
+2 February 2016
+	Started adding some of the MUFI characters from the private use area to the Roman font.  Kelvinch will not be fully MUFI compliant, there are too many characters, I am only adding the stand alone characters, I am not adding those which can be made by a combination of a standalone character and a combining diacritic.  If there is more than one person who asks for these characters to be included then I will consider it.  Cleanup has now reached $213A the sideways Q.
+
+30 & 31 January 2016
+	Spent some time working through the Letterlike Symbols.  Cleanup process has reached $211E the Prescription Take character which I think should be a 'P' & 'x' ligature rather than an 'R' with a stoke across it's leg.
+
+28 January 2016
+	Finished off the currency symbols and started cleaning up the Letterlike Symbols ($2100 to $214F).
+
+26 January 2016
+	The Superscripts and Subscripts section has already been cleaned up previously, examined it and corrected one mistake then went on to currency symbols, already added some unnecessary symbols for WGL4 so I added most of the others except for the Euro Currency symbol which was a mistake and which nobody uses, if you do need it then I will be happy to add it, just drop me an e-mail.
+
+23 & 24 January 2016
+	The cleanup operation has now reached the end of General Punctuation ($2000 to $206F) had some fun finding images of the Trionian Et ($204A) eventually decided to implement it as a 'z' character with the lower terminal turned into a hook,  also re-designed the two characters 'Left Facing Black Bullet' and 'Right Facing Black Bullet' ($204C and $204D), I decided to have some fun with them, enjoy! :)
+
+21 January 2016
+	Decided to add Box Drawing ($2500 to $257F) characters and the Block Elements ($2580 to $259F) characters partly to annoy someone called Tim but mostly because it makes Kelvinch compatible with Windows Glyph List 4 (https://en.wikipedia.org/wiki/Windows_Glyph_List_4).  As these characters are not necessary for any other reason I will not fill the blocks but just implement the minimum necessary number of characters to achieve compliance.  Also had to implement the Franc, Lira and Peseta characters for the same reason.  Kelvinch now contains all the characters on WGL4 (and one or two other characters which aren't in WGL4 :) .
+
+12 January 2016
+	Cleanup has now reached the end of the Latin Extended Additional ($1E00 to $1EFF).  Began filling out the Technical Symbols block ($2300 to $23FA) but am not going to do the Dentistry symbols or the APL symbols.
+
+9 January 2016
+	Re-designed the pointy hands ($261A to $261F).  The clean-up operation has now reached the end of Georgian ($10FF).
+
+6 January 2016
+	Re-designed Reference Mark ($203B) and Dotted Cross ($205C) to make them look more medieval, the cross was taken from the Celtic Rune character $16ED but made curvier.  The re-cycling symbols ($2673 to $2679) added lettering below each symbol to conform to current packaging standards.
+
+5 January 2016
+	On a whim, re-designed the Ampersand ($26) for the italic fonts to resemble the Et ligature used in some fonts.  Previously it was just an oblique copy of the upright ampersand.
+
+4 January 2016
+	The cleanup has now reached the end of the Cyrillic character set $4FF
+
+30 December 2015
+	Spent the last few days tidying up the Mathematical Operators section ($2200 to $22FF).
+
+23 December 2015
+	Tidied up the Greek and Coptic characters ($370 to $3FF), added Coptic characters to all four fonts.
+
+18 December 2015
+	Got some time off work over Christmas and the New Year, much to the disgust of my spouse I am spending the time working on the font all day and some evenings.  This font has taken up too much of my time and already I just want it to be finished.  I am starting to get fed up with font editing.  But I have learned a lot about typography, character sets from around the world and even a little bit about history and culture this past year.
+
+14 December 2015
+	Tidy up has reached the end of the Spacing Modifier Letters ($2FF)
+
+5 December 2015
+	Tidy up process now at character lowercase qp digraph ($239).
+
+29 November 2015
+	Tidy up process now at character lowercase kra ($138). 
+
+21 & 22 November 2015
+	Added more 'Letterlike Symbols' and 'Technical Symbols'
+
+19 November 2015
+	Tidy up process now at character capital Eth ($D0). 
+
+17 November 2015
+	Added more math symbols.
+
+14 & 15 November 2015
+	Added Number Forms ($2150 to $218F), surprisingly easily, they are almost all composites.
+
+10 & 12 November 2015
+	Re-edited subscripts and superscripts across all four fonts so that they are all the same sizes and are all in the same positions.  This makes it much simpler to implement fractions as composite glyphs.
+
+7 November 2015
+	Tidy up process has reached lowercase z.
+
+5 November 2015
+	Started adding Runic characters to Kelvinch to make it more MUFI (http://folk.uib.no/hnooh/mufi/) compatible.
+
+3 November 2015
+	Started tidying up Glyphs starting from the beginning and removing any inconsistencies between the four fonts (Roman, Italic, Bold and Bold-Italic).  Also tidying up and taking out un-necessary control points to simplify the glyphs.  Composite glyphs will be much quicker and simpler to tidy up than simple glyphs.  Also the Roman font has raced ahead of the other three, many of the higher numbered glyphs are only implemented in the Roman font.  The cleanup process will make sure the glyphs are implemented consistently in all four fonts.
+
+1 November 2015
+	Copied Cyrillic characters into the Italic font and made them oblique.  Then started modifying them to be a true italic rather than just an oblique form of the Roman font.
+
+31 October 2015
+	Finished adding Cyrillic, Georgian and Armenian alphabets to Kelvinch Roman, the ones in italic, bold and bold-italic are still blank.
+
+8 October 2015
+	Started adding Cyrillic, Georgian and Armenian alphabets to Kelvinch.  All the actual characters have been added but most of them are just blank glyphs at this stage.
+
+6 October 2015
+	Uploaded the new version to the forum. But only the Roman version as the Bold, Italic and Bold-Italic versions have started to lag behind the Roman version.
+
+27 September 2015
+	Copied (by copy and paste) the blocks 'Arrows' ($2190 to $21FF), 'Miscellaneous Technical' ($2300 to $23FF), 'Geometric Shapes' ($25A0 to $25FF), 'Miscellaneous Symbols' ($2600 to $26FF) and 'Dingbats ($2700 to $27BF) from Bhikkhu Pesala's Pali font.  I asked his permission first and he pointed out that under the terms of the license I could do this without his permission but I thought that for such a major chunk of characters I should ask out of courtesy.  If he had said no then I would have respected his wishes.  These additions helped a lot.
+
+22 September 2015
+	Re-designed Yogh characters to look like the characters in the Unicode standard.  Previously they had been clones of the Ezh characters.
+
+13 September 2015
+	Uploaded the new version to the forum.
+
+5 to 12 September 2015
+	Made more corrections and changes based on feedback from the forum.
+
+3 September 2015
+	Re-designed the ligatures and uploaded Kelvinch to the Font creator forum.
+
+1 September 2015
+	Corrected some faults spotted by Bhikkhu Pesala and added some ligatures.
+
+30 August 2015
+	Copied (by Copy and Paste) some of the example characters available in the example font which comes with Font Creator.  These characters include the 'estimated' symbol and the sharp, flat and natural musical symbols from the Miscellaneous Symbols block.
+
+22 August 2015
+	Added more Mathematical Operators.
+
+15 & 16 August 2015
+	Re-designed lower case italics, still not satisfied with their appearance.
+
+2 August to 13 August 2015
+	Adapted Greek characters from Gentium Plus to look more like the native Kelvinch characters. 
+
+2 August 2015
+	Copied (by copy and paste) Greek alphabet from Gentium Plus.
+
+30 July 2015
+	Re-designed the capital Q character , the tail of the Q was never very good. Copied (by hand and eye) the tail of Bhikkhu Pesala's Q from his Balava font, very nice.
+
+4 July 2015
+	Re-designed some italic lower case characters to improve their appearance.
+
+
+From about mid June 2015 onwards Kelvinch was installed on my laptop computer and continually updated as new characters and features were added and was in daily use quite apart from being used for testing with various applications.
+
+
+13 June 2015
+	Started adding more of the Mathematical Operators (block $2200 to $22FF).
+
+6 June 2015
+	Continued to fill out the Latin Extended A and B blocks, Latin-1 Supplement is now almost complete.
+
+16 & 17 May 2015
+	Imported Kelvinch to Font Creator and changed version number to 1.0.  Started adding information to meta data and re-formatted the SIL license which had its line breaks screwed up in the transfer.  Started writing this Fontlog file.  Very little to show for two days work, still getting to know Font Creator.
+
+14 May 2015
+	Bought Font Creator and transferred development of Kelvinch to Font Creator.
+
+April 2015
+	All the good names seem to be taken already, if you think of a name and do a Google search on "<prospective name> font" then it almost always comes up with a hit, this is frustrating.  Adopted the name 'Kelvinch' for the font.  This comes from a suggestion of one of my colleagues at work to name it after my main character in the MMORPG Guild Wars 2 and one of my minor characters in LOTRO.  If you really want to know where the name 'Kelvinch' comes from then send me an E-mail at 'kelvinch@virginmedia.com' and I might explain.  Unsurprisingly this name wasn't taken.  It now has enough characters to be called a working font.
+
+March 2015
+	Added some Math Operators (block $2200 to $22FF) including some symbols copied and pasted from Gentium.
+	Re-designed lower case italics, the result still doesn't look correct when used in body text.
+
+February 2015
+	Completed A-Z, a-z and the numbers.  Copied (copy & pasted) a basic set of punctuation marks and other characters from Gentium.  Started adding extra characters to fill out the font a little.
+
+January 2015
+	Downloaded Font Forge and Gentium, it is more difficult to start with a blank canvas so copied a lot of letters numbers and punctuation from Gentium into my new font (by copy and paste).  This has retrospectively been called version 0.0 it didn't really have and version number at the time.
+
+
+Acknowledgements
+----------------
+(Here is where contributors can be acknowledged. If you make modifications be 
+sure to add your name (N), email (E), web-address (W) and description (D). 
+This list is sorted by last name in alphabetical order.)
+
+N: Paul James Miller
+E: kelvinch@virginmedia.com
+W: https://pauljmiller.wordpress.com/author/pauljmiller/
+D: Original Designer and main contributor.
+
+N: Bhikkhu Pesala
+E: 
+W: http://www.softerviews.org/Fonts.html
+D: Contributed most of the Dingbats, Miscellaneous Symbols, Geometric shapes and Arrows as well as a few other glyphs.

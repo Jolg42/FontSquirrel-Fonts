@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'italiannoregular';
+    src: url('Italianno-Regular-OTF-webfont.eot');
+    src: url('Italianno-Regular-OTF-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Italianno-Regular-OTF-webfont.woff') format('woff'),
+         url('Italianno-Regular-OTF-webfont.ttf') format('truetype'),
+         url('Italianno-Regular-OTF-webfont.svg#italiannoregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

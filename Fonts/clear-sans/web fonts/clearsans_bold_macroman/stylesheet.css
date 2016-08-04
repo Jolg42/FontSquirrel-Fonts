@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'clear_sansbold';
+    src: url('ClearSans-Bold-webfont.eot');
+    src: url('ClearSans-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('ClearSans-Bold-webfont.woff') format('woff'),
+         url('ClearSans-Bold-webfont.ttf') format('truetype'),
+         url('ClearSans-Bold-webfont.svg#clear_sansbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

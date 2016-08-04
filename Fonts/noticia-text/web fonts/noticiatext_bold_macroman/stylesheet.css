@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'noticia_textbold';
+    src: url('NoticiaText-Bold-webfont.eot');
+    src: url('NoticiaText-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('NoticiaText-Bold-webfont.woff') format('woff'),
+         url('NoticiaText-Bold-webfont.ttf') format('truetype'),
+         url('NoticiaText-Bold-webfont.svg#noticia_textbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

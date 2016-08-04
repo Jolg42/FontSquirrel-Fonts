@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'blokletters_balpenbalpen';
+    src: url('Blokletters-Balpen-webfont.eot');
+    src: url('Blokletters-Balpen-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Blokletters-Balpen-webfont.woff') format('woff'),
+         url('Blokletters-Balpen-webfont.ttf') format('truetype'),
+         url('Blokletters-Balpen-webfont.svg#blokletters_balpenbalpen') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

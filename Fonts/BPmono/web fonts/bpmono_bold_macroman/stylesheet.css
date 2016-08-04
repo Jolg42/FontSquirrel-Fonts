@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'bpmonobold';
+    src: url('BPmonoBold-webfont.eot');
+    src: url('BPmonoBold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('BPmonoBold-webfont.woff') format('woff'),
+         url('BPmonoBold-webfont.ttf') format('truetype'),
+         url('BPmonoBold-webfont.svg#bpmonobold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

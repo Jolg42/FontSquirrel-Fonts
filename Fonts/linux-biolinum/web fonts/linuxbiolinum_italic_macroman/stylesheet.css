@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'linux_biolinum_oitalic';
+    src: url('LinBiolinum_RI-webfont.eot');
+    src: url('LinBiolinum_RI-webfont.eot?#iefix') format('embedded-opentype'),
+         url('LinBiolinum_RI-webfont.woff') format('woff'),
+         url('LinBiolinum_RI-webfont.ttf') format('truetype'),
+         url('LinBiolinum_RI-webfont.svg#linux_biolinum_oitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'arsenalbold_italic';
+    src: url('Arsenal-BoldItalic-webfont.eot');
+    src: url('Arsenal-BoldItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Arsenal-BoldItalic-webfont.woff') format('woff'),
+         url('Arsenal-BoldItalic-webfont.ttf') format('truetype'),
+         url('Arsenal-BoldItalic-webfont.svg#arsenalbold_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'portcullionbold';
+    src: url('Portcullion-webfont.eot');
+    src: url('Portcullion-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Portcullion-webfont.woff') format('woff'),
+         url('Portcullion-webfont.ttf') format('truetype'),
+         url('Portcullion-webfont.svg#portcullionbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'old_standard_ttbold';
+    src: url('OldStandard-Bold-webfont.eot');
+    src: url('OldStandard-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('OldStandard-Bold-webfont.woff') format('woff'),
+         url('OldStandard-Bold-webfont.ttf') format('truetype'),
+         url('OldStandard-Bold-webfont.svg#old_standard_ttbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

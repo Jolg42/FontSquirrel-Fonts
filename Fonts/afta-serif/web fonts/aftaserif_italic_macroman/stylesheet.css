@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'afta_serifitalic';
+    src: url('AftaSerifThin-Italic-webfont.eot');
+    src: url('AftaSerifThin-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('AftaSerifThin-Italic-webfont.woff') format('woff'),
+         url('AftaSerifThin-Italic-webfont.ttf') format('truetype'),
+         url('AftaSerifThin-Italic-webfont.svg#afta_serifitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

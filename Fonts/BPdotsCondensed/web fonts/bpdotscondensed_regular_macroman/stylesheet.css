@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'bpdotscondensedregular';
+    src: url('BPdotsCondensed-webfont.eot');
+    src: url('BPdotsCondensed-webfont.eot?#iefix') format('embedded-opentype'),
+         url('BPdotsCondensed-webfont.woff') format('woff'),
+         url('BPdotsCondensed-webfont.ttf') format('truetype'),
+         url('BPdotsCondensed-webfont.svg#bpdotscondensedregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'patua_oneregular';
+    src: url('PatuaOne-Regular-webfont.eot');
+    src: url('PatuaOne-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('PatuaOne-Regular-webfont.woff') format('woff'),
+         url('PatuaOne-Regular-webfont.ttf') format('truetype'),
+         url('PatuaOne-Regular-webfont.svg#patua_oneregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

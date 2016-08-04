@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'gudeaitalic';
+    src: url('Gudea-Italic-webfont.eot');
+    src: url('Gudea-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Gudea-Italic-webfont.woff') format('woff'),
+         url('Gudea-Italic-webfont.ttf') format('truetype'),
+         url('Gudea-Italic-webfont.svg#gudeaitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

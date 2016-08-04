@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'mathletebulky';
+    src: url('Mathlete-Bulky-webfont.eot');
+    src: url('Mathlete-Bulky-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Mathlete-Bulky-webfont.woff') format('woff'),
+         url('Mathlete-Bulky-webfont.ttf') format('truetype'),
+         url('Mathlete-Bulky-webfont.svg#mathletebulky') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

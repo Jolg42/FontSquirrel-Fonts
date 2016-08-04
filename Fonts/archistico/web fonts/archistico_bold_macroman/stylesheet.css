@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'archisticobold';
+    src: url('Archistico_Bold-webfont.eot');
+    src: url('Archistico_Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Archistico_Bold-webfont.woff') format('woff'),
+         url('Archistico_Bold-webfont.ttf') format('truetype'),
+         url('Archistico_Bold-webfont.svg#archisticobold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

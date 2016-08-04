@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'aurulent_sansitalic';
+    src: url('AurulentSans-Italic-webfont.eot');
+    src: url('AurulentSans-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('AurulentSans-Italic-webfont.woff') format('woff'),
+         url('AurulentSans-Italic-webfont.ttf') format('truetype'),
+         url('AurulentSans-Italic-webfont.svg#aurulent_sansitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

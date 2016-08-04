@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'white_rabbitregular';
+    src: url('whitrabt-webfont.eot');
+    src: url('whitrabt-webfont.eot?#iefix') format('embedded-opentype'),
+         url('whitrabt-webfont.woff') format('woff'),
+         url('whitrabt-webfont.ttf') format('truetype'),
+         url('whitrabt-webfont.svg#white_rabbitregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

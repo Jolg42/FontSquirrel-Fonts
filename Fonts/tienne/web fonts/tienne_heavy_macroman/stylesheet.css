@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'tienneheavy';
+    src: url('Tienne-Heavy-webfont.eot');
+    src: url('Tienne-Heavy-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Tienne-Heavy-webfont.woff') format('woff'),
+         url('Tienne-Heavy-webfont.ttf') format('truetype'),
+         url('Tienne-Heavy-webfont.svg#tienneheavy') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'vitamin_outlinedregular';
+    src: url('VITAMINO-webfont.eot');
+    src: url('VITAMINO-webfont.eot?#iefix') format('embedded-opentype'),
+         url('VITAMINO-webfont.woff') format('woff'),
+         url('VITAMINO-webfont.ttf') format('truetype'),
+         url('VITAMINO-webfont.svg#vitamin_outlinedregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'headhunterregular';
+    src: url('Headhunter-Regular-webfont.eot');
+    src: url('Headhunter-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Headhunter-Regular-webfont.woff') format('woff'),
+         url('Headhunter-Regular-webfont.ttf') format('truetype'),
+         url('Headhunter-Regular-webfont.svg#headhunterregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

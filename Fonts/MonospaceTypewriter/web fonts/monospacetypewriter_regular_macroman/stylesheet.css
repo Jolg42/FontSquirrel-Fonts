@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'monospacetypewriterregular';
+    src: url('MonospaceTypewriter-webfont.eot');
+    src: url('MonospaceTypewriter-webfont.eot?#iefix') format('embedded-opentype'),
+         url('MonospaceTypewriter-webfont.woff') format('woff'),
+         url('MonospaceTypewriter-webfont.ttf') format('truetype'),
+         url('MonospaceTypewriter-webfont.svg#monospacetypewriterregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

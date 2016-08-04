@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'cabinsketchbold';
+    src: url('CabinSketch-Bold-webfont.eot');
+    src: url('CabinSketch-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('CabinSketch-Bold-webfont.woff') format('woff'),
+         url('CabinSketch-Bold-webfont.ttf') format('truetype'),
+         url('CabinSketch-Bold-webfont.svg#cabinsketchbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

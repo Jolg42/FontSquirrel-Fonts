@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'francois_oneregular';
+    src: url('FrancoisOne-webfont.eot');
+    src: url('FrancoisOne-webfont.eot?#iefix') format('embedded-opentype'),
+         url('FrancoisOne-webfont.woff') format('woff'),
+         url('FrancoisOne-webfont.ttf') format('truetype'),
+         url('FrancoisOne-webfont.svg#francois_oneregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

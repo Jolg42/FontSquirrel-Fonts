@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'amblelight_condensed_italic';
+    src: url('Amble-LightCondensedItalic-webfont.eot');
+    src: url('Amble-LightCondensedItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Amble-LightCondensedItalic-webfont.woff') format('woff'),
+         url('Amble-LightCondensedItalic-webfont.ttf') format('truetype'),
+         url('Amble-LightCondensedItalic-webfont.svg#amblelight_condensed_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

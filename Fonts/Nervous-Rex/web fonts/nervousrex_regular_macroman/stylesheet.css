@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'nervous_rexregular';
+    src: url('nervous_rex-webfont.eot');
+    src: url('nervous_rex-webfont.eot?#iefix') format('embedded-opentype'),
+         url('nervous_rex-webfont.woff') format('woff'),
+         url('nervous_rex-webfont.ttf') format('truetype'),
+         url('nervous_rex-webfont.svg#nervous_rexregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

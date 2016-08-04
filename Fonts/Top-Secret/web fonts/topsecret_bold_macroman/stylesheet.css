@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'top_secretbold';
+    src: url('Top_Secret-webfont.eot');
+    src: url('Top_Secret-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Top_Secret-webfont.woff') format('woff'),
+         url('Top_Secret-webfont.ttf') format('truetype'),
+         url('Top_Secret-webfont.svg#top_secretbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

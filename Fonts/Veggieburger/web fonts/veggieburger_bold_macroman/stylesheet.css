@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'veggieburgerbold';
+    src: url('VeggiBol-webfont.eot');
+    src: url('VeggiBol-webfont.eot?#iefix') format('embedded-opentype'),
+         url('VeggiBol-webfont.woff') format('woff'),
+         url('VeggiBol-webfont.ttf') format('truetype'),
+         url('VeggiBol-webfont.svg#veggieburgerbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

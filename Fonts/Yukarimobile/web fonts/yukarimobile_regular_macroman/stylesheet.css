@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'yukarimobileregular';
+    src: url('yukarimobil-webfont.eot');
+    src: url('yukarimobil-webfont.eot?#iefix') format('embedded-opentype'),
+         url('yukarimobil-webfont.woff') format('woff'),
+         url('yukarimobil-webfont.ttf') format('truetype'),
+         url('yukarimobil-webfont.svg#yukarimobileregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

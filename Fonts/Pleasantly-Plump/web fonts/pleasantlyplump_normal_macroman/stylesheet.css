@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'pleasantly_plumpnormal';
+    src: url('PLUMP-webfont.eot');
+    src: url('PLUMP-webfont.eot?#iefix') format('embedded-opentype'),
+         url('PLUMP-webfont.woff') format('woff'),
+         url('PLUMP-webfont.ttf') format('truetype'),
+         url('PLUMP-webfont.svg#pleasantly_plumpnormal') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

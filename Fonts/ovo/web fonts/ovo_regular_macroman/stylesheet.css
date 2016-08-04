@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'ovoregular';
+    src: url('Ovo-Regular-webfont.eot');
+    src: url('Ovo-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Ovo-Regular-webfont.woff') format('woff'),
+         url('Ovo-Regular-webfont.ttf') format('truetype'),
+         url('Ovo-Regular-webfont.svg#ovoregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

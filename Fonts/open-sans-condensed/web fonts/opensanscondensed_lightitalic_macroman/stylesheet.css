@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'open_sansCnLtIt';
+    src: url('OpenSans-CondLightItalic-webfont.eot');
+    src: url('OpenSans-CondLightItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('OpenSans-CondLightItalic-webfont.woff') format('woff'),
+         url('OpenSans-CondLightItalic-webfont.ttf') format('truetype'),
+         url('OpenSans-CondLightItalic-webfont.svg#open_sansCnLtIt') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

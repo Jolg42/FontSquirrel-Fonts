@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'garogierregular';
+    src: url('Garogier-webfont.eot');
+    src: url('Garogier-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Garogier-webfont.woff') format('woff'),
+         url('Garogier-webfont.ttf') format('truetype'),
+         url('Garogier-webfont.svg#garogierregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

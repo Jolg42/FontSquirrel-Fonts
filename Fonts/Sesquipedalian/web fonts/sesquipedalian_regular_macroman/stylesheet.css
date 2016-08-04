@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'sesquipedalianregular';
+    src: url('Sesquipedalian-webfont.eot');
+    src: url('Sesquipedalian-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Sesquipedalian-webfont.woff') format('woff'),
+         url('Sesquipedalian-webfont.ttf') format('truetype'),
+         url('Sesquipedalian-webfont.svg#sesquipedalianregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

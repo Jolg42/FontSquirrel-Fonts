@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'tuffybold';
+    src: url('Tuffy_Bold-webfont.eot');
+    src: url('Tuffy_Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Tuffy_Bold-webfont.woff') format('woff'),
+         url('Tuffy_Bold-webfont.ttf') format('truetype'),
+         url('Tuffy_Bold-webfont.svg#tuffybold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

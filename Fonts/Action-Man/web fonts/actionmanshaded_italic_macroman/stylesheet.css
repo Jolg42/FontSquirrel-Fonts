@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'action_man_shadeditalic';
+    src: url('Action_Man_Shaded_Italic-webfont.eot');
+    src: url('Action_Man_Shaded_Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Action_Man_Shaded_Italic-webfont.woff') format('woff'),
+         url('Action_Man_Shaded_Italic-webfont.ttf') format('truetype'),
+         url('Action_Man_Shaded_Italic-webfont.svg#action_man_shadeditalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

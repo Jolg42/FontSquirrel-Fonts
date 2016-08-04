@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'leckerlioneregular';
+    src: url('LeckerliOne-Regular-webfont.eot');
+    src: url('LeckerliOne-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('LeckerliOne-Regular-webfont.woff') format('woff'),
+         url('LeckerliOne-Regular-webfont.ttf') format('truetype'),
+         url('LeckerliOne-Regular-webfont.svg#leckerlioneregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

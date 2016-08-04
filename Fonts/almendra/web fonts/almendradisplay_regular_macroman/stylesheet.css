@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'almendra_displayregular';
+    src: url('AlmendraDisplay-Regular-webfont.eot');
+    src: url('AlmendraDisplay-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('AlmendraDisplay-Regular-webfont.woff') format('woff'),
+         url('AlmendraDisplay-Regular-webfont.ttf') format('truetype'),
+         url('AlmendraDisplay-Regular-webfont.svg#almendra_displayregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

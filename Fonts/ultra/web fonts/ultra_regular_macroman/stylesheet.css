@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'ultraregular';
+    src: url('Ultra-webfont.eot');
+    src: url('Ultra-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Ultra-webfont.woff') format('woff'),
+         url('Ultra-webfont.ttf') format('truetype'),
+         url('Ultra-webfont.svg#ultraregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

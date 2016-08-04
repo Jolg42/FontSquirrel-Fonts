@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'jacques_francoisregular';
+    src: url('JacquesFrancois-Regular-webfont.eot');
+    src: url('JacquesFrancois-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('JacquesFrancois-Regular-webfont.woff') format('woff'),
+         url('JacquesFrancois-Regular-webfont.ttf') format('truetype'),
+         url('JacquesFrancois-Regular-webfont.svg#jacques_francoisregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

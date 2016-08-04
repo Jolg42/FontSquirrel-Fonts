@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'bpreplayitalic';
+    src: url('BPreplayItalics-webfont.eot');
+    src: url('BPreplayItalics-webfont.eot?#iefix') format('embedded-opentype'),
+         url('BPreplayItalics-webfont.woff') format('woff'),
+         url('BPreplayItalics-webfont.ttf') format('truetype'),
+         url('BPreplayItalics-webfont.svg#bpreplayitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

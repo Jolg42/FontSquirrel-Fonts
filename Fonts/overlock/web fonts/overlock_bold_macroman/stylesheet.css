@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'overlockbold';
+    src: url('Overlock-Bold-webfont.eot');
+    src: url('Overlock-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Overlock-Bold-webfont.woff') format('woff'),
+         url('Overlock-Bold-webfont.ttf') format('truetype'),
+         url('Overlock-Bold-webfont.svg#overlockbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

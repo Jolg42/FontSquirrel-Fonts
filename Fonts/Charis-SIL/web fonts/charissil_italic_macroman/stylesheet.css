@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'charis_silitalic';
+    src: url('CharisSILI-webfont.eot');
+    src: url('CharisSILI-webfont.eot?#iefix') format('embedded-opentype'),
+         url('CharisSILI-webfont.woff') format('woff'),
+         url('CharisSILI-webfont.ttf') format('truetype'),
+         url('CharisSILI-webfont.svg#charis_silitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

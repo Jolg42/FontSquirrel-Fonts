@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'signikaregular';
+    src: url('Signika-Regular-webfont.eot');
+    src: url('Signika-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Signika-Regular-webfont.woff') format('woff'),
+         url('Signika-Regular-webfont.ttf') format('truetype'),
+         url('Signika-Regular-webfont.svg#signikaregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

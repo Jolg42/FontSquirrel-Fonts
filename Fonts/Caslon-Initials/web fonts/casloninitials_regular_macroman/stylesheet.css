@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'caslon_initialsregular';
+    src: url('CAS_INIT-webfont.eot');
+    src: url('CAS_INIT-webfont.eot?#iefix') format('embedded-opentype'),
+         url('CAS_INIT-webfont.woff') format('woff'),
+         url('CAS_INIT-webfont.ttf') format('truetype'),
+         url('CAS_INIT-webfont.svg#caslon_initialsregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

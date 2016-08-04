@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'exo_2black';
+    src: url('Exo2-Black-webfont.eot');
+    src: url('Exo2-Black-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Exo2-Black-webfont.woff') format('woff'),
+         url('Exo2-Black-webfont.ttf') format('truetype'),
+         url('Exo2-Black-webfont.svg#exo_2black') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

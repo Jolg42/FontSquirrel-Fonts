@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'destroyregular';
+    src: url('DESTROY_-webfont.eot');
+    src: url('DESTROY_-webfont.eot?#iefix') format('embedded-opentype'),
+         url('DESTROY_-webfont.woff') format('woff'),
+         url('DESTROY_-webfont.ttf') format('truetype'),
+         url('DESTROY_-webfont.svg#destroyregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

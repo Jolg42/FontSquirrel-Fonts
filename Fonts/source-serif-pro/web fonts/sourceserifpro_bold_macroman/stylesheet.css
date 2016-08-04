@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'source_serif_probold';
+    src: url('SourceSerifPro-Bold-webfont.eot');
+    src: url('SourceSerifPro-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('SourceSerifPro-Bold-webfont.woff') format('woff'),
+         url('SourceSerifPro-Bold-webfont.ttf') format('truetype'),
+         url('SourceSerifPro-Bold-webfont.svg#source_serif_probold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

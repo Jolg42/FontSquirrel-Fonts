@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'istokbold';
+    src: url('Istok-Bold-webfont.eot');
+    src: url('Istok-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Istok-Bold-webfont.woff') format('woff'),
+         url('Istok-Bold-webfont.ttf') format('truetype'),
+         url('Istok-Bold-webfont.svg#istokbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

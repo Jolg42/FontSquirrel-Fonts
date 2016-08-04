@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'lemonchickenregular';
+    src: url('LEMONCHI-webfont.eot');
+    src: url('LEMONCHI-webfont.eot?#iefix') format('embedded-opentype'),
+         url('LEMONCHI-webfont.woff') format('woff'),
+         url('LEMONCHI-webfont.ttf') format('truetype'),
+         url('LEMONCHI-webfont.svg#lemonchickenregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

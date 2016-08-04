@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'vitaminregular';
+    src: url('VITAMIN_-webfont.eot');
+    src: url('VITAMIN_-webfont.eot?#iefix') format('embedded-opentype'),
+         url('VITAMIN_-webfont.woff') format('woff'),
+         url('VITAMIN_-webfont.ttf') format('truetype'),
+         url('VITAMIN_-webfont.svg#vitaminregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

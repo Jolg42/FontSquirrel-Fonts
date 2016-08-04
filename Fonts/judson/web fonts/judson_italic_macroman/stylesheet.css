@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'judsonitalic';
+    src: url('Judson-Italic-webfont.eot');
+    src: url('Judson-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Judson-Italic-webfont.woff') format('woff'),
+         url('Judson-Italic-webfont.ttf') format('truetype'),
+         url('Judson-Italic-webfont.svg#judsonitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

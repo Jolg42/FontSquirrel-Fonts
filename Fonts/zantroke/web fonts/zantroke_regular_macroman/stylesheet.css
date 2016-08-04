@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'zantrokeregular';
+    src: url('Zantroke-webfont.eot');
+    src: url('Zantroke-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Zantroke-webfont.woff') format('woff'),
+         url('Zantroke-webfont.ttf') format('truetype'),
+         url('Zantroke-webfont.svg#zantrokeregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

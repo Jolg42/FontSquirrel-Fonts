@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'sinkin_sans900_x_black';
+    src: url('SinkinSans-900XBlack-webfont.eot');
+    src: url('SinkinSans-900XBlack-webfont.eot?#iefix') format('embedded-opentype'),
+         url('SinkinSans-900XBlack-webfont.woff') format('woff'),
+         url('SinkinSans-900XBlack-webfont.ttf') format('truetype'),
+         url('SinkinSans-900XBlack-webfont.svg#sinkin_sans900_x_black') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

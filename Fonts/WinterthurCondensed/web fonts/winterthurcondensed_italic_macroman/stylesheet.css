@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'winterthurcondenseditalic';
+    src: url('WinterthurCondensedOblique-webfont.eot');
+    src: url('WinterthurCondensedOblique-webfont.eot?#iefix') format('embedded-opentype'),
+         url('WinterthurCondensedOblique-webfont.woff') format('woff'),
+         url('WinterthurCondensedOblique-webfont.ttf') format('truetype'),
+         url('WinterthurCondensedOblique-webfont.svg#winterthurcondenseditalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

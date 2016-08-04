@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'minstrelposterwhgregular';
+    src: url('MINSPSW_-webfont.eot');
+    src: url('MINSPSW_-webfont.eot?#iefix') format('embedded-opentype'),
+         url('MINSPSW_-webfont.woff') format('woff'),
+         url('MINSPSW_-webfont.ttf') format('truetype'),
+         url('MINSPSW_-webfont.svg#minstrelposterwhgregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

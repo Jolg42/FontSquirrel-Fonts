@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'profontwindowsregular';
+    src: url('ProFontWindows-webfont.eot');
+    src: url('ProFontWindows-webfont.eot?#iefix') format('embedded-opentype'),
+         url('ProFontWindows-webfont.woff') format('woff'),
+         url('ProFontWindows-webfont.ttf') format('truetype'),
+         url('ProFontWindows-webfont.svg#profontwindowsregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

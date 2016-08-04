@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'grutchshadedregular';
+    src: url('GrutchShaded-webfont.eot');
+    src: url('GrutchShaded-webfont.eot?#iefix') format('embedded-opentype'),
+         url('GrutchShaded-webfont.woff') format('woff'),
+         url('GrutchShaded-webfont.ttf') format('truetype'),
+         url('GrutchShaded-webfont.svg#grutchshadedregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'kreonbold';
+    src: url('Kreon-Bold-webfont.eot');
+    src: url('Kreon-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Kreon-Bold-webfont.woff') format('woff'),
+         url('Kreon-Bold-webfont.ttf') format('truetype'),
+         url('Kreon-Bold-webfont.svg#kreonbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

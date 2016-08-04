@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'dynalightregular';
+    src: url('Dynalight-Regular-webfont.eot');
+    src: url('Dynalight-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Dynalight-Regular-webfont.woff') format('woff'),
+         url('Dynalight-Regular-webfont.ttf') format('truetype'),
+         url('Dynalight-Regular-webfont.svg#dynalightregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'trykkerregular';
+    src: url('Trykker-Regular-webfont.eot');
+    src: url('Trykker-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Trykker-Regular-webfont.woff') format('woff'),
+         url('Trykker-Regular-webfont.ttf') format('truetype'),
+         url('Trykker-Regular-webfont.svg#trykkerregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

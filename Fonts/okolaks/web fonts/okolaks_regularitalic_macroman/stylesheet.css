@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'okolaksregularitalic';
+    src: url('okolaksRegularItalic-webfont.eot');
+    src: url('okolaksRegularItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('okolaksRegularItalic-webfont.woff') format('woff'),
+         url('okolaksRegularItalic-webfont.ttf') format('truetype'),
+         url('okolaksRegularItalic-webfont.svg#okolaksregularitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

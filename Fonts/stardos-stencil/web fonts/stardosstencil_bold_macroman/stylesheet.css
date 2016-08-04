@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'stardos_stencilbold';
+    src: url('StardosStencil-Bold-webfont.eot');
+    src: url('StardosStencil-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('StardosStencil-Bold-webfont.woff') format('woff'),
+         url('StardosStencil-Bold-webfont.ttf') format('truetype'),
+         url('StardosStencil-Bold-webfont.svg#stardos_stencilbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'hvd_peaceregular';
+    src: url('HVD_Peace-webfont.eot');
+    src: url('HVD_Peace-webfont.eot?#iefix') format('embedded-opentype'),
+         url('HVD_Peace-webfont.woff') format('woff'),
+         url('HVD_Peace-webfont.ttf') format('truetype'),
+         url('HVD_Peace-webfont.svg#hvd_peaceregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

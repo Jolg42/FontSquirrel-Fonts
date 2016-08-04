@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'texgyrecursorbold_italic';
+    src: url('texgyrecursor-bolditalic-webfont.eot');
+    src: url('texgyrecursor-bolditalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('texgyrecursor-bolditalic-webfont.woff') format('woff'),
+         url('texgyrecursor-bolditalic-webfont.ttf') format('truetype'),
+         url('texgyrecursor-bolditalic-webfont.svg#texgyrecursorbold_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'arsenalitalic';
+    src: url('Arsenal-Italic-webfont.eot');
+    src: url('Arsenal-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Arsenal-Italic-webfont.woff') format('woff'),
+         url('Arsenal-Italic-webfont.ttf') format('truetype'),
+         url('Arsenal-Italic-webfont.svg#arsenalitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

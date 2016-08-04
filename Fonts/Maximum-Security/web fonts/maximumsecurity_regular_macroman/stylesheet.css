@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'maximum_securityregular';
+    src: url('MAXIMUMSECURITY-webfont.eot');
+    src: url('MAXIMUMSECURITY-webfont.eot?#iefix') format('embedded-opentype'),
+         url('MAXIMUMSECURITY-webfont.woff') format('woff'),
+         url('MAXIMUMSECURITY-webfont.ttf') format('truetype'),
+         url('MAXIMUMSECURITY-webfont.svg#maximum_securityregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

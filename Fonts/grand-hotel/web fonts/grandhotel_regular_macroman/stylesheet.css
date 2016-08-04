@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'grand_hotelregular';
+    src: url('GrandHotel-Regular-webfont.eot');
+    src: url('GrandHotel-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('GrandHotel-Regular-webfont.woff') format('woff'),
+         url('GrandHotel-Regular-webfont.ttf') format('truetype'),
+         url('GrandHotel-Regular-webfont.svg#grand_hotelregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'gandhi_serifbold';
+    src: url('GandhiSerif-Bold-webfont.eot');
+    src: url('GandhiSerif-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('GandhiSerif-Bold-webfont.woff') format('woff'),
+         url('GandhiSerif-Bold-webfont.ttf') format('truetype'),
+         url('GandhiSerif-Bold-webfont.svg#gandhi_serifbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

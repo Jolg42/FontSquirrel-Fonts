@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'share-boldexpregular';
+    src: url('Share-BoldExp-webfont.eot');
+    src: url('Share-BoldExp-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Share-BoldExp-webfont.woff') format('woff'),
+         url('Share-BoldExp-webfont.ttf') format('truetype'),
+         url('Share-BoldExp-webfont.svg#share-boldexpregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

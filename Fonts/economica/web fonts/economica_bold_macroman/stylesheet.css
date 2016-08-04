@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'economicabold';
+    src: url('Economica-Bold-OTF-webfont.eot');
+    src: url('Economica-Bold-OTF-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Economica-Bold-OTF-webfont.woff') format('woff'),
+         url('Economica-Bold-OTF-webfont.ttf') format('truetype'),
+         url('Economica-Bold-OTF-webfont.svg#economicabold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'alegreya_sans_scblack_italic';
+    src: url('AlegreyaSansSC-BlackItalic-webfont.eot');
+    src: url('AlegreyaSansSC-BlackItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('AlegreyaSansSC-BlackItalic-webfont.woff') format('woff'),
+         url('AlegreyaSansSC-BlackItalic-webfont.ttf') format('truetype'),
+         url('AlegreyaSansSC-BlackItalic-webfont.svg#alegreya_sans_scblack_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

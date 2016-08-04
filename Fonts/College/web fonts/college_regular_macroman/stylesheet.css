@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'collegeregular';
+    src: url('COLLEGE-webfont.eot');
+    src: url('COLLEGE-webfont.eot?#iefix') format('embedded-opentype'),
+         url('COLLEGE-webfont.woff') format('woff'),
+         url('COLLEGE-webfont.ttf') format('truetype'),
+         url('COLLEGE-webfont.svg#collegeregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

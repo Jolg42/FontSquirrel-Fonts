@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'water_streetregular';
+    src: url('waterst-webfont.eot');
+    src: url('waterst-webfont.eot?#iefix') format('embedded-opentype'),
+         url('waterst-webfont.woff') format('woff'),
+         url('waterst-webfont.ttf') format('truetype'),
+         url('waterst-webfont.svg#water_streetregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

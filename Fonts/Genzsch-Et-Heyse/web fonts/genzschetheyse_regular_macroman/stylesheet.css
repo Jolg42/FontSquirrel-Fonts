@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'genzsch_et_heyseregular';
+    src: url('GenzschEtHeyse-webfont.eot');
+    src: url('GenzschEtHeyse-webfont.eot?#iefix') format('embedded-opentype'),
+         url('GenzschEtHeyse-webfont.woff') format('woff'),
+         url('GenzschEtHeyse-webfont.ttf') format('truetype'),
+         url('GenzschEtHeyse-webfont.svg#genzsch_et_heyseregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

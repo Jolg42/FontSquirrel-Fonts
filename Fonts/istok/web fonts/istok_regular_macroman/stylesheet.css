@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'istokregular';
+    src: url('Istok-Regular-webfont.eot');
+    src: url('Istok-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Istok-Regular-webfont.woff') format('woff'),
+         url('Istok-Regular-webfont.ttf') format('truetype'),
+         url('Istok-Regular-webfont.svg#istokregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

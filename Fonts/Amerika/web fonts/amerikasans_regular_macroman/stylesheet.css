@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'amerika_sansregular';
+    src: url('AMERSN__-webfont.eot');
+    src: url('AMERSN__-webfont.eot?#iefix') format('embedded-opentype'),
+         url('AMERSN__-webfont.woff') format('woff'),
+         url('AMERSN__-webfont.ttf') format('truetype'),
+         url('AMERSN__-webfont.svg#amerika_sansregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

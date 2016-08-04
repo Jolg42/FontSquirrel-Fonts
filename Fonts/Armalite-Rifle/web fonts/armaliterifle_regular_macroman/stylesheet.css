@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'armalite_rifleregular';
+    src: url('armalite_rifle-webfont.eot');
+    src: url('armalite_rifle-webfont.eot?#iefix') format('embedded-opentype'),
+         url('armalite_rifle-webfont.woff') format('woff'),
+         url('armalite_rifle-webfont.ttf') format('truetype'),
+         url('armalite_rifle-webfont.svg#armalite_rifleregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

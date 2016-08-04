@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'gudeabold';
+    src: url('Gudea-Bold-webfont.eot');
+    src: url('Gudea-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Gudea-Bold-webfont.woff') format('woff'),
+         url('Gudea-Bold-webfont.ttf') format('truetype'),
+         url('Gudea-Bold-webfont.svg#gudeabold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

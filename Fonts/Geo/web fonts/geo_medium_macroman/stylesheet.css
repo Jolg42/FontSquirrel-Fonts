@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'geomedium';
+    src: url('Geo-webfont.eot');
+    src: url('Geo-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Geo-webfont.woff') format('woff'),
+         url('Geo-webfont.ttf') format('truetype'),
+         url('Geo-webfont.svg#geomedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

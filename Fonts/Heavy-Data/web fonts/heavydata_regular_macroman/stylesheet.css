@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'heavy_dataregular';
+    src: url('heavy_data-webfont.eot');
+    src: url('heavy_data-webfont.eot?#iefix') format('embedded-opentype'),
+         url('heavy_data-webfont.woff') format('woff'),
+         url('heavy_data-webfont.ttf') format('truetype'),
+         url('heavy_data-webfont.svg#heavy_dataregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

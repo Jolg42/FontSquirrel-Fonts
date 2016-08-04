@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'sansationbold';
+    src: url('Sansation-Bold-webfont.eot');
+    src: url('Sansation-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Sansation-Bold-webfont.woff') format('woff'),
+         url('Sansation-Bold-webfont.ttf') format('truetype'),
+         url('Sansation-Bold-webfont.svg#sansationbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

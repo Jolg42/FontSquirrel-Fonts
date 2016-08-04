@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'permianseriftypefaceregular';
+    src: url('PermianSerifTypeface-webfont.eot');
+    src: url('PermianSerifTypeface-webfont.eot?#iefix') format('embedded-opentype'),
+         url('PermianSerifTypeface-webfont.woff') format('woff'),
+         url('PermianSerifTypeface-webfont.ttf') format('truetype'),
+         url('PermianSerifTypeface-webfont.svg#permianseriftypefaceregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

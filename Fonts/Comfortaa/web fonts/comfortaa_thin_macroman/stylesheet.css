@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'comfortaathin';
+    src: url('Comfortaa_Thin-webfont.eot');
+    src: url('Comfortaa_Thin-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Comfortaa_Thin-webfont.woff') format('woff'),
+         url('Comfortaa_Thin-webfont.ttf') format('truetype'),
+         url('Comfortaa_Thin-webfont.svg#comfortaathin') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

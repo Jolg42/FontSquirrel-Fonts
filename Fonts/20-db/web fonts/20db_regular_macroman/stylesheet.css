@@ -1,0 +1,12 @@
+@font-face {
+    font-family: '20_dbregular';
+    src: url('20db-webfont.eot');
+    src: url('20db-webfont.eot?#iefix') format('embedded-opentype'),
+         url('20db-webfont.woff') format('woff'),
+         url('20db-webfont.ttf') format('truetype'),
+         url('20db-webfont.svg#20_dbregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

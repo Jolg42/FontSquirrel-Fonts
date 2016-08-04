@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'frente_h1regular';
+    src: url('FrenteH1-Regular-webfont.eot');
+    src: url('FrenteH1-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('FrenteH1-Regular-webfont.woff') format('woff'),
+         url('FrenteH1-Regular-webfont.ttf') format('truetype'),
+         url('FrenteH1-Regular-webfont.svg#frente_h1regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

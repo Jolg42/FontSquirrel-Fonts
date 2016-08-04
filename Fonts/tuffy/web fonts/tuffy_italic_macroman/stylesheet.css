@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'tuffyitalic';
+    src: url('Tuffy_Italic-webfont.eot');
+    src: url('Tuffy_Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Tuffy_Italic-webfont.woff') format('woff'),
+         url('Tuffy_Italic-webfont.ttf') format('truetype'),
+         url('Tuffy_Italic-webfont.svg#tuffyitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

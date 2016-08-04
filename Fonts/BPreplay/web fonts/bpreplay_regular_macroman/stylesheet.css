@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'bpreplayregular';
+    src: url('BPreplay-webfont.eot');
+    src: url('BPreplay-webfont.eot?#iefix') format('embedded-opentype'),
+         url('BPreplay-webfont.woff') format('woff'),
+         url('BPreplay-webfont.ttf') format('truetype'),
+         url('BPreplay-webfont.svg#bpreplayregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

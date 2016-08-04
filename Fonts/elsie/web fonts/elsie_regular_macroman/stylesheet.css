@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'elsieregular';
+    src: url('Elsie-Regular-webfont.eot');
+    src: url('Elsie-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Elsie-Regular-webfont.woff') format('woff'),
+         url('Elsie-Regular-webfont.ttf') format('truetype'),
+         url('Elsie-Regular-webfont.svg#elsieregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

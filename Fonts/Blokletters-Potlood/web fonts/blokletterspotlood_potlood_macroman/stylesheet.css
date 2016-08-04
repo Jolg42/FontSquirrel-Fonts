@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'blokletters_potloodpotlood';
+    src: url('Blokletters-Potlood-webfont.eot');
+    src: url('Blokletters-Potlood-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Blokletters-Potlood-webfont.woff') format('woff'),
+         url('Blokletters-Potlood-webfont.ttf') format('truetype'),
+         url('Blokletters-Potlood-webfont.svg#blokletters_potloodpotlood') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

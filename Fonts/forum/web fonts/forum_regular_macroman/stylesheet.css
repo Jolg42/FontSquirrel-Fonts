@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'forumregular';
+    src: url('Forum-Regular-webfont.eot');
+    src: url('Forum-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Forum-Regular-webfont.woff') format('woff'),
+         url('Forum-Regular-webfont.ttf') format('truetype'),
+         url('Forum-Regular-webfont.svg#forumregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

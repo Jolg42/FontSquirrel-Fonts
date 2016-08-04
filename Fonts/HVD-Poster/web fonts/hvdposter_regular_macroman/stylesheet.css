@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'hvd_posterregular';
+    src: url('HVD_Poster-webfont.eot');
+    src: url('HVD_Poster-webfont.eot?#iefix') format('embedded-opentype'),
+         url('HVD_Poster-webfont.woff') format('woff'),
+         url('HVD_Poster-webfont.ttf') format('truetype'),
+         url('HVD_Poster-webfont.svg#hvd_posterregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

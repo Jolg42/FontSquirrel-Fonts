@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'titilliumbold_upright';
+    src: url('Titillium-BoldUpright-webfont.eot');
+    src: url('Titillium-BoldUpright-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Titillium-BoldUpright-webfont.woff') format('woff'),
+         url('Titillium-BoldUpright-webfont.ttf') format('truetype'),
+         url('Titillium-BoldUpright-webfont.svg#titilliumbold_upright') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

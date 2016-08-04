@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'sf_cartoonist_handitalic';
+    src: url('SF_Cartoonist_Hand_Italic-webfont.eot');
+    src: url('SF_Cartoonist_Hand_Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('SF_Cartoonist_Hand_Italic-webfont.woff') format('woff'),
+         url('SF_Cartoonist_Hand_Italic-webfont.ttf') format('truetype'),
+         url('SF_Cartoonist_Hand_Italic-webfont.svg#sf_cartoonist_handitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

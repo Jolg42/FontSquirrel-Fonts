@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'banksiaregular';
+    src: url('banksia-webfont.eot');
+    src: url('banksia-webfont.eot?#iefix') format('embedded-opentype'),
+         url('banksia-webfont.woff') format('woff'),
+         url('banksia-webfont.ttf') format('truetype'),
+         url('banksia-webfont.svg#banksiaregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

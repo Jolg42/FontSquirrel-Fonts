@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'hvd_bodedomedium';
+    src: url('HVD_Bodedo-webfont.eot');
+    src: url('HVD_Bodedo-webfont.eot?#iefix') format('embedded-opentype'),
+         url('HVD_Bodedo-webfont.woff') format('woff'),
+         url('HVD_Bodedo-webfont.ttf') format('truetype'),
+         url('HVD_Bodedo-webfont.svg#hvd_bodedomedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

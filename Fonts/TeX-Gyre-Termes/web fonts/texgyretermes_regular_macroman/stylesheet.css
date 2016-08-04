@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'texgyretermesregular';
+    src: url('texgyretermes-regular-webfont.eot');
+    src: url('texgyretermes-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('texgyretermes-regular-webfont.woff') format('woff'),
+         url('texgyretermes-regular-webfont.ttf') format('truetype'),
+         url('texgyretermes-regular-webfont.svg#texgyretermesregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'sansumiregular';
+    src: url('Sansumi-Bold-webfont.eot');
+    src: url('Sansumi-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Sansumi-Bold-webfont.woff') format('woff'),
+         url('Sansumi-Bold-webfont.ttf') format('truetype'),
+         url('Sansumi-Bold-webfont.svg#sansumiregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

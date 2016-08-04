@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'lane_-_poshregular';
+    src: url('LANEPOSH-webfont.eot');
+    src: url('LANEPOSH-webfont.eot?#iefix') format('embedded-opentype'),
+         url('LANEPOSH-webfont.woff') format('woff'),
+         url('LANEPOSH-webfont.ttf') format('truetype'),
+         url('LANEPOSH-webfont.svg#lane_-_poshregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

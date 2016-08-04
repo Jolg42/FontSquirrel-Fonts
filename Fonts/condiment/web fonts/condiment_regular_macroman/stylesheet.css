@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'condimentregular';
+    src: url('Condiment-Regular-webfont.eot');
+    src: url('Condiment-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Condiment-Regular-webfont.woff') format('woff'),
+         url('Condiment-Regular-webfont.ttf') format('truetype'),
+         url('Condiment-Regular-webfont.svg#condimentregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

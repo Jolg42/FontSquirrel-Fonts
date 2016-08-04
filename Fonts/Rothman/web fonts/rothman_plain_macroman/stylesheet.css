@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'rothmanplain';
+    src: url('RothmanPlain-webfont.eot');
+    src: url('RothmanPlain-webfont.eot?#iefix') format('embedded-opentype'),
+         url('RothmanPlain-webfont.woff') format('woff'),
+         url('RothmanPlain-webfont.ttf') format('truetype'),
+         url('RothmanPlain-webfont.svg#rothmanplain') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

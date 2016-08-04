@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'cantarellbold';
+    src: url('Cantarell-Bold-webfont.eot');
+    src: url('Cantarell-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Cantarell-Bold-webfont.woff') format('woff'),
+         url('Cantarell-Bold-webfont.ttf') format('truetype'),
+         url('Cantarell-Bold-webfont.svg#cantarellbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

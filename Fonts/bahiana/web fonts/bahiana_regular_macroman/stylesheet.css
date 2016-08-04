@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'bahianaregular';
+    src: url('Bahiana-Regular-webfont.eot');
+    src: url('Bahiana-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Bahiana-Regular-webfont.woff') format('woff'),
+         url('Bahiana-Regular-webfont.ttf') format('truetype'),
+         url('Bahiana-Regular-webfont.svg#bahianaregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

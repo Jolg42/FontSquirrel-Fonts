@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'rawengulklight';
+    src: url('RawengulkLight-webfont.eot');
+    src: url('RawengulkLight-webfont.eot?#iefix') format('embedded-opentype'),
+         url('RawengulkLight-webfont.woff') format('woff'),
+         url('RawengulkLight-webfont.ttf') format('truetype'),
+         url('RawengulkLight-webfont.svg#rawengulklight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

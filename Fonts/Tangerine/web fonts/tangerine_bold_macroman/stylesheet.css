@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'tangerinebold';
+    src: url('Tangerine_Bold-webfont.eot');
+    src: url('Tangerine_Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Tangerine_Bold-webfont.woff') format('woff'),
+         url('Tangerine_Bold-webfont.ttf') format('truetype'),
+         url('Tangerine_Bold-webfont.svg#tangerinebold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

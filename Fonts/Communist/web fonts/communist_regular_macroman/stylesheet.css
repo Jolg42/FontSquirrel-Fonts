@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'communistregular';
+    src: url('COMMUNIS-webfont.eot');
+    src: url('COMMUNIS-webfont.eot?#iefix') format('embedded-opentype'),
+         url('COMMUNIS-webfont.woff') format('woff'),
+         url('COMMUNIS-webfont.ttf') format('truetype'),
+         url('COMMUNIS-webfont.svg#communistregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

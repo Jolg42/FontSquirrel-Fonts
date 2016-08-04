@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'sofadi_oneregular';
+    src: url('SofadiOne-Regular-webfont.eot');
+    src: url('SofadiOne-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('SofadiOne-Regular-webfont.woff') format('woff'),
+         url('SofadiOne-Regular-webfont.ttf') format('truetype'),
+         url('SofadiOne-Regular-webfont.svg#sofadi_oneregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

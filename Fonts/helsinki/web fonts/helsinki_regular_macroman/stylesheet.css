@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'helsinkiregular';
+    src: url('helsinki-webfont.eot');
+    src: url('helsinki-webfont.eot?#iefix') format('embedded-opentype'),
+         url('helsinki-webfont.woff') format('woff'),
+         url('helsinki-webfont.ttf') format('truetype'),
+         url('helsinki-webfont.svg#helsinkiregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

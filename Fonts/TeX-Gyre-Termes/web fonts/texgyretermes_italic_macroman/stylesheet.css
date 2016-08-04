@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'texgyretermesitalic';
+    src: url('texgyretermes-italic-webfont.eot');
+    src: url('texgyretermes-italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('texgyretermes-italic-webfont.woff') format('woff'),
+         url('texgyretermes-italic-webfont.ttf') format('truetype'),
+         url('texgyretermes-italic-webfont.svg#texgyretermesitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

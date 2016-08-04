@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'yanone_kaffeesatzlight';
+    src: url('YanoneKaffeesatz-Light-webfont.eot');
+    src: url('YanoneKaffeesatz-Light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('YanoneKaffeesatz-Light-webfont.woff') format('woff'),
+         url('YanoneKaffeesatz-Light-webfont.ttf') format('truetype'),
+         url('YanoneKaffeesatz-Light-webfont.svg#yanone_kaffeesatzlight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

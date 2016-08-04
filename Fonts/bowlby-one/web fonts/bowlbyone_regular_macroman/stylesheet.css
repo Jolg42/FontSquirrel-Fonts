@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'bowlby_oneregular';
+    src: url('BowlbyOne-Regular-webfont.eot');
+    src: url('BowlbyOne-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('BowlbyOne-Regular-webfont.woff') format('woff'),
+         url('BowlbyOne-Regular-webfont.ttf') format('truetype'),
+         url('BowlbyOne-Regular-webfont.svg#bowlby_oneregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

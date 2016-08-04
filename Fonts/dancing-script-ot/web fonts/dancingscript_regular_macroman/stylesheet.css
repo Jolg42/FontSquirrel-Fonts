@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'dancing_script_otregular';
+    src: url('DancingScript-Regular-webfont.eot');
+    src: url('DancingScript-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('DancingScript-Regular-webfont.woff') format('woff'),
+         url('DancingScript-Regular-webfont.ttf') format('truetype'),
+         url('DancingScript-Regular-webfont.svg#dancing_script_otregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

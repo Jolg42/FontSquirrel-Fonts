@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'junebugregular';
+    src: url('JUNEBUG_-webfont.eot');
+    src: url('JUNEBUG_-webfont.eot?#iefix') format('embedded-opentype'),
+         url('JUNEBUG_-webfont.woff') format('woff'),
+         url('JUNEBUG_-webfont.ttf') format('truetype'),
+         url('JUNEBUG_-webfont.svg#junebugregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

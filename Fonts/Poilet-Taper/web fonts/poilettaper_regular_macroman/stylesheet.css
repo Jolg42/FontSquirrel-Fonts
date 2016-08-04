@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'poilet_taperregular';
+    src: url('poilettaper-webfont.eot');
+    src: url('poilettaper-webfont.eot?#iefix') format('embedded-opentype'),
+         url('poilettaper-webfont.woff') format('woff'),
+         url('poilettaper-webfont.ttf') format('truetype'),
+         url('poilettaper-webfont.svg#poilet_taperregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

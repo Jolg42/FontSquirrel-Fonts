@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'boycottregular';
+    src: url('BOYCOTT_-webfont.eot');
+    src: url('BOYCOTT_-webfont.eot?#iefix') format('embedded-opentype'),
+         url('BOYCOTT_-webfont.woff') format('woff'),
+         url('BOYCOTT_-webfont.ttf') format('truetype'),
+         url('BOYCOTT_-webfont.svg#boycottregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

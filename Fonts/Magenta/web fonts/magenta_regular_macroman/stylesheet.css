@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'magentaregular';
+    src: url('Magenta_BBT-webfont.eot');
+    src: url('Magenta_BBT-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Magenta_BBT-webfont.woff') format('woff'),
+         url('Magenta_BBT-webfont.ttf') format('truetype'),
+         url('Magenta_BBT-webfont.svg#magentaregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

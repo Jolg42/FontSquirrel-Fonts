@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'brawlerregular';
+    src: url('Brawler-webfont.eot');
+    src: url('Brawler-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Brawler-webfont.woff') format('woff'),
+         url('Brawler-webfont.ttf') format('truetype'),
+         url('Brawler-webfont.svg#brawlerregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

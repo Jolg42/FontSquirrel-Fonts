@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'synthetique_otregular';
+    src: url('Synthetique-webfont.eot');
+    src: url('Synthetique-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Synthetique-webfont.woff') format('woff'),
+         url('Synthetique-webfont.ttf') format('truetype'),
+         url('Synthetique-webfont.svg#synthetique_otregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

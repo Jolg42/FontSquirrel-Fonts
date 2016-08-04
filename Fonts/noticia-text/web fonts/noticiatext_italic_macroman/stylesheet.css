@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'noticia_textitalic';
+    src: url('NoticiaText-Italic-webfont.eot');
+    src: url('NoticiaText-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('NoticiaText-Italic-webfont.woff') format('woff'),
+         url('NoticiaText-Italic-webfont.ttf') format('truetype'),
+         url('NoticiaText-Italic-webfont.svg#noticia_textitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

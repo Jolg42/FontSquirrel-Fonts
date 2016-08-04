@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'asapregular';
+    src: url('Asap-Regular-webfont.eot');
+    src: url('Asap-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Asap-Regular-webfont.woff') format('woff'),
+         url('Asap-Regular-webfont.ttf') format('truetype'),
+         url('Asap-Regular-webfont.svg#asapregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'sinkin_sans600SBdIt';
+    src: url('SinkinSans-600SemiBoldItali-webfont.eot');
+    src: url('SinkinSans-600SemiBoldItali-webfont.eot?#iefix') format('embedded-opentype'),
+         url('SinkinSans-600SemiBoldItali-webfont.woff') format('woff'),
+         url('SinkinSans-600SemiBoldItali-webfont.ttf') format('truetype'),
+         url('SinkinSans-600SemiBoldItali-webfont.svg#sinkin_sans600SBdIt') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

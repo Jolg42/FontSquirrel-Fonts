@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'notcouriersansregular';
+    src: url('NotCourierSans-webfont.eot');
+    src: url('NotCourierSans-webfont.eot?#iefix') format('embedded-opentype'),
+         url('NotCourierSans-webfont.woff') format('woff'),
+         url('NotCourierSans-webfont.ttf') format('truetype'),
+         url('NotCourierSans-webfont.svg#notcouriersansregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

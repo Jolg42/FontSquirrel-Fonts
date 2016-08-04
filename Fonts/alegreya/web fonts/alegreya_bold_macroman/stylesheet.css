@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'alegreyabold';
+    src: url('Alegreya-Bold-webfont.eot');
+    src: url('Alegreya-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Alegreya-Bold-webfont.woff') format('woff'),
+         url('Alegreya-Bold-webfont.ttf') format('truetype'),
+         url('Alegreya-Bold-webfont.svg#alegreyabold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'nosifer_capsregular';
+    src: url('NosiferCaps-Regular-webfont.eot');
+    src: url('NosiferCaps-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('NosiferCaps-Regular-webfont.woff') format('woff'),
+         url('NosiferCaps-Regular-webfont.ttf') format('truetype'),
+         url('NosiferCaps-Regular-webfont.svg#nosifer_capsregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

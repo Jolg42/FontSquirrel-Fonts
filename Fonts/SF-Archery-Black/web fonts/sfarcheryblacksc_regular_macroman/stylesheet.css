@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'sf_archery_black_scregular';
+    src: url('SF_Archery_Black_SC-webfont.eot');
+    src: url('SF_Archery_Black_SC-webfont.eot?#iefix') format('embedded-opentype'),
+         url('SF_Archery_Black_SC-webfont.woff') format('woff'),
+         url('SF_Archery_Black_SC-webfont.ttf') format('truetype'),
+         url('SF_Archery_Black_SC-webfont.svg#sf_archery_black_scregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

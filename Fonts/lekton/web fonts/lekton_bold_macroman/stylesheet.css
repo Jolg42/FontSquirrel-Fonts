@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'lektonbold';
+    src: url('Lekton-Bold-webfont.eot');
+    src: url('Lekton-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Lekton-Bold-webfont.woff') format('woff'),
+         url('Lekton-Bold-webfont.ttf') format('truetype'),
+         url('Lekton-Bold-webfont.svg#lektonbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

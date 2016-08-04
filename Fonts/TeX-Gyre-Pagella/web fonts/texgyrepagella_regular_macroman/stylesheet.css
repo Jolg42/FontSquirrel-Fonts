@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'texgyrepagellaregular';
+    src: url('texgyrepagella-regular-webfont.eot');
+    src: url('texgyrepagella-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('texgyrepagella-regular-webfont.woff') format('woff'),
+         url('texgyrepagella-regular-webfont.ttf') format('truetype'),
+         url('texgyrepagella-regular-webfont.svg#texgyrepagellaregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

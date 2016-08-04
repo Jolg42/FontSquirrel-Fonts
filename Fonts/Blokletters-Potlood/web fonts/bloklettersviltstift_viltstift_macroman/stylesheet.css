@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'blokletters_viltstifviltstift';
+    src: url('Blokletters-Viltstift-webfont.eot');
+    src: url('Blokletters-Viltstift-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Blokletters-Viltstift-webfont.woff') format('woff'),
+         url('Blokletters-Viltstift-webfont.ttf') format('truetype'),
+         url('Blokletters-Viltstift-webfont.svg#blokletters_viltstifviltstift') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

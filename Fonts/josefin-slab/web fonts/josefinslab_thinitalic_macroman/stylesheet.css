@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'josefin_slabthin_italic';
+    src: url('JosefinSlab-ThinItalic-webfont.eot');
+    src: url('JosefinSlab-ThinItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('JosefinSlab-ThinItalic-webfont.woff') format('woff'),
+         url('JosefinSlab-ThinItalic-webfont.ttf') format('truetype'),
+         url('JosefinSlab-ThinItalic-webfont.svg#josefin_slabthin_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

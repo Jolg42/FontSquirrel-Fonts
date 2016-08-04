@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'sharebold_italic';
+    src: url('Share-BoldItalic-webfont.eot');
+    src: url('Share-BoldItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Share-BoldItalic-webfont.woff') format('woff'),
+         url('Share-BoldItalic-webfont.ttf') format('truetype'),
+         url('Share-BoldItalic-webfont.svg#sharebold_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

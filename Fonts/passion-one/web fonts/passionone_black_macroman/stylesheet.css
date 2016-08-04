@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'passion_oneblack';
+    src: url('PassionOne-Black-webfont.eot');
+    src: url('PassionOne-Black-webfont.eot?#iefix') format('embedded-opentype'),
+         url('PassionOne-Black-webfont.woff') format('woff'),
+         url('PassionOne-Black-webfont.ttf') format('truetype'),
+         url('PassionOne-Black-webfont.svg#passion_oneblack') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'news_cycleregular';
+    src: url('NewsCycle-Regular-webfont.eot');
+    src: url('NewsCycle-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('NewsCycle-Regular-webfont.woff') format('woff'),
+         url('NewsCycle-Regular-webfont.ttf') format('truetype'),
+         url('NewsCycle-Regular-webfont.svg#news_cycleregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

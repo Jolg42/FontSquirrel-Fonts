@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'okolaksbolditalic';
+    src: url('okolaksBoldItalic-webfont.eot');
+    src: url('okolaksBoldItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('okolaksBoldItalic-webfont.woff') format('woff'),
+         url('okolaksBoldItalic-webfont.ttf') format('truetype'),
+         url('okolaksBoldItalic-webfont.svg#okolaksbolditalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

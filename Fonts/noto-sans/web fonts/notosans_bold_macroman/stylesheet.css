@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'noto_sansbold';
+    src: url('NotoSans-Bold-webfont.eot');
+    src: url('NotoSans-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('NotoSans-Bold-webfont.woff') format('woff'),
+         url('NotoSans-Bold-webfont.ttf') format('truetype'),
+         url('NotoSans-Bold-webfont.svg#noto_sansbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

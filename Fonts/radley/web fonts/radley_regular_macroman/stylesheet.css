@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'radleyregular';
+    src: url('Radley-webfont.eot');
+    src: url('Radley-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Radley-webfont.woff') format('woff'),
+         url('Radley-webfont.ttf') format('truetype'),
+         url('Radley-webfont.svg#radleyregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

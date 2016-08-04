@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'drawveticaminimedium';
+    src: url('DrawveticaMini-webfont.eot');
+    src: url('DrawveticaMini-webfont.eot?#iefix') format('embedded-opentype'),
+         url('DrawveticaMini-webfont.woff') format('woff'),
+         url('DrawveticaMini-webfont.ttf') format('truetype'),
+         url('DrawveticaMini-webfont.svg#drawveticaminimedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

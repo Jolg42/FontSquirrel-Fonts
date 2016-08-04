@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'wc_roughtrad_btaregular';
+    src: url('WC_RoughTrad-webfont.eot');
+    src: url('WC_RoughTrad-webfont.eot?#iefix') format('embedded-opentype'),
+         url('WC_RoughTrad-webfont.woff') format('woff'),
+         url('WC_RoughTrad-webfont.ttf') format('truetype'),
+         url('WC_RoughTrad-webfont.svg#wc_roughtrad_btaregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

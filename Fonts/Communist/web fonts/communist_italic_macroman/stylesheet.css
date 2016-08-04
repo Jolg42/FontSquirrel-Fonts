@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'communistitalic';
+    src: url('COMMI___-webfont.eot');
+    src: url('COMMI___-webfont.eot?#iefix') format('embedded-opentype'),
+         url('COMMI___-webfont.woff') format('woff'),
+         url('COMMI___-webfont.ttf') format('truetype'),
+         url('COMMI___-webfont.svg#communistitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'kreonlight';
+    src: url('Kreon-Light-webfont.eot');
+    src: url('Kreon-Light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Kreon-Light-webfont.woff') format('woff'),
+         url('Kreon-Light-webfont.ttf') format('truetype'),
+         url('Kreon-Light-webfont.svg#kreonlight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

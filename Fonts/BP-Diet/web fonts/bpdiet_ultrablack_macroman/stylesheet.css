@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'bp_dietultrablack';
+    src: url('BPdiet-webfont.eot');
+    src: url('BPdiet-webfont.eot?#iefix') format('embedded-opentype'),
+         url('BPdiet-webfont.woff') format('woff'),
+         url('BPdiet-webfont.ttf') format('truetype'),
+         url('BPdiet-webfont.svg#bp_dietultrablack') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

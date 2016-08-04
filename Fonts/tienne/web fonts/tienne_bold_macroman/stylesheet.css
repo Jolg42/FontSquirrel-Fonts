@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'tiennebold';
+    src: url('Tienne-Bold-webfont.eot');
+    src: url('Tienne-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Tienne-Bold-webfont.woff') format('woff'),
+         url('Tienne-Bold-webfont.ttf') format('truetype'),
+         url('Tienne-Bold-webfont.svg#tiennebold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

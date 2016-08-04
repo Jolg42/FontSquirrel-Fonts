@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'sintonybold';
+    src: url('Sintony-Bold-webfont.eot');
+    src: url('Sintony-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Sintony-Bold-webfont.woff') format('woff'),
+         url('Sintony-Bold-webfont.ttf') format('truetype'),
+         url('Sintony-Bold-webfont.svg#sintonybold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'merriweather_sansXBdIt';
+    src: url('MerriweatherSans-ExtraBoldItalic-webfont.eot');
+    src: url('MerriweatherSans-ExtraBoldItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('MerriweatherSans-ExtraBoldItalic-webfont.woff') format('woff'),
+         url('MerriweatherSans-ExtraBoldItalic-webfont.ttf') format('truetype'),
+         url('MerriweatherSans-ExtraBoldItalic-webfont.svg#merriweather_sansXBdIt') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

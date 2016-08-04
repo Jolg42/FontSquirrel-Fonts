@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'sf_toontime_blotchitalic';
+    src: url('SF_Toontime_Blotch_Italic-webfont.eot');
+    src: url('SF_Toontime_Blotch_Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('SF_Toontime_Blotch_Italic-webfont.woff') format('woff'),
+         url('SF_Toontime_Blotch_Italic-webfont.ttf') format('truetype'),
+         url('SF_Toontime_Blotch_Italic-webfont.svg#sf_toontime_blotchitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

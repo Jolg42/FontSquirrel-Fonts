@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'rochesterregular';
+    src: url('Rochester-Regular-webfont.eot');
+    src: url('Rochester-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Rochester-Regular-webfont.woff') format('woff'),
+         url('Rochester-Regular-webfont.ttf') format('truetype'),
+         url('Rochester-Regular-webfont.svg#rochesterregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

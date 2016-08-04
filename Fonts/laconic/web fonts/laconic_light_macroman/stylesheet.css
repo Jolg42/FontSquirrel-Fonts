@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'laconiclight';
+    src: url('Laconic_Light-webfont.eot');
+    src: url('Laconic_Light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Laconic_Light-webfont.woff') format('woff'),
+         url('Laconic_Light-webfont.ttf') format('truetype'),
+         url('Laconic_Light-webfont.svg#laconiclight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

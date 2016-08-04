@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'know_your_productregular';
+    src: url('know_your_product-webfont.eot');
+    src: url('know_your_product-webfont.eot?#iefix') format('embedded-opentype'),
+         url('know_your_product-webfont.woff') format('woff'),
+         url('know_your_product-webfont.ttf') format('truetype'),
+         url('know_your_product-webfont.svg#know_your_productregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

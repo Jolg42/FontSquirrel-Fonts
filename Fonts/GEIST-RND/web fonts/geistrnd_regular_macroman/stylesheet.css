@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'geist_rndregular';
+    src: url('GEIST_RND-webfont.eot');
+    src: url('GEIST_RND-webfont.eot?#iefix') format('embedded-opentype'),
+         url('GEIST_RND-webfont.woff') format('woff'),
+         url('GEIST_RND-webfont.ttf') format('truetype'),
+         url('GEIST_RND-webfont.svg#geist_rndregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

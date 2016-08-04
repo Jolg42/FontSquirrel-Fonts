@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'ramblabold';
+    src: url('Rambla-Bold-webfont.eot');
+    src: url('Rambla-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Rambla-Bold-webfont.woff') format('woff'),
+         url('Rambla-Bold-webfont.ttf') format('truetype'),
+         url('Rambla-Bold-webfont.svg#ramblabold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

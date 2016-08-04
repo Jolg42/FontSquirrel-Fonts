@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'print_dashedregular';
+    src: url('PrintDashed-webfont.eot');
+    src: url('PrintDashed-webfont.eot?#iefix') format('embedded-opentype'),
+         url('PrintDashed-webfont.woff') format('woff'),
+         url('PrintDashed-webfont.ttf') format('truetype'),
+         url('PrintDashed-webfont.svg#print_dashedregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

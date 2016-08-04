@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'hartingplain';
+    src: url('Harting_plain-webfont.eot');
+    src: url('Harting_plain-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Harting_plain-webfont.woff') format('woff'),
+         url('Harting_plain-webfont.ttf') format('truetype'),
+         url('Harting_plain-webfont.svg#hartingplain') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

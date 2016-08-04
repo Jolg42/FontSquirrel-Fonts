@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'amatic_scregular';
+    src: url('AmaticSC-Regular-webfont.eot');
+    src: url('AmaticSC-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('AmaticSC-Regular-webfont.woff') format('woff'),
+         url('AmaticSC-Regular-webfont.ttf') format('truetype'),
+         url('AmaticSC-Regular-webfont.svg#amatic_scregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

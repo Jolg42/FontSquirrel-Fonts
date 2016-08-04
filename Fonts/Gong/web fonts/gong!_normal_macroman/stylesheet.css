@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'gongnormal';
+    src: url('GONGN___-webfont.eot');
+    src: url('GONGN___-webfont.eot?#iefix') format('embedded-opentype'),
+         url('GONGN___-webfont.woff') format('woff'),
+         url('GONGN___-webfont.ttf') format('truetype'),
+         url('GONGN___-webfont.svg#gongnormal') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'sears_towerregular';
+    src: url('Sears_Tower-webfont.eot');
+    src: url('Sears_Tower-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Sears_Tower-webfont.woff') format('woff'),
+         url('Sears_Tower-webfont.ttf') format('truetype'),
+         url('Sears_Tower-webfont.svg#sears_towerregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

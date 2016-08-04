@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'libre_baskervilleregular';
+    src: url('LibreBaskerville-Regular-webfont.eot');
+    src: url('LibreBaskerville-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('LibreBaskerville-Regular-webfont.woff') format('woff'),
+         url('LibreBaskerville-Regular-webfont.ttf') format('truetype'),
+         url('LibreBaskerville-Regular-webfont.svg#libre_baskervilleregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

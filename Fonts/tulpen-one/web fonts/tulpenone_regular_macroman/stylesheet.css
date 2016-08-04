@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'tulpen_oneregular';
+    src: url('TulpenOne-Regular-webfont.eot');
+    src: url('TulpenOne-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('TulpenOne-Regular-webfont.woff') format('woff'),
+         url('TulpenOne-Regular-webfont.ttf') format('truetype'),
+         url('TulpenOne-Regular-webfont.svg#tulpen_oneregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

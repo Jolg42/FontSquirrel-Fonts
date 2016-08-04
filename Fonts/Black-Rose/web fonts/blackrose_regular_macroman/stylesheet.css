@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'black_roseregular';
+    src: url('BLACKR-webfont.eot');
+    src: url('BLACKR-webfont.eot?#iefix') format('embedded-opentype'),
+         url('BLACKR-webfont.woff') format('woff'),
+         url('BLACKR-webfont.ttf') format('truetype'),
+         url('BLACKR-webfont.svg#black_roseregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'metroregular';
+    src: url('Metro-webfont.eot');
+    src: url('Metro-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Metro-webfont.woff') format('woff'),
+         url('Metro-webfont.ttf') format('truetype'),
+         url('Metro-webfont.svg#metroregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

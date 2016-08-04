@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'contraitalic';
+    src: url('contra-italic-webfont.eot');
+    src: url('contra-italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('contra-italic-webfont.woff') format('woff'),
+         url('contra-italic-webfont.ttf') format('truetype'),
+         url('contra-italic-webfont.svg#contraitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'exoextrabolditalic';
+    src: url('Exo-ExtraBoldItalic-webfont.eot');
+    src: url('Exo-ExtraBoldItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Exo-ExtraBoldItalic-webfont.woff') format('woff'),
+         url('Exo-ExtraBoldItalic-webfont.ttf') format('truetype'),
+         url('Exo-ExtraBoldItalic-webfont.svg#exoextrabolditalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

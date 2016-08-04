@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'michromaregular';
+    src: url('Michroma-webfont.eot');
+    src: url('Michroma-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Michroma-webfont.woff') format('woff'),
+         url('Michroma-webfont.ttf') format('truetype'),
+         url('Michroma-webfont.svg#michromaregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

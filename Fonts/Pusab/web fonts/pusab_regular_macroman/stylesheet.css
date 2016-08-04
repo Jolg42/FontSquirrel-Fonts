@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'pusabregular';
+    src: url('PUSAB___-webfont.eot');
+    src: url('PUSAB___-webfont.eot?#iefix') format('embedded-opentype'),
+         url('PUSAB___-webfont.woff') format('woff'),
+         url('PUSAB___-webfont.ttf') format('truetype'),
+         url('PUSAB___-webfont.svg#pusabregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

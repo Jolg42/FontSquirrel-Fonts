@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'karnivore_blackregular';
+    src: url('KARNIBLA-webfont.eot');
+    src: url('KARNIBLA-webfont.eot?#iefix') format('embedded-opentype'),
+         url('KARNIBLA-webfont.woff') format('woff'),
+         url('KARNIBLA-webfont.ttf') format('truetype'),
+         url('KARNIBLA-webfont.svg#karnivore_blackregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

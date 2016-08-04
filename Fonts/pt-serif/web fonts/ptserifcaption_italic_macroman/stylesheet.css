@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'pt_serif_captionitalic';
+    src: url('PTZ56F-webfont.eot');
+    src: url('PTZ56F-webfont.eot?#iefix') format('embedded-opentype'),
+         url('PTZ56F-webfont.woff') format('woff'),
+         url('PTZ56F-webfont.ttf') format('truetype'),
+         url('PTZ56F-webfont.svg#pt_serif_captionitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

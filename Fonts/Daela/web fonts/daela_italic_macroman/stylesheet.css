@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'daelaitalic';
+    src: url('DaelaIta-webfont.eot');
+    src: url('DaelaIta-webfont.eot?#iefix') format('embedded-opentype'),
+         url('DaelaIta-webfont.woff') format('woff'),
+         url('DaelaIta-webfont.ttf') format('truetype'),
+         url('DaelaIta-webfont.svg#daelaitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

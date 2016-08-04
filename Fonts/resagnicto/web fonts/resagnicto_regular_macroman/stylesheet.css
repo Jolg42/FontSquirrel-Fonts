@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'resagnictoregular';
+    src: url('Resagnicto-webfont.eot');
+    src: url('Resagnicto-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Resagnicto-webfont.woff') format('woff'),
+         url('Resagnicto-webfont.ttf') format('truetype'),
+         url('Resagnicto-webfont.svg#resagnictoregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

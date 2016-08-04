@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'herr_von_muellerhoffregular';
+    src: url('HerrVonMuellerhoff-Regular-webfont.eot');
+    src: url('HerrVonMuellerhoff-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('HerrVonMuellerhoff-Regular-webfont.woff') format('woff'),
+         url('HerrVonMuellerhoff-Regular-webfont.ttf') format('truetype'),
+         url('HerrVonMuellerhoff-Regular-webfont.svg#herr_von_muellerhoffregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

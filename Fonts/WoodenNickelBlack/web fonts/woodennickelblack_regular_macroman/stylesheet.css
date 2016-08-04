@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'woodennickelblackregular';
+    src: url('WOODENNI-webfont.eot');
+    src: url('WOODENNI-webfont.eot?#iefix') format('embedded-opentype'),
+         url('WOODENNI-webfont.woff') format('woff'),
+         url('WOODENNI-webfont.ttf') format('truetype'),
+         url('WOODENNI-webfont.svg#woodennickelblackregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'walkway_obliqueregular';
+    src: url('Walkway_Oblique-webfont.eot');
+    src: url('Walkway_Oblique-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Walkway_Oblique-webfont.woff') format('woff'),
+         url('Walkway_Oblique-webfont.ttf') format('truetype'),
+         url('Walkway_Oblique-webfont.svg#walkway_obliqueregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

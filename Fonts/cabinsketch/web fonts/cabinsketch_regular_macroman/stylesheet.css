@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'cabinsketchregular';
+    src: url('CabinSketch-Regular-webfont.eot');
+    src: url('CabinSketch-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('CabinSketch-Regular-webfont.woff') format('woff'),
+         url('CabinSketch-Regular-webfont.ttf') format('truetype'),
+         url('CabinSketch-Regular-webfont.svg#cabinsketchregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'no_consequenceregular';
+    src: url('Noconsequence-webfont.eot');
+    src: url('Noconsequence-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Noconsequence-webfont.woff') format('woff'),
+         url('Noconsequence-webfont.ttf') format('truetype'),
+         url('Noconsequence-webfont.svg#no_consequenceregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

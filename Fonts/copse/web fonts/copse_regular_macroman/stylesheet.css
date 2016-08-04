@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'copseregular';
+    src: url('Copse-Regular-webfont.eot');
+    src: url('Copse-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Copse-Regular-webfont.woff') format('woff'),
+         url('Copse-Regular-webfont.ttf') format('truetype'),
+         url('Copse-Regular-webfont.svg#copseregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

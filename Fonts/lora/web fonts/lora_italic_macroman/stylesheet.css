@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'loraitalic';
+    src: url('Lora-Italic-webfont.eot');
+    src: url('Lora-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Lora-Italic-webfont.woff') format('woff'),
+         url('Lora-Italic-webfont.ttf') format('truetype'),
+         url('Lora-Italic-webfont.svg#loraitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

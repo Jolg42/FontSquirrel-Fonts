@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'latiniablackregular';
+    src: url('LatiniaBlack-webfont.eot');
+    src: url('LatiniaBlack-webfont.eot?#iefix') format('embedded-opentype'),
+         url('LatiniaBlack-webfont.woff') format('woff'),
+         url('LatiniaBlack-webfont.ttf') format('truetype'),
+         url('LatiniaBlack-webfont.svg#latiniablackregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

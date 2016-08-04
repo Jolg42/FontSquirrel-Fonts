@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'dobkinplain';
+    src: url('DobkinPlain-webfont.eot');
+    src: url('DobkinPlain-webfont.eot?#iefix') format('embedded-opentype'),
+         url('DobkinPlain-webfont.woff') format('woff'),
+         url('DobkinPlain-webfont.ttf') format('truetype'),
+         url('DobkinPlain-webfont.svg#dobkinplain') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

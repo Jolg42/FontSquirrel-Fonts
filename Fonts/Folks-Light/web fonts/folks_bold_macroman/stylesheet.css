@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'folksbold';
+    src: url('Folks-Bold-webfont.eot');
+    src: url('Folks-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Folks-Bold-webfont.woff') format('woff'),
+         url('Folks-Bold-webfont.ttf') format('truetype'),
+         url('Folks-Bold-webfont.svg#folksbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

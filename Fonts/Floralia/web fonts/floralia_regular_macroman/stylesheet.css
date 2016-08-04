@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'floraliaregular';
+    src: url('Floralia-webfont.eot');
+    src: url('Floralia-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Floralia-webfont.woff') format('woff'),
+         url('Floralia-webfont.ttf') format('truetype'),
+         url('Floralia-webfont.svg#floraliaregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'komika_display_kapsregular';
+    src: url('Komika_display_kaps-webfont.eot');
+    src: url('Komika_display_kaps-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Komika_display_kaps-webfont.woff') format('woff'),
+         url('Komika_display_kaps-webfont.ttf') format('truetype'),
+         url('Komika_display_kaps-webfont.svg#komika_display_kapsregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

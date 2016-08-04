@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'paete_roundbolditalic';
+    src: url('PAETRBI_-webfont.eot');
+    src: url('PAETRBI_-webfont.eot?#iefix') format('embedded-opentype'),
+         url('PAETRBI_-webfont.woff') format('woff'),
+         url('PAETRBI_-webfont.ttf') format('truetype'),
+         url('PAETRBI_-webfont.svg#paete_roundbolditalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

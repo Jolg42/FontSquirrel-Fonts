@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'scratchregular';
+    src: url('Scratch_-webfont.eot');
+    src: url('Scratch_-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Scratch_-webfont.woff') format('woff'),
+         url('Scratch_-webfont.ttf') format('truetype'),
+         url('Scratch_-webfont.svg#scratchregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

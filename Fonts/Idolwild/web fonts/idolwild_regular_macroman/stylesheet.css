@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'idolwildregular';
+    src: url('idolwild-webfont.eot');
+    src: url('idolwild-webfont.eot?#iefix') format('embedded-opentype'),
+         url('idolwild-webfont.woff') format('woff'),
+         url('idolwild-webfont.ttf') format('truetype'),
+         url('idolwild-webfont.svg#idolwildregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

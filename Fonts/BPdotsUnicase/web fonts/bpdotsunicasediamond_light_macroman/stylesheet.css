@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'bpdotsunicasediamondlight';
+    src: url('BPdotsUnicaseDiamondLight-webfont.eot');
+    src: url('BPdotsUnicaseDiamondLight-webfont.eot?#iefix') format('embedded-opentype'),
+         url('BPdotsUnicaseDiamondLight-webfont.woff') format('woff'),
+         url('BPdotsUnicaseDiamondLight-webfont.ttf') format('truetype'),
+         url('BPdotsUnicaseDiamondLight-webfont.svg#bpdotsunicasediamondlight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

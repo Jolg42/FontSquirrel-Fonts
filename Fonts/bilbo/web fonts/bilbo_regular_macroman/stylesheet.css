@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'bilboregular';
+    src: url('Bilbo-Regular-webfont.eot');
+    src: url('Bilbo-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Bilbo-Regular-webfont.woff') format('woff'),
+         url('Bilbo-Regular-webfont.ttf') format('truetype'),
+         url('Bilbo-Regular-webfont.svg#bilboregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

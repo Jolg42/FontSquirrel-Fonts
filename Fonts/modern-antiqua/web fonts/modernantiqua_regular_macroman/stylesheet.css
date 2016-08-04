@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'modern_antiquaregular';
+    src: url('ModernAntiqua-Regular-webfont.eot');
+    src: url('ModernAntiqua-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('ModernAntiqua-Regular-webfont.woff') format('woff'),
+         url('ModernAntiqua-Regular-webfont.ttf') format('truetype'),
+         url('ModernAntiqua-Regular-webfont.svg#modern_antiquaregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'sinkin_sans700_bold_italic';
+    src: url('SinkinSans-700BoldItalic-webfont.eot');
+    src: url('SinkinSans-700BoldItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('SinkinSans-700BoldItalic-webfont.woff') format('woff'),
+         url('SinkinSans-700BoldItalic-webfont.ttf') format('truetype'),
+         url('SinkinSans-700BoldItalic-webfont.svg#sinkin_sans700_bold_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

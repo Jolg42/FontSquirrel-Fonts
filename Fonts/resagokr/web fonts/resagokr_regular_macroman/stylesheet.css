@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'resagokrregular';
+    src: url('Resagokr-webfont.eot');
+    src: url('Resagokr-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Resagokr-webfont.woff') format('woff'),
+         url('Resagokr-webfont.ttf') format('truetype'),
+         url('Resagokr-webfont.svg#resagokrregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

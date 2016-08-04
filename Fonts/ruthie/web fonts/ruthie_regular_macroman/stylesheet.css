@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'ruthieregular';
+    src: url('Ruthie-Regular-OTF-webfont.eot');
+    src: url('Ruthie-Regular-OTF-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Ruthie-Regular-OTF-webfont.woff') format('woff'),
+         url('Ruthie-Regular-OTF-webfont.ttf') format('truetype'),
+         url('Ruthie-Regular-OTF-webfont.svg#ruthieregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

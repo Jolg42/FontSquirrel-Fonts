@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'josefin_slabregular';
+    src: url('JosefinSlab-Regular-webfont.eot');
+    src: url('JosefinSlab-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('JosefinSlab-Regular-webfont.woff') format('woff'),
+         url('JosefinSlab-Regular-webfont.ttf') format('truetype'),
+         url('JosefinSlab-Regular-webfont.svg#josefin_slabregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

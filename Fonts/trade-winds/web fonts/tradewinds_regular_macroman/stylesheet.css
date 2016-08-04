@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'trade_windsregular';
+    src: url('TradeWinds-Regular-webfont.eot');
+    src: url('TradeWinds-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('TradeWinds-Regular-webfont.woff') format('woff'),
+         url('TradeWinds-Regular-webfont.ttf') format('truetype'),
+         url('TradeWinds-Regular-webfont.svg#trade_windsregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

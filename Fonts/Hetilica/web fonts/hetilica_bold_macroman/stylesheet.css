@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'hetilicabold';
+    src: url('hetilica-webfont.eot');
+    src: url('hetilica-webfont.eot?#iefix') format('embedded-opentype'),
+         url('hetilica-webfont.woff') format('woff'),
+         url('hetilica-webfont.ttf') format('truetype'),
+         url('hetilica-webfont.svg#hetilicabold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

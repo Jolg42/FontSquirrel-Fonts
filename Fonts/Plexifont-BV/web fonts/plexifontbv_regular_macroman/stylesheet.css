@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'plexifont_bvregular';
+    src: url('plexifont-webfont.eot');
+    src: url('plexifont-webfont.eot?#iefix') format('embedded-opentype'),
+         url('plexifont-webfont.woff') format('woff'),
+         url('plexifont-webfont.ttf') format('truetype'),
+         url('plexifont-webfont.svg#plexifont_bvregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'shangrilanfsmallcapsregular';
+    src: url('SHANLNC_-webfont.eot');
+    src: url('SHANLNC_-webfont.eot?#iefix') format('embedded-opentype'),
+         url('SHANLNC_-webfont.woff') format('woff'),
+         url('SHANLNC_-webfont.ttf') format('truetype'),
+         url('SHANLNC_-webfont.svg#shangrilanfsmallcapsregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

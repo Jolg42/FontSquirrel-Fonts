@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'fearlessregular';
+    src: url('fearless-webfont.eot');
+    src: url('fearless-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fearless-webfont.woff') format('woff'),
+         url('fearless-webfont.ttf') format('truetype'),
+         url('fearless-webfont.svg#fearlessregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

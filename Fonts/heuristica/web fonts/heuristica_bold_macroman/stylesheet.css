@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'heuristicabold';
+    src: url('Heuristica-Bold-webfont.eot');
+    src: url('Heuristica-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Heuristica-Bold-webfont.woff') format('woff'),
+         url('Heuristica-Bold-webfont.ttf') format('truetype'),
+         url('Heuristica-Bold-webfont.svg#heuristicabold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

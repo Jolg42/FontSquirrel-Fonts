@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'salarymanregular';
+    src: url('SALARYMA-webfont.eot');
+    src: url('SALARYMA-webfont.eot?#iefix') format('embedded-opentype'),
+         url('SALARYMA-webfont.woff') format('woff'),
+         url('SALARYMA-webfont.ttf') format('truetype'),
+         url('SALARYMA-webfont.svg#salarymanregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

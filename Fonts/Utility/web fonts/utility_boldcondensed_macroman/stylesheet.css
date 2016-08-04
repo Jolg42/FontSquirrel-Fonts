@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'utilityboldcondensed';
+    src: url('UTILITY-webfont.eot');
+    src: url('UTILITY-webfont.eot?#iefix') format('embedded-opentype'),
+         url('UTILITY-webfont.woff') format('woff'),
+         url('UTILITY-webfont.ttf') format('truetype'),
+         url('UTILITY-webfont.svg#utilityboldcondensed') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

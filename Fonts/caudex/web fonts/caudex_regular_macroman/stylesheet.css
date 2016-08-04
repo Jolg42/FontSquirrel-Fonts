@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'caudexregular';
+    src: url('Caudex-Regular-webfont.eot');
+    src: url('Caudex-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Caudex-Regular-webfont.woff') format('woff'),
+         url('Caudex-Regular-webfont.ttf') format('truetype'),
+         url('Caudex-Regular-webfont.svg#caudexregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

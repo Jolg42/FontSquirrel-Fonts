@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'wide_awakeregular';
+    src: url('Wide_awake-webfont.eot');
+    src: url('Wide_awake-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Wide_awake-webfont.woff') format('woff'),
+         url('Wide_awake-webfont.ttf') format('truetype'),
+         url('Wide_awake-webfont.svg#wide_awakeregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

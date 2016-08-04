@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'lacuna_regularregular';
+    src: url('lacuna-webfont.eot');
+    src: url('lacuna-webfont.eot?#iefix') format('embedded-opentype'),
+         url('lacuna-webfont.woff') format('woff'),
+         url('lacuna-webfont.ttf') format('truetype'),
+         url('lacuna-webfont.svg#lacuna_regularregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

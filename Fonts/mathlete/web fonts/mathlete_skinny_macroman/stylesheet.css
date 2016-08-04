@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'mathleteskinny';
+    src: url('Mathlete-Skinny-webfont.eot');
+    src: url('Mathlete-Skinny-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Mathlete-Skinny-webfont.woff') format('woff'),
+         url('Mathlete-Skinny-webfont.ttf') format('truetype'),
+         url('Mathlete-Skinny-webfont.svg#mathleteskinny') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

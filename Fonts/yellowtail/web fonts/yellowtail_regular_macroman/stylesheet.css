@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'yellowtailregular';
+    src: url('Yellowtail-Regular-webfont.eot');
+    src: url('Yellowtail-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Yellowtail-Regular-webfont.woff') format('woff'),
+         url('Yellowtail-Regular-webfont.ttf') format('truetype'),
+         url('Yellowtail-Regular-webfont.svg#yellowtailregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

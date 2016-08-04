@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'sf_burlington_scriptBdIt';
+    src: url('SF_Burlington_Script_Bold_Italic-webfont.eot');
+    src: url('SF_Burlington_Script_Bold_Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('SF_Burlington_Script_Bold_Italic-webfont.woff') format('woff'),
+         url('SF_Burlington_Script_Bold_Italic-webfont.ttf') format('truetype'),
+         url('SF_Burlington_Script_Bold_Italic-webfont.svg#sf_burlington_scriptBdIt') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

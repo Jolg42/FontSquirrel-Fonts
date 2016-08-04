@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'alegreya_sans_scthin_italic';
+    src: url('AlegreyaSansSC-ThinItalic-webfont.eot');
+    src: url('AlegreyaSansSC-ThinItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('AlegreyaSansSC-ThinItalic-webfont.woff') format('woff'),
+         url('AlegreyaSansSC-ThinItalic-webfont.ttf') format('truetype'),
+         url('AlegreyaSansSC-ThinItalic-webfont.svg#alegreya_sans_scthin_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

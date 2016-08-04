@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'latin_modern_sans_demi_co10Rg';
+    src: url('lmsansdemicond10-regular-webfont.eot');
+    src: url('lmsansdemicond10-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('lmsansdemicond10-regular-webfont.woff') format('woff'),
+         url('lmsansdemicond10-regular-webfont.ttf') format('truetype'),
+         url('lmsansdemicond10-regular-webfont.svg#latin_modern_sans_demi_co10Rg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

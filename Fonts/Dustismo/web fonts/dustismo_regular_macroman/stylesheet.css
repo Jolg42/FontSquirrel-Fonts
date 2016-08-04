@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'dustismoregular';
+    src: url('dustismo-webfont.eot');
+    src: url('dustismo-webfont.eot?#iefix') format('embedded-opentype'),
+         url('dustismo-webfont.woff') format('woff'),
+         url('dustismo-webfont.ttf') format('truetype'),
+         url('dustismo-webfont.svg#dustismoregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

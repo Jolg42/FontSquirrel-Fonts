@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'hvd_comic_serif_proregular';
+    src: url('HVD_Comic_Serif_Pro-webfont.eot');
+    src: url('HVD_Comic_Serif_Pro-webfont.eot?#iefix') format('embedded-opentype'),
+         url('HVD_Comic_Serif_Pro-webfont.woff') format('woff'),
+         url('HVD_Comic_Serif_Pro-webfont.ttf') format('truetype'),
+         url('HVD_Comic_Serif_Pro-webfont.svg#hvd_comic_serif_proregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

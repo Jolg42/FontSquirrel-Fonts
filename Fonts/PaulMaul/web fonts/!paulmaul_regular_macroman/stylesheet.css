@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'paulmaulregular';
+    src: url('!PaulMaul-webfont.eot');
+    src: url('!PaulMaul-webfont.eot?#iefix') format('embedded-opentype'),
+         url('!PaulMaul-webfont.woff') format('woff'),
+         url('!PaulMaul-webfont.ttf') format('truetype'),
+         url('!PaulMaul-webfont.svg#paulmaulregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

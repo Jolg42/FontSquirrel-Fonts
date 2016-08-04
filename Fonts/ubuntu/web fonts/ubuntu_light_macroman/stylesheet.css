@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'ubuntulight';
+    src: url('Ubuntu-L-webfont.eot');
+    src: url('Ubuntu-L-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Ubuntu-L-webfont.woff') format('woff'),
+         url('Ubuntu-L-webfont.ttf') format('truetype'),
+         url('Ubuntu-L-webfont.svg#ubuntulight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

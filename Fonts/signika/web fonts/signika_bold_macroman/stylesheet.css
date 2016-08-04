@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'signikabold';
+    src: url('Signika-Bold-webfont.eot');
+    src: url('Signika-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Signika-Bold-webfont.woff') format('woff'),
+         url('Signika-Bold-webfont.ttf') format('truetype'),
+         url('Signika-Bold-webfont.svg#signikabold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

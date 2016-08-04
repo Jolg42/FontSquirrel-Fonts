@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'cabinsemibold';
+    src: url('Cabin-SemiBold-webfont.eot');
+    src: url('Cabin-SemiBold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Cabin-SemiBold-webfont.woff') format('woff'),
+         url('Cabin-SemiBold-webfont.ttf') format('truetype'),
+         url('Cabin-SemiBold-webfont.svg#cabinsemibold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

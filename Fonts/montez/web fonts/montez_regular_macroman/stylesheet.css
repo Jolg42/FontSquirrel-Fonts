@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'montezregular';
+    src: url('Montez-Regular-webfont.eot');
+    src: url('Montez-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Montez-Regular-webfont.woff') format('woff'),
+         url('Montez-Regular-webfont.ttf') format('truetype'),
+         url('Montez-Regular-webfont.svg#montezregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

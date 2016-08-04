@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'clear_sans_thinregular';
+    src: url('ClearSans-Thin-webfont.eot');
+    src: url('ClearSans-Thin-webfont.eot?#iefix') format('embedded-opentype'),
+         url('ClearSans-Thin-webfont.woff') format('woff'),
+         url('ClearSans-Thin-webfont.ttf') format('truetype'),
+         url('ClearSans-Thin-webfont.svg#clear_sans_thinregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

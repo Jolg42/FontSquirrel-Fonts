@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'sf_burlington_scriptbold';
+    src: url('SF_Burlington_Script_Bold-webfont.eot');
+    src: url('SF_Burlington_Script_Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('SF_Burlington_Script_Bold-webfont.woff') format('woff'),
+         url('SF_Burlington_Script_Bold-webfont.ttf') format('truetype'),
+         url('SF_Burlington_Script_Bold-webfont.svg#sf_burlington_scriptbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

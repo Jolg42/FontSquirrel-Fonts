@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'sf_wonder_comicitalic';
+    src: url('SF_Wonder_Comic_Italic-webfont.eot');
+    src: url('SF_Wonder_Comic_Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('SF_Wonder_Comic_Italic-webfont.woff') format('woff'),
+         url('SF_Wonder_Comic_Italic-webfont.ttf') format('truetype'),
+         url('SF_Wonder_Comic_Italic-webfont.svg#sf_wonder_comicitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'griffinregular';
+    src: url('Griffin-webfont.eot');
+    src: url('Griffin-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Griffin-webfont.woff') format('woff'),
+         url('Griffin-webfont.ttf') format('truetype'),
+         url('Griffin-webfont.svg#griffinregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

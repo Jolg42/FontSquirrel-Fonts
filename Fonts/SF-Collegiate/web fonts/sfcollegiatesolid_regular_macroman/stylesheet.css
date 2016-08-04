@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'sf_collegiate_solidregular';
+    src: url('SF_Collegiate_Solid-webfont.eot');
+    src: url('SF_Collegiate_Solid-webfont.eot?#iefix') format('embedded-opentype'),
+         url('SF_Collegiate_Solid-webfont.woff') format('woff'),
+         url('SF_Collegiate_Solid-webfont.ttf') format('truetype'),
+         url('SF_Collegiate_Solid-webfont.svg#sf_collegiate_solidregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

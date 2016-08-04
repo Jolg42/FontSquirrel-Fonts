@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'karnivore_teccaregular';
+    src: url('KARNIVOT-webfont.eot');
+    src: url('KARNIVOT-webfont.eot?#iefix') format('embedded-opentype'),
+         url('KARNIVOT-webfont.woff') format('woff'),
+         url('KARNIVOT-webfont.ttf') format('truetype'),
+         url('KARNIVOT-webfont.svg#karnivore_teccaregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

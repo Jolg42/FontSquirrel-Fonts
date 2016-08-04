@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'neutonregular';
+    src: url('Neuton-Regular-webfont.eot');
+    src: url('Neuton-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Neuton-Regular-webfont.woff') format('woff'),
+         url('Neuton-Regular-webfont.ttf') format('truetype'),
+         url('Neuton-Regular-webfont.svg#neutonregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

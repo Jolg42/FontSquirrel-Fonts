@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'wc_wunderbach_roundedregular';
+    src: url('WC_Wunderbach_R-webfont.eot');
+    src: url('WC_Wunderbach_R-webfont.eot?#iefix') format('embedded-opentype'),
+         url('WC_Wunderbach_R-webfont.woff') format('woff'),
+         url('WC_Wunderbach_R-webfont.ttf') format('truetype'),
+         url('WC_Wunderbach_R-webfont.svg#wc_wunderbach_roundedregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

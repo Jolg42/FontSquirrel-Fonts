@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'new_ciclefina';
+    src: url('New_Cicle_Fina-webfont.eot');
+    src: url('New_Cicle_Fina-webfont.eot?#iefix') format('embedded-opentype'),
+         url('New_Cicle_Fina-webfont.woff') format('woff'),
+         url('New_Cicle_Fina-webfont.ttf') format('truetype'),
+         url('New_Cicle_Fina-webfont.svg#new_ciclefina') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

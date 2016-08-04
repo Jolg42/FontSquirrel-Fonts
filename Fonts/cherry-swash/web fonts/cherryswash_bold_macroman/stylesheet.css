@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'cherry_swashbold';
+    src: url('CherrySwash-Bold-webfont.eot');
+    src: url('CherrySwash-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('CherrySwash-Bold-webfont.woff') format('woff'),
+         url('CherrySwash-Bold-webfont.ttf') format('truetype'),
+         url('CherrySwash-Bold-webfont.svg#cherry_swashbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

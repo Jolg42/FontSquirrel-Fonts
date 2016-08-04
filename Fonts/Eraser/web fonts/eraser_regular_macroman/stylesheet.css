@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'eraserregular';
+    src: url('EraserRegular-webfont.eot');
+    src: url('EraserRegular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('EraserRegular-webfont.woff') format('woff'),
+         url('EraserRegular-webfont.ttf') format('truetype'),
+         url('EraserRegular-webfont.svg#eraserregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

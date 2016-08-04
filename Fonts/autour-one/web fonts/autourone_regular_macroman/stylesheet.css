@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'autour_oneregular';
+    src: url('AutourOne-Regular-webfont.eot');
+    src: url('AutourOne-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('AutourOne-Regular-webfont.woff') format('woff'),
+         url('AutourOne-Regular-webfont.ttf') format('truetype'),
+         url('AutourOne-Regular-webfont.svg#autour_oneregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

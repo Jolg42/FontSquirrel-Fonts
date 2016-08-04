@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'blackout2_am';
+    src: url('Blackout-2am-webfont.eot');
+    src: url('Blackout-2am-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Blackout-2am-webfont.woff') format('woff'),
+         url('Blackout-2am-webfont.ttf') format('truetype'),
+         url('Blackout-2am-webfont.svg#blackout2_am') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'titan_oneregular';
+    src: url('TitanOne-Regular-webfont.eot');
+    src: url('TitanOne-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('TitanOne-Regular-webfont.woff') format('woff'),
+         url('TitanOne-Regular-webfont.ttf') format('truetype'),
+         url('TitanOne-Regular-webfont.svg#titan_oneregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'dearest_openregular';
+    src: url('Dearest_open-webfont.eot');
+    src: url('Dearest_open-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Dearest_open-webfont.woff') format('woff'),
+         url('Dearest_open-webfont.ttf') format('truetype'),
+         url('Dearest_open-webfont.svg#dearest_openregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

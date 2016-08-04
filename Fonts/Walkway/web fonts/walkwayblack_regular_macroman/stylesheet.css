@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'walkway_blackregular';
+    src: url('Walkway_Black-webfont.eot');
+    src: url('Walkway_Black-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Walkway_Black-webfont.woff') format('woff'),
+         url('Walkway_Black-webfont.ttf') format('truetype'),
+         url('Walkway_Black-webfont.svg#walkway_blackregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

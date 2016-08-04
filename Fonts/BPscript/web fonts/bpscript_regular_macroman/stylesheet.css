@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'bpscriptregular';
+    src: url('BPscript-webfont.eot');
+    src: url('BPscript-webfont.eot?#iefix') format('embedded-opentype'),
+         url('BPscript-webfont.woff') format('woff'),
+         url('BPscript-webfont.ttf') format('truetype'),
+         url('BPscript-webfont.svg#bpscriptregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

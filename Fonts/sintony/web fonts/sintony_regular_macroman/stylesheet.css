@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'sintonyregular';
+    src: url('Sintony-Regular-webfont.eot');
+    src: url('Sintony-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Sintony-Regular-webfont.woff') format('woff'),
+         url('Sintony-Regular-webfont.ttf') format('truetype'),
+         url('Sintony-Regular-webfont.svg#sintonyregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

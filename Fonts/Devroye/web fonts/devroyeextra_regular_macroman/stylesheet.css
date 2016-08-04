@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'devroye_extraregular';
+    src: url('DEVROYEX-webfont.eot');
+    src: url('DEVROYEX-webfont.eot?#iefix') format('embedded-opentype'),
+         url('DEVROYEX-webfont.woff') format('woff'),
+         url('DEVROYEX-webfont.ttf') format('truetype'),
+         url('DEVROYEX-webfont.svg#devroye_extraregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

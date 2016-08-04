@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'laconicbold';
+    src: url('Laconic_Bold-webfont.eot');
+    src: url('Laconic_Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Laconic_Bold-webfont.woff') format('woff'),
+         url('Laconic_Bold-webfont.ttf') format('truetype'),
+         url('Laconic_Bold-webfont.svg#laconicbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

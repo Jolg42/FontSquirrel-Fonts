@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'theano_modernregular';
+    src: url('TheanoModern-Regular-webfont.eot');
+    src: url('TheanoModern-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('TheanoModern-Regular-webfont.woff') format('woff'),
+         url('TheanoModern-Regular-webfont.ttf') format('truetype'),
+         url('TheanoModern-Regular-webfont.svg#theano_modernregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

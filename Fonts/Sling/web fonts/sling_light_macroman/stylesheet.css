@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'slinglight';
+    src: url('SlingLight-webfont.eot');
+    src: url('SlingLight-webfont.eot?#iefix') format('embedded-opentype'),
+         url('SlingLight-webfont.woff') format('woff'),
+         url('SlingLight-webfont.ttf') format('truetype'),
+         url('SlingLight-webfont.svg#slinglight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'luxi_sansoblique';
+    src: url('luxisri-webfont.eot');
+    src: url('luxisri-webfont.eot?#iefix') format('embedded-opentype'),
+         url('luxisri-webfont.woff') format('woff'),
+         url('luxisri-webfont.ttf') format('truetype'),
+         url('luxisri-webfont.svg#luxi_sansoblique') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

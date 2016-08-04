@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'snippetregular';
+    src: url('Snippet-webfont.eot');
+    src: url('Snippet-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Snippet-webfont.woff') format('woff'),
+         url('Snippet-webfont.ttf') format('truetype'),
+         url('Snippet-webfont.svg#snippetregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

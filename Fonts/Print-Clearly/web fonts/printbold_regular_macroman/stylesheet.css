@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'print_boldregular';
+    src: url('PrintBold-webfont.eot');
+    src: url('PrintBold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('PrintBold-webfont.woff') format('woff'),
+         url('PrintBold-webfont.ttf') format('truetype'),
+         url('PrintBold-webfont.svg#print_boldregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'sportropregular';
+    src: url('Sportrop-webfont.eot');
+    src: url('Sportrop-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Sportrop-webfont.woff') format('woff'),
+         url('Sportrop-webfont.ttf') format('truetype'),
+         url('Sportrop-webfont.svg#sportropregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'ubuntumedium';
+    src: url('Ubuntu-M-webfont.eot');
+    src: url('Ubuntu-M-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Ubuntu-M-webfont.woff') format('woff'),
+         url('Ubuntu-M-webfont.ttf') format('truetype'),
+         url('Ubuntu-M-webfont.svg#ubuntumedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

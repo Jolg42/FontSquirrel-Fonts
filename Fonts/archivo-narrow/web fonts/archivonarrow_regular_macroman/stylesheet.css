@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'archivo_narrowregular';
+    src: url('ArchivoNarrow-Regular-webfont.eot');
+    src: url('ArchivoNarrow-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('ArchivoNarrow-Regular-webfont.woff') format('woff'),
+         url('ArchivoNarrow-Regular-webfont.ttf') format('truetype'),
+         url('ArchivoNarrow-Regular-webfont.svg#archivo_narrowregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

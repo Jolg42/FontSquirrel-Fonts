@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'bitstream_vera_sansoblique';
+    src: url('Vera-Italic-webfont.eot');
+    src: url('Vera-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Vera-Italic-webfont.woff') format('woff'),
+         url('Vera-Italic-webfont.ttf') format('truetype'),
+         url('Vera-Italic-webfont.svg#bitstream_vera_sansoblique') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

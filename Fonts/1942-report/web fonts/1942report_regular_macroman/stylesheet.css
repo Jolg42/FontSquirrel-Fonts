@@ -1,0 +1,12 @@
+@font-face {
+    font-family: '1942_report1942_report';
+    src: url('1942-webfont.eot');
+    src: url('1942-webfont.eot?#iefix') format('embedded-opentype'),
+         url('1942-webfont.woff') format('woff'),
+         url('1942-webfont.ttf') format('truetype'),
+         url('1942-webfont.svg#1942_report1942_report') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

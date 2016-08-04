@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'playbold';
+    src: url('Play-Bold-webfont.eot');
+    src: url('Play-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Play-Bold-webfont.woff') format('woff'),
+         url('Play-Bold-webfont.ttf') format('truetype'),
+         url('Play-Bold-webfont.svg#playbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

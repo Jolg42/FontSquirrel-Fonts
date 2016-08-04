@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'quigleywigglyregular';
+    src: url('QUIGLEYW-webfont.eot');
+    src: url('QUIGLEYW-webfont.eot?#iefix') format('embedded-opentype'),
+         url('QUIGLEYW-webfont.woff') format('woff'),
+         url('QUIGLEYW-webfont.ttf') format('truetype'),
+         url('QUIGLEYW-webfont.svg#quigleywigglyregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

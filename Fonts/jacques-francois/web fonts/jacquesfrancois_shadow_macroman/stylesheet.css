@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'jacques_francois_shadowRg';
+    src: url('JacquesFrancoisShadow-Regular-webfont.eot');
+    src: url('JacquesFrancoisShadow-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('JacquesFrancoisShadow-Regular-webfont.woff') format('woff'),
+         url('JacquesFrancoisShadow-Regular-webfont.ttf') format('truetype'),
+         url('JacquesFrancoisShadow-Regular-webfont.svg#jacques_francois_shadowRg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

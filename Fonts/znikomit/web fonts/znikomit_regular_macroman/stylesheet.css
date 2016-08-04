@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'znikomitregular';
+    src: url('Znikomit-webfont.eot');
+    src: url('Znikomit-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Znikomit-webfont.woff') format('woff'),
+         url('Znikomit-webfont.ttf') format('truetype'),
+         url('Znikomit-webfont.svg#znikomitregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

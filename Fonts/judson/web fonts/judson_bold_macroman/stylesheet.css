@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'judsonbold';
+    src: url('Judson-Bold-webfont.eot');
+    src: url('Judson-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Judson-Bold-webfont.woff') format('woff'),
+         url('Judson-Bold-webfont.ttf') format('truetype'),
+         url('Judson-Bold-webfont.svg#judsonbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

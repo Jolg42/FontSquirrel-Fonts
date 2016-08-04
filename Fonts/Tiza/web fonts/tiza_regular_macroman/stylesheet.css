@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'tizaregular';
+    src: url('tiza-webfont.eot');
+    src: url('tiza-webfont.eot?#iefix') format('embedded-opentype'),
+         url('tiza-webfont.woff') format('woff'),
+         url('tiza-webfont.ttf') format('truetype'),
+         url('tiza-webfont.svg#tizaregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

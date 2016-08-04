@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'neutonbold';
+    src: url('Neuton-Bold-webfont.eot');
+    src: url('Neuton-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Neuton-Bold-webfont.woff') format('woff'),
+         url('Neuton-Bold-webfont.ttf') format('truetype'),
+         url('Neuton-Bold-webfont.svg#neutonbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

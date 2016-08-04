@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'vollkornregular';
+    src: url('Vollkorn-Regular-webfont.eot');
+    src: url('Vollkorn-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Vollkorn-Regular-webfont.woff') format('woff'),
+         url('Vollkorn-Regular-webfont.ttf') format('truetype'),
+         url('Vollkorn-Regular-webfont.svg#vollkornregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

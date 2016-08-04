@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'anonymous_probold';
+    src: url('Anonymous_Pro_B-webfont.eot');
+    src: url('Anonymous_Pro_B-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Anonymous_Pro_B-webfont.woff') format('woff'),
+         url('Anonymous_Pro_B-webfont.ttf') format('truetype'),
+         url('Anonymous_Pro_B-webfont.svg#anonymous_probold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

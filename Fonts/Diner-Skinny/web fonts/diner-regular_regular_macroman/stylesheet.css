@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'diner-regularregular';
+    src: url('Diner-Regular-webfont.eot');
+    src: url('Diner-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Diner-Regular-webfont.woff') format('woff'),
+         url('Diner-Regular-webfont.ttf') format('truetype'),
+         url('Diner-Regular-webfont.svg#diner-regularregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

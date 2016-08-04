@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'exoticamedium';
+    src: url('Exotica-webfont.eot');
+    src: url('Exotica-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Exotica-webfont.woff') format('woff'),
+         url('Exotica-webfont.ttf') format('truetype'),
+         url('Exotica-webfont.svg#exoticamedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

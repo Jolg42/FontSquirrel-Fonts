@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'mateitalic';
+    src: url('Mate-Italic-webfont.eot');
+    src: url('Mate-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Mate-Italic-webfont.woff') format('woff'),
+         url('Mate-Italic-webfont.ttf') format('truetype'),
+         url('Mate-Italic-webfont.svg#mateitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

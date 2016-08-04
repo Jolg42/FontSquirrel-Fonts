@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'texgyrepagellabold';
+    src: url('texgyrepagella-bold-webfont.eot');
+    src: url('texgyrepagella-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('texgyrepagella-bold-webfont.woff') format('woff'),
+         url('texgyrepagella-bold-webfont.ttf') format('truetype'),
+         url('texgyrepagella-bold-webfont.svg#texgyrepagellabold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

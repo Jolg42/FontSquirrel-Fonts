@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'collegebold';
+    src: url('COLLEGEB-webfont.eot');
+    src: url('COLLEGEB-webfont.eot?#iefix') format('embedded-opentype'),
+         url('COLLEGEB-webfont.woff') format('woff'),
+         url('COLLEGEB-webfont.ttf') format('truetype'),
+         url('COLLEGEB-webfont.svg#collegebold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

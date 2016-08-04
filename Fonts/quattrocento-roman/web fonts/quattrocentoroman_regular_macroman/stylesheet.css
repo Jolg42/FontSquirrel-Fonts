@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'quattrocento_romanregular';
+    src: url('Quattrocento-Regular-webfont.eot');
+    src: url('Quattrocento-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Quattrocento-Regular-webfont.woff') format('woff'),
+         url('Quattrocento-Regular-webfont.ttf') format('truetype'),
+         url('Quattrocento-Regular-webfont.svg#quattrocento_romanregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

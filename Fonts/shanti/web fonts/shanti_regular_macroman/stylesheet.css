@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'shantiregular';
+    src: url('Shanti-Regular-webfont.eot');
+    src: url('Shanti-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Shanti-Regular-webfont.woff') format('woff'),
+         url('Shanti-Regular-webfont.ttf') format('truetype'),
+         url('Shanti-Regular-webfont.svg#shantiregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

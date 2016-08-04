@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'source_code_problack';
+    src: url('SourceCodePro-Black-webfont.eot');
+    src: url('SourceCodePro-Black-webfont.eot?#iefix') format('embedded-opentype'),
+         url('SourceCodePro-Black-webfont.woff') format('woff'),
+         url('SourceCodePro-Black-webfont.ttf') format('truetype'),
+         url('SourceCodePro-Black-webfont.svg#source_code_problack') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

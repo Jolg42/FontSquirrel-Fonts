@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'maiden_orangeregular';
+    src: url('MaidenOrange-webfont.eot');
+    src: url('MaidenOrange-webfont.eot?#iefix') format('embedded-opentype'),
+         url('MaidenOrange-webfont.woff') format('woff'),
+         url('MaidenOrange-webfont.ttf') format('truetype'),
+         url('MaidenOrange-webfont.svg#maiden_orangeregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

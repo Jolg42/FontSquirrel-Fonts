@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'zambajounregular';
+    src: url('Zambajoun-webfont.eot');
+    src: url('Zambajoun-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Zambajoun-webfont.woff') format('woff'),
+         url('Zambajoun-webfont.ttf') format('truetype'),
+         url('Zambajoun-webfont.svg#zambajounregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'simonettaitalic';
+    src: url('Simonetta-Italic-webfont.eot');
+    src: url('Simonetta-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Simonetta-Italic-webfont.woff') format('woff'),
+         url('Simonetta-Italic-webfont.ttf') format('truetype'),
+         url('Simonetta-Italic-webfont.svg#simonettaitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

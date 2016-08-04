@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'paete_roundregular';
+    src: url('PAETRRG_-webfont.eot');
+    src: url('PAETRRG_-webfont.eot?#iefix') format('embedded-opentype'),
+         url('PAETRRG_-webfont.woff') format('woff'),
+         url('PAETRRG_-webfont.ttf') format('truetype'),
+         url('PAETRRG_-webfont.svg#paete_roundregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

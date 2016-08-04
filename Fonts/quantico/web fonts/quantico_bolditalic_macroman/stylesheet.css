@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'quanticobold_italic';
+    src: url('Quantico-BoldItalic-webfont.eot');
+    src: url('Quantico-BoldItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Quantico-BoldItalic-webfont.woff') format('woff'),
+         url('Quantico-BoldItalic-webfont.ttf') format('truetype'),
+         url('Quantico-BoldItalic-webfont.svg#quanticobold_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

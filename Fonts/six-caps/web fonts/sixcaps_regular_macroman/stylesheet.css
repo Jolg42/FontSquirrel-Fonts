@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'six_capsregular';
+    src: url('SixCaps-webfont.eot');
+    src: url('SixCaps-webfont.eot?#iefix') format('embedded-opentype'),
+         url('SixCaps-webfont.woff') format('woff'),
+         url('SixCaps-webfont.ttf') format('truetype'),
+         url('SixCaps-webfont.svg#six_capsregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

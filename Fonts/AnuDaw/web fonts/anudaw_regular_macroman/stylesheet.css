@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'anudawregular';
+    src: url('ANUDRG__-webfont.eot');
+    src: url('ANUDRG__-webfont.eot?#iefix') format('embedded-opentype'),
+         url('ANUDRG__-webfont.woff') format('woff'),
+         url('ANUDRG__-webfont.ttf') format('truetype'),
+         url('ANUDRG__-webfont.svg#anudawregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

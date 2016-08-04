@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'copystructnormal';
+    src: url('COPYN___-webfont.eot');
+    src: url('COPYN___-webfont.eot?#iefix') format('embedded-opentype'),
+         url('COPYN___-webfont.woff') format('woff'),
+         url('COPYN___-webfont.ttf') format('truetype'),
+         url('COPYN___-webfont.svg#copystructnormal') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

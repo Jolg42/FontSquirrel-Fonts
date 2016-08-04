@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'im_fell_flowers_2regular';
+    src: url('FeFlow2-webfont.eot');
+    src: url('FeFlow2-webfont.eot?#iefix') format('embedded-opentype'),
+         url('FeFlow2-webfont.woff') format('woff'),
+         url('FeFlow2-webfont.ttf') format('truetype'),
+         url('FeFlow2-webfont.svg#im_fell_flowers_2regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

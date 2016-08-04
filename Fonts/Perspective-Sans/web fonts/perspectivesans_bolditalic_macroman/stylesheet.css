@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'perspective_sansbold_italic';
+    src: url('persanbi-webfont.eot');
+    src: url('persanbi-webfont.eot?#iefix') format('embedded-opentype'),
+         url('persanbi-webfont.woff') format('woff'),
+         url('persanbi-webfont.ttf') format('truetype'),
+         url('persanbi-webfont.svg#perspective_sansbold_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

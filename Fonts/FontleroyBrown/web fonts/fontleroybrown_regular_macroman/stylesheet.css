@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'fontleroybrownregular';
+    src: url('FontleroyBrown-webfont.eot');
+    src: url('FontleroyBrown-webfont.eot?#iefix') format('embedded-opentype'),
+         url('FontleroyBrown-webfont.woff') format('woff'),
+         url('FontleroyBrown-webfont.ttf') format('truetype'),
+         url('FontleroyBrown-webfont.svg#fontleroybrownregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

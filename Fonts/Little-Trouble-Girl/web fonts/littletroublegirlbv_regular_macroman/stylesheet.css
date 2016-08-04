@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'little_trouble_girl_bvregular';
+    src: url('littletroublegirl-webfont.eot');
+    src: url('littletroublegirl-webfont.eot?#iefix') format('embedded-opentype'),
+         url('littletroublegirl-webfont.woff') format('woff'),
+         url('littletroublegirl-webfont.ttf') format('truetype'),
+         url('littletroublegirl-webfont.svg#little_trouble_girl_bvregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

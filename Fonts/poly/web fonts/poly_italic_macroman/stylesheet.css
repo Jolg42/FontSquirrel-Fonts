@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'polyitalic';
+    src: url('Poly-Italic-webfont.eot');
+    src: url('Poly-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Poly-Italic-webfont.woff') format('woff'),
+         url('Poly-Italic-webfont.ttf') format('truetype'),
+         url('Poly-Italic-webfont.svg#polyitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

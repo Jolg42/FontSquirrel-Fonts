@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'water_street_detourregular';
+    src: url('waterst2-webfont.eot');
+    src: url('waterst2-webfont.eot?#iefix') format('embedded-opentype'),
+         url('waterst2-webfont.woff') format('woff'),
+         url('waterst2-webfont.ttf') format('truetype'),
+         url('waterst2-webfont.svg#water_street_detourregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

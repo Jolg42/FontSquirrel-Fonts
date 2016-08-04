@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'latin_modern_roman10BdIt';
+    src: url('lmroman10-bolditalic-webfont.eot');
+    src: url('lmroman10-bolditalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('lmroman10-bolditalic-webfont.woff') format('woff'),
+         url('lmroman10-bolditalic-webfont.ttf') format('truetype'),
+         url('lmroman10-bolditalic-webfont.svg#latin_modern_roman10BdIt') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

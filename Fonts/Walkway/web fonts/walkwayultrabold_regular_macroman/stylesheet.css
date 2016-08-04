@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'walkway_ultraboldregular';
+    src: url('Walkway_UltraBold-webfont.eot');
+    src: url('Walkway_UltraBold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Walkway_UltraBold-webfont.woff') format('woff'),
+         url('Walkway_UltraBold-webfont.ttf') format('truetype'),
+         url('Walkway_UltraBold-webfont.svg#walkway_ultraboldregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

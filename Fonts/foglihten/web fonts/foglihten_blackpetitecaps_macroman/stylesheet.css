@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'foglihtenblackpcsblackpcs';
+    src: url('FoglihtenBlackPcs-fMac-webfont.eot');
+    src: url('FoglihtenBlackPcs-fMac-webfont.eot?#iefix') format('embedded-opentype'),
+         url('FoglihtenBlackPcs-fMac-webfont.woff') format('woff'),
+         url('FoglihtenBlackPcs-fMac-webfont.ttf') format('truetype'),
+         url('FoglihtenBlackPcs-fMac-webfont.svg#foglihtenblackpcsblackpcs') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

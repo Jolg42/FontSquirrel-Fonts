@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'comic_reliefregular';
+    src: url('ComicRelief-webfont.eot');
+    src: url('ComicRelief-webfont.eot?#iefix') format('embedded-opentype'),
+         url('ComicRelief-webfont.woff') format('woff'),
+         url('ComicRelief-webfont.ttf') format('truetype'),
+         url('ComicRelief-webfont.svg#comic_reliefregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

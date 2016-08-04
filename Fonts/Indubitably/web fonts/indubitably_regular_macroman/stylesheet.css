@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'indubitablyregular';
+    src: url('INDUBITA-webfont.eot');
+    src: url('INDUBITA-webfont.eot?#iefix') format('embedded-opentype'),
+         url('INDUBITA-webfont.woff') format('woff'),
+         url('INDUBITA-webfont.ttf') format('truetype'),
+         url('INDUBITA-webfont.svg#indubitablyregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

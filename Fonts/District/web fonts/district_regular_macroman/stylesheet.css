@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'districtregular';
+    src: url('District-webfont.eot');
+    src: url('District-webfont.eot?#iefix') format('embedded-opentype'),
+         url('District-webfont.woff') format('woff'),
+         url('District-webfont.ttf') format('truetype'),
+         url('District-webfont.svg#districtregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

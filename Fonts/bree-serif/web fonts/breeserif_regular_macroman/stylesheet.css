@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'bree_serifregular';
+    src: url('BreeSerif-Regular-webfont.eot');
+    src: url('BreeSerif-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('BreeSerif-Regular-webfont.woff') format('woff'),
+         url('BreeSerif-Regular-webfont.ttf') format('truetype'),
+         url('BreeSerif-Regular-webfont.svg#bree_serifregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

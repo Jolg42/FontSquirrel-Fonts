@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'medioregular';
+    src: url('Medio-webfont.eot');
+    src: url('Medio-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Medio-webfont.woff') format('woff'),
+         url('Medio-webfont.ttf') format('truetype'),
+         url('Medio-webfont.svg#medioregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

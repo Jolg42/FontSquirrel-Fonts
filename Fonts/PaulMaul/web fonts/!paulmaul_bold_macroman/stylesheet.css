@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'paulmaulbold';
+    src: url('!PaulMaul-b-webfont.eot');
+    src: url('!PaulMaul-b-webfont.eot?#iefix') format('embedded-opentype'),
+         url('!PaulMaul-b-webfont.woff') format('woff'),
+         url('!PaulMaul-b-webfont.ttf') format('truetype'),
+         url('!PaulMaul-b-webfont.svg#paulmaulbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

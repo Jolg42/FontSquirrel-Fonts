@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'immortalregular';
+    src: url('immortal-webfont.eot');
+    src: url('immortal-webfont.eot?#iefix') format('embedded-opentype'),
+         url('immortal-webfont.woff') format('woff'),
+         url('immortal-webfont.ttf') format('truetype'),
+         url('immortal-webfont.svg#immortalregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

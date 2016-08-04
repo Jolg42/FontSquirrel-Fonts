@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'elsie_swash_capsregular';
+    src: url('ElsieSwashCaps-Regular-webfont.eot');
+    src: url('ElsieSwashCaps-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('ElsieSwashCaps-Regular-webfont.woff') format('woff'),
+         url('ElsieSwashCaps-Regular-webfont.ttf') format('truetype'),
+         url('ElsieSwashCaps-Regular-webfont.svg#elsie_swash_capsregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

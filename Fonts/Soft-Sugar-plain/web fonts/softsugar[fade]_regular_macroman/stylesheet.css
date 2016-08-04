@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'soft_sugar_faderegular';
+    src: url('Softfade-webfont.eot');
+    src: url('Softfade-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Softfade-webfont.woff') format('woff'),
+         url('Softfade-webfont.ttf') format('truetype'),
+         url('Softfade-webfont.svg#soft_sugar_faderegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

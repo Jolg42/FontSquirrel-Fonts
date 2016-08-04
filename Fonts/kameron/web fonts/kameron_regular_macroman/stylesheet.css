@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'kameronregular';
+    src: url('Kameron-Regular-webfont.eot');
+    src: url('Kameron-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Kameron-Regular-webfont.woff') format('woff'),
+         url('Kameron-Regular-webfont.ttf') format('truetype'),
+         url('Kameron-Regular-webfont.svg#kameronregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

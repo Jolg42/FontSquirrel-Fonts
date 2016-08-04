@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'caslon_calligraphic_initialRg';
+    src: url('Caslon_Calligraphic-webfont.eot');
+    src: url('Caslon_Calligraphic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Caslon_Calligraphic-webfont.woff') format('woff'),
+         url('Caslon_Calligraphic-webfont.ttf') format('truetype'),
+         url('Caslon_Calligraphic-webfont.svg#caslon_calligraphic_initialRg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

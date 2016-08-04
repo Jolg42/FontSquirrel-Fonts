@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'source_sans_problack_italic';
+    src: url('SourceSansPro-BlackIt-webfont.eot');
+    src: url('SourceSansPro-BlackIt-webfont.eot?#iefix') format('embedded-opentype'),
+         url('SourceSansPro-BlackIt-webfont.woff') format('woff'),
+         url('SourceSansPro-BlackIt-webfont.ttf') format('truetype'),
+         url('SourceSansPro-BlackIt-webfont.svg#source_sans_problack_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

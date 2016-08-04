@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'oxygenbold';
+    src: url('Oxygen-Bold-webfont.eot');
+    src: url('Oxygen-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Oxygen-Bold-webfont.woff') format('woff'),
+         url('Oxygen-Bold-webfont.ttf') format('truetype'),
+         url('Oxygen-Bold-webfont.svg#oxygenbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

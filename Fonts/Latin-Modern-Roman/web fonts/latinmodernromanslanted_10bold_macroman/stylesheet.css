@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'latin_modern_roman_slante10Bd';
+    src: url('lmromanslant10-bold-webfont.eot');
+    src: url('lmromanslant10-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('lmromanslant10-bold-webfont.woff') format('woff'),
+         url('lmromanslant10-bold-webfont.ttf') format('truetype'),
+         url('lmromanslant10-bold-webfont.svg#latin_modern_roman_slante10Bd') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

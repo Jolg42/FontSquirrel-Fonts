@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'outgunnedregular';
+    src: url('Outgunned-webfont.eot');
+    src: url('Outgunned-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Outgunned-webfont.woff') format('woff'),
+         url('Outgunned-webfont.ttf') format('truetype'),
+         url('Outgunned-webfont.svg#outgunnedregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

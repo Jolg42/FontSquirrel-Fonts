@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'contraregular';
+    src: url('contra-webfont.eot');
+    src: url('contra-webfont.eot?#iefix') format('embedded-opentype'),
+         url('contra-webfont.woff') format('woff'),
+         url('contra-webfont.ttf') format('truetype'),
+         url('contra-webfont.svg#contraregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

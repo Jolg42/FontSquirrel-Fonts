@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'archisticonormal';
+    src: url('Archistico_Simple-webfont.eot');
+    src: url('Archistico_Simple-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Archistico_Simple-webfont.woff') format('woff'),
+         url('Archistico_Simple-webfont.ttf') format('truetype'),
+         url('Archistico_Simple-webfont.svg#archisticonormal') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'jinkyregular';
+    src: url('JINKY-webfont.eot');
+    src: url('JINKY-webfont.eot?#iefix') format('embedded-opentype'),
+         url('JINKY-webfont.woff') format('woff'),
+         url('JINKY-webfont.ttf') format('truetype'),
+         url('JINKY-webfont.svg#jinkyregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

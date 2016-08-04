@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'alegreya_sans_scregular';
+    src: url('AlegreyaSansSC-Regular-webfont.eot');
+    src: url('AlegreyaSansSC-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('AlegreyaSansSC-Regular-webfont.woff') format('woff'),
+         url('AlegreyaSansSC-Regular-webfont.ttf') format('truetype'),
+         url('AlegreyaSansSC-Regular-webfont.svg#alegreya_sans_scregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

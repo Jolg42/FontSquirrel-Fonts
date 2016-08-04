@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'kameronbold';
+    src: url('Kameron-Bold-webfont.eot');
+    src: url('Kameron-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Kameron-Bold-webfont.woff') format('woff'),
+         url('Kameron-Bold-webfont.ttf') format('truetype'),
+         url('Kameron-Bold-webfont.svg#kameronbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

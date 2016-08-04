@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'promocyjamedium';
+    src: url('promocyja-webfont.eot');
+    src: url('promocyja-webfont.eot?#iefix') format('embedded-opentype'),
+         url('promocyja-webfont.woff') format('woff'),
+         url('promocyja-webfont.ttf') format('truetype'),
+         url('promocyja-webfont.svg#promocyjamedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

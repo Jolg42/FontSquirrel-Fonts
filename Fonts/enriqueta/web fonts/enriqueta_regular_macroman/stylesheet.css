@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'enriquetaregular';
+    src: url('Enriqueta-Regular-webfont.eot');
+    src: url('Enriqueta-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Enriqueta-Regular-webfont.woff') format('woff'),
+         url('Enriqueta-Regular-webfont.ttf') format('truetype'),
+         url('Enriqueta-Regular-webfont.svg#enriquetaregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

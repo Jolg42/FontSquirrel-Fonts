@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'sansationregular';
+    src: url('Sansation-Regular-webfont.eot');
+    src: url('Sansation-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Sansation-Regular-webfont.woff') format('woff'),
+         url('Sansation-Regular-webfont.ttf') format('truetype'),
+         url('Sansation-Regular-webfont.svg#sansationregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

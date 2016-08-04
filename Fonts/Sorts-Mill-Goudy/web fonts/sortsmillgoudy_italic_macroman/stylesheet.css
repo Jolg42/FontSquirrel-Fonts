@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'sorts_mill_goudyitalic';
+    src: url('GoudyStM-Italic-webfont.eot');
+    src: url('GoudyStM-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('GoudyStM-Italic-webfont.woff') format('woff'),
+         url('GoudyStM-Italic-webfont.ttf') format('truetype'),
+         url('GoudyStM-Italic-webfont.svg#sorts_mill_goudyitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

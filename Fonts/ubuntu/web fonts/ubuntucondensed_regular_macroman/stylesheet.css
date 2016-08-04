@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'ubuntu_condensedregular';
+    src: url('Ubuntu-C-webfont.eot');
+    src: url('Ubuntu-C-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Ubuntu-C-webfont.woff') format('woff'),
+         url('Ubuntu-C-webfont.ttf') format('truetype'),
+         url('Ubuntu-C-webfont.svg#ubuntu_condensedregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

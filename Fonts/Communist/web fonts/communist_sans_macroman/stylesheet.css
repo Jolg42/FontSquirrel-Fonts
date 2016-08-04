@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'communistsans';
+    src: url('COMMS___-webfont.eot');
+    src: url('COMMS___-webfont.eot?#iefix') format('embedded-opentype'),
+         url('COMMS___-webfont.woff') format('woff'),
+         url('COMMS___-webfont.ttf') format('truetype'),
+         url('COMMS___-webfont.svg#communistsans') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

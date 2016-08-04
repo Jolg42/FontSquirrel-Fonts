@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'cinzel_decorativeregular';
+    src: url('CinzelDecorative-Regular-webfont.eot');
+    src: url('CinzelDecorative-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('CinzelDecorative-Regular-webfont.woff') format('woff'),
+         url('CinzelDecorative-Regular-webfont.ttf') format('truetype'),
+         url('CinzelDecorative-Regular-webfont.svg#cinzel_decorativeregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

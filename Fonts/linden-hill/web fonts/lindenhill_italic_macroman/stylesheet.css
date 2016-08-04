@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'linden_hillitalic';
+    src: url('LindenHill-Italic-webfont.eot');
+    src: url('LindenHill-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('LindenHill-Italic-webfont.woff') format('woff'),
+         url('LindenHill-Italic-webfont.ttf') format('truetype'),
+         url('LindenHill-Italic-webfont.svg#linden_hillitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

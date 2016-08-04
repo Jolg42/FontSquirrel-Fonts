@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'yataghanregular';
+    src: url('yataghan-webfont.eot');
+    src: url('yataghan-webfont.eot?#iefix') format('embedded-opentype'),
+         url('yataghan-webfont.woff') format('woff'),
+         url('yataghan-webfont.ttf') format('truetype'),
+         url('yataghan-webfont.svg#yataghanregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

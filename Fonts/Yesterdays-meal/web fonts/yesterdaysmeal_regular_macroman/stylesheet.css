@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'yesterdays_mealregular';
+    src: url('YESTERDAYSMEAL-webfont.eot');
+    src: url('YESTERDAYSMEAL-webfont.eot?#iefix') format('embedded-opentype'),
+         url('YESTERDAYSMEAL-webfont.woff') format('woff'),
+         url('YESTERDAYSMEAL-webfont.ttf') format('truetype'),
+         url('YESTERDAYSMEAL-webfont.svg#yesterdays_mealregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

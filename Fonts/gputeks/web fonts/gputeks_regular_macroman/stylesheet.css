@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'gputeksregular';
+    src: url('Gputeks-Regular-webfont.eot');
+    src: url('Gputeks-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Gputeks-Regular-webfont.woff') format('woff'),
+         url('Gputeks-Regular-webfont.ttf') format('truetype'),
+         url('Gputeks-Regular-webfont.svg#gputeksregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'juice_bold_italicregular';
+    src: url('JUICE_Bold_Italic-webfont.eot');
+    src: url('JUICE_Bold_Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('JUICE_Bold_Italic-webfont.woff') format('woff'),
+         url('JUICE_Bold_Italic-webfont.ttf') format('truetype'),
+         url('JUICE_Bold_Italic-webfont.svg#juice_bold_italicregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

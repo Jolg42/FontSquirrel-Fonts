@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'incisedblackwidenormal';
+    src: url('Incised_Black_Wide-webfont.eot');
+    src: url('Incised_Black_Wide-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Incised_Black_Wide-webfont.woff') format('woff'),
+         url('Incised_Black_Wide-webfont.ttf') format('truetype'),
+         url('Incised_Black_Wide-webfont.svg#incisedblackwidenormal') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

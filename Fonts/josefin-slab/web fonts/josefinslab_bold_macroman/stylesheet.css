@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'josefin_slabbold';
+    src: url('JosefinSlab-Bold-webfont.eot');
+    src: url('JosefinSlab-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('JosefinSlab-Bold-webfont.woff') format('woff'),
+         url('JosefinSlab-Bold-webfont.ttf') format('truetype'),
+         url('JosefinSlab-Bold-webfont.svg#josefin_slabbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'crimson_textbold_italic';
+    src: url('CrimsonText-BoldItalic-webfont.eot');
+    src: url('CrimsonText-BoldItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('CrimsonText-BoldItalic-webfont.woff') format('woff'),
+         url('CrimsonText-BoldItalic-webfont.ttf') format('truetype'),
+         url('CrimsonText-BoldItalic-webfont.svg#crimson_textbold_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

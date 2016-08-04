@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'gentium_book_basicitalic';
+    src: url('GenBkBasI-webfont.eot');
+    src: url('GenBkBasI-webfont.eot?#iefix') format('embedded-opentype'),
+         url('GenBkBasI-webfont.woff') format('woff'),
+         url('GenBkBasI-webfont.ttf') format('truetype'),
+         url('GenBkBasI-webfont.svg#gentium_book_basicitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'old_standard_ttitalic';
+    src: url('OldStandard-Italic-webfont.eot');
+    src: url('OldStandard-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('OldStandard-Italic-webfont.woff') format('woff'),
+         url('OldStandard-Italic-webfont.ttf') format('truetype'),
+         url('OldStandard-Italic-webfont.svg#old_standard_ttitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

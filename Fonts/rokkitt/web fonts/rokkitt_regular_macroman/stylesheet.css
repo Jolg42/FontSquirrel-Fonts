@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'rokkittregular';
+    src: url('Rokkitt-webfont.eot');
+    src: url('Rokkitt-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Rokkitt-webfont.woff') format('woff'),
+         url('Rokkitt-webfont.ttf') format('truetype'),
+         url('Rokkitt-webfont.svg#rokkittregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

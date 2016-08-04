@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'anonymous_proitalic';
+    src: url('Anonymous_Pro_I-webfont.eot');
+    src: url('Anonymous_Pro_I-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Anonymous_Pro_I-webfont.woff') format('woff'),
+         url('Anonymous_Pro_I-webfont.ttf') format('truetype'),
+         url('Anonymous_Pro_I-webfont.svg#anonymous_proitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

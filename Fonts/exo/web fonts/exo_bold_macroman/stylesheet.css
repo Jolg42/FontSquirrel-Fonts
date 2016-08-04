@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'exobold';
+    src: url('Exo-Bold-webfont.eot');
+    src: url('Exo-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Exo-Bold-webfont.woff') format('woff'),
+         url('Exo-Bold-webfont.ttf') format('truetype'),
+         url('Exo-Bold-webfont.svg#exobold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

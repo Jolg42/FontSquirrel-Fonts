@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'chanticleerromanregular';
+    src: url('CHANTICL-webfont.eot');
+    src: url('CHANTICL-webfont.eot?#iefix') format('embedded-opentype'),
+         url('CHANTICL-webfont.woff') format('woff'),
+         url('CHANTICL-webfont.ttf') format('truetype'),
+         url('CHANTICL-webfont.svg#chanticleerromanregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'permiansanstypefaceregular';
+    src: url('PermianSansTypeface-Italic-webfont.eot');
+    src: url('PermianSansTypeface-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('PermianSansTypeface-Italic-webfont.woff') format('woff'),
+         url('PermianSansTypeface-Italic-webfont.ttf') format('truetype'),
+         url('PermianSansTypeface-Italic-webfont.svg#permiansanstypefaceregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

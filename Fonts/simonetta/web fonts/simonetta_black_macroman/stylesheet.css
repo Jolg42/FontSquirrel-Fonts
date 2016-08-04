@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'simonettablack';
+    src: url('Simonetta-Black-webfont.eot');
+    src: url('Simonetta-Black-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Simonetta-Black-webfont.woff') format('woff'),
+         url('Simonetta-Black-webfont.ttf') format('truetype'),
+         url('Simonetta-Black-webfont.svg#simonettablack') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

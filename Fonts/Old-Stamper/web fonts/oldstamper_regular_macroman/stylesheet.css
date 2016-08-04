@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'old_stamperregular';
+    src: url('old_stamper-webfont.eot');
+    src: url('old_stamper-webfont.eot?#iefix') format('embedded-opentype'),
+         url('old_stamper-webfont.woff') format('woff'),
+         url('old_stamper-webfont.ttf') format('truetype'),
+         url('old_stamper-webfont.svg#old_stamperregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

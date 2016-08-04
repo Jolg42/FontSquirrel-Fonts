@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'danielblack';
+    src: url('Daniel-Black-webfont.eot');
+    src: url('Daniel-Black-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Daniel-Black-webfont.woff') format('woff'),
+         url('Daniel-Black-webfont.ttf') format('truetype'),
+         url('Daniel-Black-webfont.svg#danielblack') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

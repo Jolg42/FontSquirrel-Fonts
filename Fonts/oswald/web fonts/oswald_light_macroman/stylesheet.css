@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'oswaldlight';
+    src: url('Oswald-Light-webfont.eot');
+    src: url('Oswald-Light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Oswald-Light-webfont.woff') format('woff'),
+         url('Oswald-Light-webfont.ttf') format('truetype'),
+         url('Oswald-Light-webfont.svg#oswaldlight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

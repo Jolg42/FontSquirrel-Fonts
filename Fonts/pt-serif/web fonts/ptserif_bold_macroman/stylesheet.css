@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'pt_serifbold';
+    src: url('PTF75F-webfont.eot');
+    src: url('PTF75F-webfont.eot?#iefix') format('embedded-opentype'),
+         url('PTF75F-webfont.woff') format('woff'),
+         url('PTF75F-webfont.ttf') format('truetype'),
+         url('PTF75F-webfont.svg#pt_serifbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

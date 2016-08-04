@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'fengardo_neueregular';
+    src: url('FengardoNeue_Regular-webfont.eot');
+    src: url('FengardoNeue_Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('FengardoNeue_Regular-webfont.woff') format('woff'),
+         url('FengardoNeue_Regular-webfont.ttf') format('truetype'),
+         url('FengardoNeue_Regular-webfont.svg#fengardo_neueregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

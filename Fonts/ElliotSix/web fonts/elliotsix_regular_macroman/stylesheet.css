@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'elliotsixregular';
+    src: url('ElliotSix-webfont.eot');
+    src: url('ElliotSix-webfont.eot?#iefix') format('embedded-opentype'),
+         url('ElliotSix-webfont.woff') format('woff'),
+         url('ElliotSix-webfont.ttf') format('truetype'),
+         url('ElliotSix-webfont.svg#elliotsixregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

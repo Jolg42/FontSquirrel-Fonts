@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'luxi_sansbold';
+    src: url('luxisb-webfont.eot');
+    src: url('luxisb-webfont.eot?#iefix') format('embedded-opentype'),
+         url('luxisb-webfont.woff') format('woff'),
+         url('luxisb-webfont.ttf') format('truetype'),
+         url('luxisb-webfont.svg#luxi_sansbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

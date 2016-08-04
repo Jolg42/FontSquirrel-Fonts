@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'dearest_outlineregular';
+    src: url('Dearest_outline-webfont.eot');
+    src: url('Dearest_outline-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Dearest_outline-webfont.woff') format('woff'),
+         url('Dearest_outline-webfont.ttf') format('truetype'),
+         url('Dearest_outline-webfont.svg#dearest_outlineregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

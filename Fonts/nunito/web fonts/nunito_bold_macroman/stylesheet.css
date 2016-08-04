@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'nunitobold';
+    src: url('Nunito-Bold-webfont.eot');
+    src: url('Nunito-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Nunito-Bold-webfont.woff') format('woff'),
+         url('Nunito-Bold-webfont.ttf') format('truetype'),
+         url('Nunito-Bold-webfont.svg#nunitobold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

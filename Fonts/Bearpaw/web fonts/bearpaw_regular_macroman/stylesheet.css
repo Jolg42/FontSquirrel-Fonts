@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'bearpawregular';
+    src: url('BEARPAW_-webfont.eot');
+    src: url('BEARPAW_-webfont.eot?#iefix') format('embedded-opentype'),
+         url('BEARPAW_-webfont.woff') format('woff'),
+         url('BEARPAW_-webfont.ttf') format('truetype'),
+         url('BEARPAW_-webfont.svg#bearpawregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

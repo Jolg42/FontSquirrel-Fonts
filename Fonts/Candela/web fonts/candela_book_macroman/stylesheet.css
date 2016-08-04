@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'candelabook';
+    src: url('CandelaBook-webfont.eot');
+    src: url('CandelaBook-webfont.eot?#iefix') format('embedded-opentype'),
+         url('CandelaBook-webfont.woff') format('woff'),
+         url('CandelaBook-webfont.ttf') format('truetype'),
+         url('CandelaBook-webfont.svg#candelabook') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

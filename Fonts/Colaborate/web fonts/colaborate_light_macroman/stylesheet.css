@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'colaboratelightregular';
+    src: url('ColabLig-webfont.eot');
+    src: url('ColabLig-webfont.eot?#iefix') format('embedded-opentype'),
+         url('ColabLig-webfont.woff') format('woff'),
+         url('ColabLig-webfont.ttf') format('truetype'),
+         url('ColabLig-webfont.svg#colaboratelightregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

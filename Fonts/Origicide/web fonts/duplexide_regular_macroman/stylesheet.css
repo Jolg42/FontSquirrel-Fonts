@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'duplexideregular';
+    src: url('Duplexide-webfont.eot');
+    src: url('Duplexide-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Duplexide-webfont.woff') format('woff'),
+         url('Duplexide-webfont.ttf') format('truetype'),
+         url('Duplexide-webfont.svg#duplexideregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

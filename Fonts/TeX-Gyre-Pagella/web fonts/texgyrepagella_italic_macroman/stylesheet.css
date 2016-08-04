@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'texgyrepagellaitalic';
+    src: url('texgyrepagella-italic-webfont.eot');
+    src: url('texgyrepagella-italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('texgyrepagella-italic-webfont.woff') format('woff'),
+         url('texgyrepagella-italic-webfont.ttf') format('truetype'),
+         url('texgyrepagella-italic-webfont.svg#texgyrepagellaitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

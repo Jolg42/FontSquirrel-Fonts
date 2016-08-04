@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'digital_dream_fat_narrowRg';
+    src: url('DIGITALDREAMFATNARROW-webfont.eot');
+    src: url('DIGITALDREAMFATNARROW-webfont.eot?#iefix') format('embedded-opentype'),
+         url('DIGITALDREAMFATNARROW-webfont.woff') format('woff'),
+         url('DIGITALDREAMFATNARROW-webfont.ttf') format('truetype'),
+         url('DIGITALDREAMFATNARROW-webfont.svg#digital_dream_fat_narrowRg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

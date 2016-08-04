@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'candalregular';
+    src: url('Candal-webfont.eot');
+    src: url('Candal-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Candal-webfont.woff') format('woff'),
+         url('Candal-webfont.ttf') format('truetype'),
+         url('Candal-webfont.svg#candalregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

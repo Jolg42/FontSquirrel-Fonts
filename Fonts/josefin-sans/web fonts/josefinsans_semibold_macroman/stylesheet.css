@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'josefin_sanssemibold';
+    src: url('JosefinSans-SemiBold-webfont.eot');
+    src: url('JosefinSans-SemiBold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('JosefinSans-SemiBold-webfont.woff') format('woff'),
+         url('JosefinSans-SemiBold-webfont.ttf') format('truetype'),
+         url('JosefinSans-SemiBold-webfont.svg#josefin_sanssemibold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

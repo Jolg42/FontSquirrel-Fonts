@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'veteran_typewriterregular';
+    src: url('veteran_typewriter-webfont.eot');
+    src: url('veteran_typewriter-webfont.eot?#iefix') format('embedded-opentype'),
+         url('veteran_typewriter-webfont.woff') format('woff'),
+         url('veteran_typewriter-webfont.ttf') format('truetype'),
+         url('veteran_typewriter-webfont.svg#veteran_typewriterregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

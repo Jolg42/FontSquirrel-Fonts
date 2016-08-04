@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'podkovaregular';
+    src: url('Podkova-Regular-webfont.eot');
+    src: url('Podkova-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Podkova-Regular-webfont.woff') format('woff'),
+         url('Podkova-Regular-webfont.ttf') format('truetype'),
+         url('Podkova-Regular-webfont.svg#podkovaregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

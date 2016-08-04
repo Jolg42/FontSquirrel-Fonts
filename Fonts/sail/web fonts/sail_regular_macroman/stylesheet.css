@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'sailregular';
+    src: url('Sail-Regular-webfont.eot');
+    src: url('Sail-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Sail-Regular-webfont.woff') format('woff'),
+         url('Sail-Regular-webfont.ttf') format('truetype'),
+         url('Sail-Regular-webfont.svg#sailregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

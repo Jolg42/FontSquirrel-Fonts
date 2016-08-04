@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'sf_wonder_comic_blotchregular';
+    src: url('SF_Wonder_Comic_Blotch-webfont.eot');
+    src: url('SF_Wonder_Comic_Blotch-webfont.eot?#iefix') format('embedded-opentype'),
+         url('SF_Wonder_Comic_Blotch-webfont.woff') format('woff'),
+         url('SF_Wonder_Comic_Blotch-webfont.ttf') format('truetype'),
+         url('SF_Wonder_Comic_Blotch-webfont.svg#sf_wonder_comic_blotchregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'crete_roundregular';
+    src: url('CreteRound-Regular-webfont.eot');
+    src: url('CreteRound-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('CreteRound-Regular-webfont.woff') format('woff'),
+         url('CreteRound-Regular-webfont.ttf') format('truetype'),
+         url('CreteRound-Regular-webfont.svg#crete_roundregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

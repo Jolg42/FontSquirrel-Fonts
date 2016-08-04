@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'luxi_serifregular';
+    src: url('luxirr-webfont.eot');
+    src: url('luxirr-webfont.eot?#iefix') format('embedded-opentype'),
+         url('luxirr-webfont.woff') format('woff'),
+         url('luxirr-webfont.ttf') format('truetype'),
+         url('luxirr-webfont.svg#luxi_serifregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'passionbold';
+    src: url('PassionOne-Regular-webfont.eot');
+    src: url('PassionOne-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('PassionOne-Regular-webfont.woff') format('woff'),
+         url('PassionOne-Regular-webfont.ttf') format('truetype'),
+         url('PassionOne-Regular-webfont.svg#passionbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

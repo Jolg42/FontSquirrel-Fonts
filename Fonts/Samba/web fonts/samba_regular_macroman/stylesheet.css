@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'sambaregular';
+    src: url('Samba-webfont.eot');
+    src: url('Samba-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Samba-webfont.woff') format('woff'),
+         url('Samba-webfont.ttf') format('truetype'),
+         url('Samba-webfont.svg#sambaregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

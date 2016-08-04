@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'plainblackwidenormal';
+    src: url('Plain_Black_Wide-webfont.eot');
+    src: url('Plain_Black_Wide-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Plain_Black_Wide-webfont.woff') format('woff'),
+         url('Plain_Black_Wide-webfont.ttf') format('truetype'),
+         url('Plain_Black_Wide-webfont.svg#plainblackwidenormal') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

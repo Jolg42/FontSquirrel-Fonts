@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'technique_ol_brknormal';
+    src: url('techniqo-webfont.eot');
+    src: url('techniqo-webfont.eot?#iefix') format('embedded-opentype'),
+         url('techniqo-webfont.woff') format('woff'),
+         url('techniqo-webfont.ttf') format('truetype'),
+         url('techniqo-webfont.svg#technique_ol_brknormal') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'pincoyablackblack';
+    src: url('pincoyablack-webfont.eot');
+    src: url('pincoyablack-webfont.eot?#iefix') format('embedded-opentype'),
+         url('pincoyablack-webfont.woff') format('woff'),
+         url('pincoyablack-webfont.ttf') format('truetype'),
+         url('pincoyablack-webfont.svg#pincoyablackblack') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

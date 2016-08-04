@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'soft_sugar_plainregular';
+    src: url('Softplain-webfont.eot');
+    src: url('Softplain-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Softplain-webfont.woff') format('woff'),
+         url('Softplain-webfont.ttf') format('truetype'),
+         url('Softplain-webfont.svg#soft_sugar_plainregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

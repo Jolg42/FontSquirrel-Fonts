@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'dejavu_sanscondensed_bold';
+    src: url('DejaVuSansCondensed-Bold-webfont.eot');
+    src: url('DejaVuSansCondensed-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('DejaVuSansCondensed-Bold-webfont.woff') format('woff'),
+         url('DejaVuSansCondensed-Bold-webfont.ttf') format('truetype'),
+         url('DejaVuSansCondensed-Bold-webfont.svg#dejavu_sanscondensed_bold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

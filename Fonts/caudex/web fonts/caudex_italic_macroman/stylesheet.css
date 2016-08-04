@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'caudexitalic';
+    src: url('Caudex-Italic-webfont.eot');
+    src: url('Caudex-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Caudex-Italic-webfont.woff') format('woff'),
+         url('Caudex-Italic-webfont.ttf') format('truetype'),
+         url('Caudex-Italic-webfont.svg#caudexitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'mountains_of_christmasregular';
+    src: url('MountainsofChristmas-webfont.eot');
+    src: url('MountainsofChristmas-webfont.eot?#iefix') format('embedded-opentype'),
+         url('MountainsofChristmas-webfont.woff') format('woff'),
+         url('MountainsofChristmas-webfont.ttf') format('truetype'),
+         url('MountainsofChristmas-webfont.svg#mountains_of_christmasregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

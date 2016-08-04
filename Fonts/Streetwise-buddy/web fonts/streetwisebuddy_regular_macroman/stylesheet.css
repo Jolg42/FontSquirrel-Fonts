@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'streetwise_buddyregular';
+    src: url('StreetwiseBuddy-webfont.eot');
+    src: url('StreetwiseBuddy-webfont.eot?#iefix') format('embedded-opentype'),
+         url('StreetwiseBuddy-webfont.woff') format('woff'),
+         url('StreetwiseBuddy-webfont.ttf') format('truetype'),
+         url('StreetwiseBuddy-webfont.svg#streetwise_buddyregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

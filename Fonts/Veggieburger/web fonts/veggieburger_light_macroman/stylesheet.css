@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'veggieburgerregular';
+    src: url('VeggiLig-webfont.eot');
+    src: url('VeggiLig-webfont.eot?#iefix') format('embedded-opentype'),
+         url('VeggiLig-webfont.woff') format('woff'),
+         url('VeggiLig-webfont.ttf') format('truetype'),
+         url('VeggiLig-webfont.svg#veggieburgerregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

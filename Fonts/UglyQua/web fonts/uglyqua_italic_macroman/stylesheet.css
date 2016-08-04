@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'uglyquaitalic';
+    src: url('UglyQua-Italic-webfont.eot');
+    src: url('UglyQua-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('UglyQua-Italic-webfont.woff') format('woff'),
+         url('UglyQua-Italic-webfont.ttf') format('truetype'),
+         url('UglyQua-Italic-webfont.svg#uglyquaitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

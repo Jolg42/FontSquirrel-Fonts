@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'sf_arch_rival_extendedregular';
+    src: url('SF_Arch_Rival_Extended-webfont.eot');
+    src: url('SF_Arch_Rival_Extended-webfont.eot?#iefix') format('embedded-opentype'),
+         url('SF_Arch_Rival_Extended-webfont.woff') format('woff'),
+         url('SF_Arch_Rival_Extended-webfont.ttf') format('truetype'),
+         url('SF_Arch_Rival_Extended-webfont.svg#sf_arch_rival_extendedregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'asapbold_italic';
+    src: url('Asap-BoldItalic-webfont.eot');
+    src: url('Asap-BoldItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Asap-BoldItalic-webfont.woff') format('woff'),
+         url('Asap-BoldItalic-webfont.ttf') format('truetype'),
+         url('Asap-BoldItalic-webfont.svg#asapbold_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

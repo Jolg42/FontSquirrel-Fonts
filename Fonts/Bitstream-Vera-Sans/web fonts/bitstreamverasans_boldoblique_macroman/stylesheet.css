@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'bitstream_vera_sansBdOb';
+    src: url('Vera-Bold-Italic-webfont.eot');
+    src: url('Vera-Bold-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Vera-Bold-Italic-webfont.woff') format('woff'),
+         url('Vera-Bold-Italic-webfont.ttf') format('truetype'),
+         url('Vera-Bold-Italic-webfont.svg#bitstream_vera_sansBdOb') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

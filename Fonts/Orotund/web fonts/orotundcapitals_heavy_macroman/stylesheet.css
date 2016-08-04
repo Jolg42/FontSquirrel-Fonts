@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'orotund_capitalsheavy';
+    src: url('OrotundCaps-webfont.eot');
+    src: url('OrotundCaps-webfont.eot?#iefix') format('embedded-opentype'),
+         url('OrotundCaps-webfont.woff') format('woff'),
+         url('OrotundCaps-webfont.ttf') format('truetype'),
+         url('OrotundCaps-webfont.svg#orotund_capitalsheavy') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

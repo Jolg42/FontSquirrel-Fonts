@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'znikomitno24regular';
+    src: url('ZnikomitNo24-webfont.eot');
+    src: url('ZnikomitNo24-webfont.eot?#iefix') format('embedded-opentype'),
+         url('ZnikomitNo24-webfont.woff') format('woff'),
+         url('ZnikomitNo24-webfont.ttf') format('truetype'),
+         url('ZnikomitNo24-webfont.svg#znikomitno24regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

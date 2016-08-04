@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'after_shokregular';
+    src: url('After_Shok-webfont.eot');
+    src: url('After_Shok-webfont.eot?#iefix') format('embedded-opentype'),
+         url('After_Shok-webfont.woff') format('woff'),
+         url('After_Shok-webfont.ttf') format('truetype'),
+         url('After_Shok-webfont.svg#after_shokregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'sedgwick_coregular';
+    src: url('sedgwick_co-webfont.eot');
+    src: url('sedgwick_co-webfont.eot?#iefix') format('embedded-opentype'),
+         url('sedgwick_co-webfont.woff') format('woff'),
+         url('sedgwick_co-webfont.ttf') format('truetype'),
+         url('sedgwick_co-webfont.svg#sedgwick_coregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

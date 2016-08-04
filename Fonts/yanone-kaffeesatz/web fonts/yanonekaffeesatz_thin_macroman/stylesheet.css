@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'yanone_kaffeesatzextra_light';
+    src: url('YanoneKaffeesatz-ExtraLight-webfont.eot');
+    src: url('YanoneKaffeesatz-ExtraLight-webfont.eot?#iefix') format('embedded-opentype'),
+         url('YanoneKaffeesatz-ExtraLight-webfont.woff') format('woff'),
+         url('YanoneKaffeesatz-ExtraLight-webfont.ttf') format('truetype'),
+         url('YanoneKaffeesatz-ExtraLight-webfont.svg#yanone_kaffeesatzextra_light') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

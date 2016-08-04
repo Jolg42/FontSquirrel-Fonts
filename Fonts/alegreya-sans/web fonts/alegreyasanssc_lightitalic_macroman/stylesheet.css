@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'alegreya_sans_sclight_italic';
+    src: url('AlegreyaSansSC-LightItalic-webfont.eot');
+    src: url('AlegreyaSansSC-LightItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('AlegreyaSansSC-LightItalic-webfont.woff') format('woff'),
+         url('AlegreyaSansSC-LightItalic-webfont.ttf') format('truetype'),
+         url('AlegreyaSansSC-LightItalic-webfont.svg#alegreya_sans_sclight_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'share-italicosfregular';
+    src: url('Share-ItalicOSF-webfont.eot');
+    src: url('Share-ItalicOSF-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Share-ItalicOSF-webfont.woff') format('woff'),
+         url('Share-ItalicOSF-webfont.ttf') format('truetype'),
+         url('Share-ItalicOSF-webfont.svg#share-italicosfregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

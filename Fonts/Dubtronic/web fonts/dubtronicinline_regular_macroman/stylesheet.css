@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'dubtronic_inlineregular';
+    src: url('Dubtronic-Inline-webfont.eot');
+    src: url('Dubtronic-Inline-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Dubtronic-Inline-webfont.woff') format('woff'),
+         url('Dubtronic-Inline-webfont.ttf') format('truetype'),
+         url('Dubtronic-Inline-webfont.svg#dubtronic_inlineregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'eastmarketregular';
+    src: url('EastMarket-webfont.eot');
+    src: url('EastMarket-webfont.eot?#iefix') format('embedded-opentype'),
+         url('EastMarket-webfont.woff') format('woff'),
+         url('EastMarket-webfont.ttf') format('truetype'),
+         url('EastMarket-webfont.svg#eastmarketregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

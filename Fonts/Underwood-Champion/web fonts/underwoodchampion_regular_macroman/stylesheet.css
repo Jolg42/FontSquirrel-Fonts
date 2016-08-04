@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'underwood_championregular';
+    src: url('underwood_champion-webfont.eot');
+    src: url('underwood_champion-webfont.eot?#iefix') format('embedded-opentype'),
+         url('underwood_champion-webfont.woff') format('woff'),
+         url('underwood_champion-webfont.ttf') format('truetype'),
+         url('underwood_champion-webfont.svg#underwood_championregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'spinweradcbold';
+    src: url('spinweradC-webfont.eot');
+    src: url('spinweradC-webfont.eot?#iefix') format('embedded-opentype'),
+         url('spinweradC-webfont.woff') format('woff'),
+         url('spinweradC-webfont.ttf') format('truetype'),
+         url('spinweradC-webfont.svg#spinweradcbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

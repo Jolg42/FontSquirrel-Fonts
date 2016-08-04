@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'sf_shai_fontairegular';
+    src: url('SF_Shai_Fontai-webfont.eot');
+    src: url('SF_Shai_Fontai-webfont.eot?#iefix') format('embedded-opentype'),
+         url('SF_Shai_Fontai-webfont.woff') format('woff'),
+         url('SF_Shai_Fontai-webfont.ttf') format('truetype'),
+         url('SF_Shai_Fontai-webfont.svg#sf_shai_fontairegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

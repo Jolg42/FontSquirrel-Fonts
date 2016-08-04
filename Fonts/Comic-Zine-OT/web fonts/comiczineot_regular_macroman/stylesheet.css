@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'comic_zine_otregular';
+    src: url('comic_zine_ot-webfont.eot');
+    src: url('comic_zine_ot-webfont.eot?#iefix') format('embedded-opentype'),
+         url('comic_zine_ot-webfont.woff') format('woff'),
+         url('comic_zine_ot-webfont.ttf') format('truetype'),
+         url('comic_zine_ot-webfont.svg#comic_zine_otregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

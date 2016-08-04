@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'dejavu_serifbook';
+    src: url('DejaVuSerif-webfont.eot');
+    src: url('DejaVuSerif-webfont.eot?#iefix') format('embedded-opentype'),
+         url('DejaVuSerif-webfont.woff') format('woff'),
+         url('DejaVuSerif-webfont.ttf') format('truetype'),
+         url('DejaVuSerif-webfont.svg#dejavu_serifbook') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'oranienbaumregular';
+    src: url('Oranienbaum-Regular-webfont.eot');
+    src: url('Oranienbaum-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Oranienbaum-Regular-webfont.woff') format('woff'),
+         url('Oranienbaum-Regular-webfont.ttf') format('truetype'),
+         url('Oranienbaum-Regular-webfont.svg#oranienbaumregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

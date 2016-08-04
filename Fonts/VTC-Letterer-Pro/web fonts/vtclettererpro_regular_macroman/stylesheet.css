@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'vtc_letterer_proregular';
+    src: url('VTC_letterer_pro-webfont.eot');
+    src: url('VTC_letterer_pro-webfont.eot?#iefix') format('embedded-opentype'),
+         url('VTC_letterer_pro-webfont.woff') format('woff'),
+         url('VTC_letterer_pro-webfont.ttf') format('truetype'),
+         url('VTC_letterer_pro-webfont.svg#vtc_letterer_proregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

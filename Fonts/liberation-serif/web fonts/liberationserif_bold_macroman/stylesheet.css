@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'liberation_serifbold';
+    src: url('LiberationSerif-Bold-webfont.eot');
+    src: url('LiberationSerif-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('LiberationSerif-Bold-webfont.woff') format('woff'),
+         url('LiberationSerif-Bold-webfont.ttf') format('truetype'),
+         url('LiberationSerif-Bold-webfont.svg#liberation_serifbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

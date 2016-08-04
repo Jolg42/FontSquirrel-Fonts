@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'millenniaregular';
+    src: url('Millennia-webfont.eot');
+    src: url('Millennia-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Millennia-webfont.woff') format('woff'),
+         url('Millennia-webfont.ttf') format('truetype'),
+         url('Millennia-webfont.svg#millenniaregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

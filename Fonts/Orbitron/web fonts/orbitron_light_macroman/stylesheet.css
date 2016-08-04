@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'orbitronlight';
+    src: url('orbitron-light-webfont.eot');
+    src: url('orbitron-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('orbitron-light-webfont.woff') format('woff'),
+         url('orbitron-light-webfont.ttf') format('truetype'),
+         url('orbitron-light-webfont.svg#orbitronlight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

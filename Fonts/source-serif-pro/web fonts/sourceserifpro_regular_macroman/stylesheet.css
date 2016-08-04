@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'source_serif_proregular';
+    src: url('SourceSerifPro-Regular-webfont.eot');
+    src: url('SourceSerifPro-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('SourceSerifPro-Regular-webfont.woff') format('woff'),
+         url('SourceSerifPro-Regular-webfont.ttf') format('truetype'),
+         url('SourceSerifPro-Regular-webfont.svg#source_serif_proregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'notcouriersansbold';
+    src: url('NotCourierSans-Bold-webfont.eot');
+    src: url('NotCourierSans-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('NotCourierSans-Bold-webfont.woff') format('woff'),
+         url('NotCourierSans-Bold-webfont.ttf') format('truetype'),
+         url('NotCourierSans-Bold-webfont.svg#notcouriersansbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'fancypantsregular';
+    src: url('FancyPants-webfont.eot');
+    src: url('FancyPants-webfont.eot?#iefix') format('embedded-opentype'),
+         url('FancyPants-webfont.woff') format('woff'),
+         url('FancyPants-webfont.ttf') format('truetype'),
+         url('FancyPants-webfont.svg#fancypantsregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

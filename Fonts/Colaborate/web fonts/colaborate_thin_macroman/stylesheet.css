@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'colaborate-thinregular';
+    src: url('ColabThi-webfont.eot');
+    src: url('ColabThi-webfont.eot?#iefix') format('embedded-opentype'),
+         url('ColabThi-webfont.woff') format('woff'),
+         url('ColabThi-webfont.ttf') format('truetype'),
+         url('ColabThi-webfont.svg#colaborate-thinregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

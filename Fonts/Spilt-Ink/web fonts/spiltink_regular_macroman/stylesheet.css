@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'spilt_inkregular';
+    src: url('spilt-ink-webfont.eot');
+    src: url('spilt-ink-webfont.eot?#iefix') format('embedded-opentype'),
+         url('spilt-ink-webfont.woff') format('woff'),
+         url('spilt-ink-webfont.ttf') format('truetype'),
+         url('spilt-ink-webfont.svg#spilt_inkregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

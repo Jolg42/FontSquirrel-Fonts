@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'molengoregular';
+    src: url('Molengo-Regular-webfont.eot');
+    src: url('Molengo-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Molengo-Regular-webfont.woff') format('woff'),
+         url('Molengo-Regular-webfont.ttf') format('truetype'),
+         url('Molengo-Regular-webfont.svg#molengoregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

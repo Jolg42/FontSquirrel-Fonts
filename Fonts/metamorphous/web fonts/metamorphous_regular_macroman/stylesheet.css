@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'metamorphousregular';
+    src: url('Metamorphous-Regular-webfont.eot');
+    src: url('Metamorphous-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Metamorphous-Regular-webfont.woff') format('woff'),
+         url('Metamorphous-Regular-webfont.ttf') format('truetype'),
+         url('Metamorphous-Regular-webfont.svg#metamorphousregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

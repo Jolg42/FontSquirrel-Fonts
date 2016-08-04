@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'itsadzokeregular';
+    src: url('itsadzoke-046-webfont.eot');
+    src: url('itsadzoke-046-webfont.eot?#iefix') format('embedded-opentype'),
+         url('itsadzoke-046-webfont.woff') format('woff'),
+         url('itsadzoke-046-webfont.ttf') format('truetype'),
+         url('itsadzoke-046-webfont.svg#itsadzokeregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

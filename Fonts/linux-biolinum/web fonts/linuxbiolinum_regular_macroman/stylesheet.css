@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'linux_biolinum_oregular';
+    src: url('LinBiolinum_R-webfont.eot');
+    src: url('LinBiolinum_R-webfont.eot?#iefix') format('embedded-opentype'),
+         url('LinBiolinum_R-webfont.woff') format('woff'),
+         url('LinBiolinum_R-webfont.ttf') format('truetype'),
+         url('LinBiolinum_R-webfont.svg#linux_biolinum_oregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

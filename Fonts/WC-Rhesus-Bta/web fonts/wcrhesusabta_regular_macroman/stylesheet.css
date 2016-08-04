@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'wc_rhesus_a_btaregular';
+    src: url('WC_Rhesus_A_Bta-webfont.eot');
+    src: url('WC_Rhesus_A_Bta-webfont.eot?#iefix') format('embedded-opentype'),
+         url('WC_Rhesus_A_Bta-webfont.woff') format('woff'),
+         url('WC_Rhesus_A_Bta-webfont.ttf') format('truetype'),
+         url('WC_Rhesus_A_Bta-webfont.svg#wc_rhesus_a_btaregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

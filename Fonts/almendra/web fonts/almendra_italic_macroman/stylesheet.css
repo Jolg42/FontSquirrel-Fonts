@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'almendraitalic';
+    src: url('Almendra-Italic-webfont.eot');
+    src: url('Almendra-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Almendra-Italic-webfont.woff') format('woff'),
+         url('Almendra-Italic-webfont.ttf') format('truetype'),
+         url('Almendra-Italic-webfont.svg#almendraitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

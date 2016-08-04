@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'pt_monoregular';
+    src: url('PTM55FT-webfont.eot');
+    src: url('PTM55FT-webfont.eot?#iefix') format('embedded-opentype'),
+         url('PTM55FT-webfont.woff') format('woff'),
+         url('PTM55FT-webfont.ttf') format('truetype'),
+         url('PTM55FT-webfont.svg#pt_monoregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'costurademibold';
+    src: url('costura_demibold-webfont.eot');
+    src: url('costura_demibold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('costura_demibold-webfont.woff') format('woff'),
+         url('costura_demibold-webfont.ttf') format('truetype'),
+         url('costura_demibold-webfont.svg#costurademibold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

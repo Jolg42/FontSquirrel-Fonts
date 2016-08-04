@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'cinzel_decorativebold';
+    src: url('CinzelDecorative-Bold-webfont.eot');
+    src: url('CinzelDecorative-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('CinzelDecorative-Bold-webfont.woff') format('woff'),
+         url('CinzelDecorative-Bold-webfont.ttf') format('truetype'),
+         url('CinzelDecorative-Bold-webfont.svg#cinzel_decorativebold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

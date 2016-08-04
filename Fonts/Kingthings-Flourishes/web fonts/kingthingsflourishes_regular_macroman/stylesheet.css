@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'kingthings_flourishesregular';
+    src: url('Kingthings_Flourishes-webfont.eot');
+    src: url('Kingthings_Flourishes-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Kingthings_Flourishes-webfont.woff') format('woff'),
+         url('Kingthings_Flourishes-webfont.ttf') format('truetype'),
+         url('Kingthings_Flourishes-webfont.svg#kingthings_flourishesregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

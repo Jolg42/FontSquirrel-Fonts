@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'familiar_probold';
+    src: url('Familiar_Pro-Bold-webfont.eot');
+    src: url('Familiar_Pro-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Familiar_Pro-Bold-webfont.woff') format('woff'),
+         url('Familiar_Pro-Bold-webfont.ttf') format('truetype'),
+         url('Familiar_Pro-Bold-webfont.svg#familiar_probold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

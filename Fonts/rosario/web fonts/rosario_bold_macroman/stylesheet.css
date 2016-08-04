@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'rosariobold';
+    src: url('Rosario-Bold-webfont.eot');
+    src: url('Rosario-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Rosario-Bold-webfont.woff') format('woff'),
+         url('Rosario-Bold-webfont.ttf') format('truetype'),
+         url('Rosario-Bold-webfont.svg#rosariobold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

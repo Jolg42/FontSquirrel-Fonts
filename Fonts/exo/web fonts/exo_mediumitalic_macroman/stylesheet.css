@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'exomediumitalic';
+    src: url('Exo-MediumItalic-webfont.eot');
+    src: url('Exo-MediumItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Exo-MediumItalic-webfont.woff') format('woff'),
+         url('Exo-MediumItalic-webfont.ttf') format('truetype'),
+         url('Exo-MediumItalic-webfont.svg#exomediumitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'tendernessregular';
+    src: url('Tenderness-webfont.eot');
+    src: url('Tenderness-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Tenderness-webfont.woff') format('woff'),
+         url('Tenderness-webfont.ttf') format('truetype'),
+         url('Tenderness-webfont.svg#tendernessregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

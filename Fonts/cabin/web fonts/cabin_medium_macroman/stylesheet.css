@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'cabinmedium';
+    src: url('Cabin-Medium-webfont.eot');
+    src: url('Cabin-Medium-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Cabin-Medium-webfont.woff') format('woff'),
+         url('Cabin-Medium-webfont.ttf') format('truetype'),
+         url('Cabin-Medium-webfont.svg#cabinmedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

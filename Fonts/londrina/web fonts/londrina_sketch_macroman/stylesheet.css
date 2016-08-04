@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'londrina_sketcheregular';
+    src: url('LondrinaSketche-Regular-webfont.eot');
+    src: url('LondrinaSketche-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('LondrinaSketche-Regular-webfont.woff') format('woff'),
+         url('LondrinaSketche-Regular-webfont.ttf') format('truetype'),
+         url('LondrinaSketche-Regular-webfont.svg#londrina_sketcheregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

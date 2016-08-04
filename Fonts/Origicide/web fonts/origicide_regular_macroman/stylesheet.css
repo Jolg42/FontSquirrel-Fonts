@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'origicideregular';
+    src: url('Origicide-webfont.eot');
+    src: url('Origicide-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Origicide-webfont.woff') format('woff'),
+         url('Origicide-webfont.ttf') format('truetype'),
+         url('Origicide-webfont.svg#origicideregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

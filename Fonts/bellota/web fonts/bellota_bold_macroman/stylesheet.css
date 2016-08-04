@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'bellotabold';
+    src: url('Bellota-Bold-webfont.eot');
+    src: url('Bellota-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Bellota-Bold-webfont.woff') format('woff'),
+         url('Bellota-Bold-webfont.ttf') format('truetype'),
+         url('Bellota-Bold-webfont.svg#bellotabold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

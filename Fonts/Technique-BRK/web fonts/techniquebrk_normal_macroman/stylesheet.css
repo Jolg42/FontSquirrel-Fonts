@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'technique_brknormal';
+    src: url('techniqu-webfont.eot');
+    src: url('techniqu-webfont.eot?#iefix') format('embedded-opentype'),
+         url('techniqu-webfont.woff') format('woff'),
+         url('techniqu-webfont.ttf') format('truetype'),
+         url('techniqu-webfont.svg#technique_brknormal') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

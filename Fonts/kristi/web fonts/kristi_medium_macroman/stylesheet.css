@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'kristimedium';
+    src: url('Kristi-webfont.eot');
+    src: url('Kristi-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Kristi-webfont.woff') format('woff'),
+         url('Kristi-webfont.ttf') format('truetype'),
+         url('Kristi-webfont.svg#kristimedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'wagnastyregular';
+    src: url('Wagnasty-webfont.eot');
+    src: url('Wagnasty-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Wagnasty-webfont.woff') format('woff'),
+         url('Wagnasty-webfont.ttf') format('truetype'),
+         url('Wagnasty-webfont.svg#wagnastyregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

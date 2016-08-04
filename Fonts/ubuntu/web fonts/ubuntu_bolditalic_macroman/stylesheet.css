@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'ubuntubold_italic';
+    src: url('Ubuntu-BI-webfont.eot');
+    src: url('Ubuntu-BI-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Ubuntu-BI-webfont.woff') format('woff'),
+         url('Ubuntu-BI-webfont.ttf') format('truetype'),
+         url('Ubuntu-BI-webfont.svg#ubuntubold_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

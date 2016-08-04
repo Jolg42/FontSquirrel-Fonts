@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'capture_itregular';
+    src: url('Capture_it-webfont.eot');
+    src: url('Capture_it-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Capture_it-webfont.woff') format('woff'),
+         url('Capture_it-webfont.ttf') format('truetype'),
+         url('Capture_it-webfont.svg#capture_itregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

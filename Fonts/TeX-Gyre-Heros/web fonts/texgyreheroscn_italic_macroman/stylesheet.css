@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'texgyreheroscnitalic';
+    src: url('texgyreheroscn-italic-webfont.eot');
+    src: url('texgyreheroscn-italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('texgyreheroscn-italic-webfont.woff') format('woff'),
+         url('texgyreheroscn-italic-webfont.ttf') format('truetype'),
+         url('texgyreheroscn-italic-webfont.svg#texgyreheroscnitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

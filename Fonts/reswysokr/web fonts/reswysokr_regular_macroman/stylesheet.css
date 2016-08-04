@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'reswysokrregular';
+    src: url('Reswysokr-webfont.eot');
+    src: url('Reswysokr-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Reswysokr-webfont.woff') format('woff'),
+         url('Reswysokr-webfont.ttf') format('truetype'),
+         url('Reswysokr-webfont.svg#reswysokrregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'la_unicaregular';
+    src: url('launica-webfont.eot');
+    src: url('launica-webfont.eot?#iefix') format('embedded-opentype'),
+         url('launica-webfont.woff') format('woff'),
+         url('launica-webfont.ttf') format('truetype'),
+         url('launica-webfont.svg#la_unicaregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

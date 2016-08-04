@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'londrina_shadowregular';
+    src: url('LondrinaShadow-Regular-webfont.eot');
+    src: url('LondrinaShadow-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('LondrinaShadow-Regular-webfont.woff') format('woff'),
+         url('LondrinaShadow-Regular-webfont.ttf') format('truetype'),
+         url('LondrinaShadow-Regular-webfont.svg#londrina_shadowregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

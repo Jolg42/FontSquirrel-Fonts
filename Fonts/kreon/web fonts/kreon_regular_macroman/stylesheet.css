@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'kreonregular';
+    src: url('Kreon-Regular-webfont.eot');
+    src: url('Kreon-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Kreon-Regular-webfont.woff') format('woff'),
+         url('Kreon-Regular-webfont.ttf') format('truetype'),
+         url('Kreon-Regular-webfont.svg#kreonregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

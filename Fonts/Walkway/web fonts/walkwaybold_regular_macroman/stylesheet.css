@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'walkway_boldregular';
+    src: url('Walkway_Bold-webfont.eot');
+    src: url('Walkway_Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Walkway_Bold-webfont.woff') format('woff'),
+         url('Walkway_Bold-webfont.ttf') format('truetype'),
+         url('Walkway_Bold-webfont.svg#walkway_boldregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

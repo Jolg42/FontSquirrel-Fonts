@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'slingnormal';
+    src: url('Sling-webfont.eot');
+    src: url('Sling-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Sling-webfont.woff') format('woff'),
+         url('Sling-webfont.ttf') format('truetype'),
+         url('Sling-webfont.svg#slingnormal') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

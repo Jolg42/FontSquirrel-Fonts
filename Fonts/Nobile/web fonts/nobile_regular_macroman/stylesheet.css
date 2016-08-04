@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'nobileregular';
+    src: url('Nobile-Regular-webfont.eot');
+    src: url('Nobile-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Nobile-Regular-webfont.woff') format('woff'),
+         url('Nobile-Regular-webfont.ttf') format('truetype'),
+         url('Nobile-Regular-webfont.svg#nobileregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

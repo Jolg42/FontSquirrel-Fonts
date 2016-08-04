@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'droid_sansbold';
+    src: url('DroidSans-Bold-webfont.eot');
+    src: url('DroidSans-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('DroidSans-Bold-webfont.woff') format('woff'),
+         url('DroidSans-Bold-webfont.ttf') format('truetype'),
+         url('DroidSans-Bold-webfont.svg#droid_sansbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

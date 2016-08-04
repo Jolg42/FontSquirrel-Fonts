@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'bloodynormal';
+    src: url('BLOODY-webfont.eot');
+    src: url('BLOODY-webfont.eot?#iefix') format('embedded-opentype'),
+         url('BLOODY-webfont.woff') format('woff'),
+         url('BLOODY-webfont.ttf') format('truetype'),
+         url('BLOODY-webfont.svg#bloodynormal') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

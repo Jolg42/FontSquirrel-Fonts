@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'proclamate_lightlight';
+    src: url('proclamate_light-webfont.eot');
+    src: url('proclamate_light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('proclamate_light-webfont.woff') format('woff'),
+         url('proclamate_light-webfont.ttf') format('truetype'),
+         url('proclamate_light-webfont.svg#proclamate_lightlight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

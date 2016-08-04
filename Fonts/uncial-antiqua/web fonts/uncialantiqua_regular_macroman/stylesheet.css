@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'uncial_antiquaregular';
+    src: url('UncialAntiqua-Regular-webfont.eot');
+    src: url('UncialAntiqua-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('UncialAntiqua-Regular-webfont.woff') format('woff'),
+         url('UncialAntiqua-Regular-webfont.ttf') format('truetype'),
+         url('UncialAntiqua-Regular-webfont.svg#uncial_antiquaregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

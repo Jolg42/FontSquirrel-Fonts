@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'action_manbold';
+    src: url('Action_Man_Bold-webfont.eot');
+    src: url('Action_Man_Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Action_Man_Bold-webfont.woff') format('woff'),
+         url('Action_Man_Bold-webfont.ttf') format('truetype'),
+         url('Action_Man_Bold-webfont.svg#action_manbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

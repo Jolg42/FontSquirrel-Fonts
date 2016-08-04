@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'latin_modern_roman_demi10Rg';
+    src: url('lmromandemi10-regular-webfont.eot');
+    src: url('lmromandemi10-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('lmromandemi10-regular-webfont.woff') format('woff'),
+         url('lmromandemi10-regular-webfont.ttf') format('truetype'),
+         url('lmromandemi10-regular-webfont.svg#latin_modern_roman_demi10Rg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

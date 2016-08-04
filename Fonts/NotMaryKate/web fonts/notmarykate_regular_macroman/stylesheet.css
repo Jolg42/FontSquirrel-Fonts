@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'notmarykateregular';
+    src: url('NOTMK___-webfont.eot');
+    src: url('NOTMK___-webfont.eot?#iefix') format('embedded-opentype'),
+         url('NOTMK___-webfont.woff') format('woff'),
+         url('NOTMK___-webfont.ttf') format('truetype'),
+         url('NOTMK___-webfont.svg#notmarykateregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

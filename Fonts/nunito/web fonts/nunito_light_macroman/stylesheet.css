@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'nunitolight';
+    src: url('Nunito-Light-webfont.eot');
+    src: url('Nunito-Light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Nunito-Light-webfont.woff') format('woff'),
+         url('Nunito-Light-webfont.ttf') format('truetype'),
+         url('Nunito-Light-webfont.svg#nunitolight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

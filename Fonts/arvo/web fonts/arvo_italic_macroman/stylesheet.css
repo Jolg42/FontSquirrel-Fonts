@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'arvoitalic';
+    src: url('Arvo-Italic-webfont.eot');
+    src: url('Arvo-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Arvo-Italic-webfont.woff') format('woff'),
+         url('Arvo-Italic-webfont.ttf') format('truetype'),
+         url('Arvo-Italic-webfont.svg#arvoitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

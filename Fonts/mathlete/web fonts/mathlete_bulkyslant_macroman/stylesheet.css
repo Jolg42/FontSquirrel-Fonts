@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'mathletebulky_slant';
+    src: url('Mathlete-BulkySlant-webfont.eot');
+    src: url('Mathlete-BulkySlant-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Mathlete-BulkySlant-webfont.woff') format('woff'),
+         url('Mathlete-BulkySlant-webfont.ttf') format('truetype'),
+         url('Mathlete-BulkySlant-webfont.svg#mathletebulky_slant') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

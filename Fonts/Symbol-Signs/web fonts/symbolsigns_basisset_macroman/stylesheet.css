@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'symbol_signsbasis_set';
+    src: url('symbol-signs-webfont.eot');
+    src: url('symbol-signs-webfont.eot?#iefix') format('embedded-opentype'),
+         url('symbol-signs-webfont.woff') format('woff'),
+         url('symbol-signs-webfont.ttf') format('truetype'),
+         url('symbol-signs-webfont.svg#symbol_signsbasis_set') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

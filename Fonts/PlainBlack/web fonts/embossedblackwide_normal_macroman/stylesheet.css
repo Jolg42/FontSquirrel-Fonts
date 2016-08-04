@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'embossedblackwidenormal';
+    src: url('Embossed_Black_Wide-webfont.eot');
+    src: url('Embossed_Black_Wide-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Embossed_Black_Wide-webfont.woff') format('woff'),
+         url('Embossed_Black_Wide-webfont.ttf') format('truetype'),
+         url('Embossed_Black_Wide-webfont.svg#embossedblackwidenormal') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

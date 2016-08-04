@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'rawengulkregular';
+    src: url('RawengulkRegular-webfont.eot');
+    src: url('RawengulkRegular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('RawengulkRegular-webfont.woff') format('woff'),
+         url('RawengulkRegular-webfont.ttf') format('truetype'),
+         url('RawengulkRegular-webfont.svg#rawengulkregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

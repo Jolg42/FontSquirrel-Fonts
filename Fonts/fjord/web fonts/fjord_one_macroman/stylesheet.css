@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'fjordone';
+    src: url('FjordOne-Regular-webfont.eot');
+    src: url('FjordOne-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('FjordOne-Regular-webfont.woff') format('woff'),
+         url('FjordOne-Regular-webfont.ttf') format('truetype'),
+         url('FjordOne-Regular-webfont.svg#fjordone') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

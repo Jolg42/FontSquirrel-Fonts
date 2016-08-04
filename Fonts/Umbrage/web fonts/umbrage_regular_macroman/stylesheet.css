@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'umbrageregular';
+    src: url('umbrage2-webfont.eot');
+    src: url('umbrage2-webfont.eot?#iefix') format('embedded-opentype'),
+         url('umbrage2-webfont.woff') format('woff'),
+         url('umbrage2-webfont.ttf') format('truetype'),
+         url('umbrage2-webfont.svg#umbrageregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

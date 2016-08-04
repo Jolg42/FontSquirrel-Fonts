@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'charis_silregular';
+    src: url('CharisSILR-webfont.eot');
+    src: url('CharisSILR-webfont.eot?#iefix') format('embedded-opentype'),
+         url('CharisSILR-webfont.woff') format('woff'),
+         url('CharisSILR-webfont.ttf') format('truetype'),
+         url('CharisSILR-webfont.svg#charis_silregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

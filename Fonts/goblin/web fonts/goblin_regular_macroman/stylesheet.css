@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'goblinregular';
+    src: url('GoblinOne-webfont.eot');
+    src: url('GoblinOne-webfont.eot?#iefix') format('embedded-opentype'),
+         url('GoblinOne-webfont.woff') format('woff'),
+         url('GoblinOne-webfont.ttf') format('truetype'),
+         url('GoblinOne-webfont.svg#goblinregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

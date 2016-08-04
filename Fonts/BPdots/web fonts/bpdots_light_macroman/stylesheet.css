@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'bpdotslight';
+    src: url('BPdotsLight-webfont.eot');
+    src: url('BPdotsLight-webfont.eot?#iefix') format('embedded-opentype'),
+         url('BPdotsLight-webfont.woff') format('woff'),
+         url('BPdotsLight-webfont.ttf') format('truetype'),
+         url('BPdotsLight-webfont.svg#bpdotslight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'gandhi_sansitalic';
+    src: url('GandhiSans-Italic-webfont.eot');
+    src: url('GandhiSans-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('GandhiSans-Italic-webfont.woff') format('woff'),
+         url('GandhiSans-Italic-webfont.ttf') format('truetype'),
+         url('GandhiSans-Italic-webfont.svg#gandhi_sansitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

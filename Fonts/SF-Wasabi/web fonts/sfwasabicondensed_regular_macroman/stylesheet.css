@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'sf_wasabi_condensedregular';
+    src: url('SF_Wasabi_Condensed-webfont.eot');
+    src: url('SF_Wasabi_Condensed-webfont.eot?#iefix') format('embedded-opentype'),
+         url('SF_Wasabi_Condensed-webfont.woff') format('woff'),
+         url('SF_Wasabi_Condensed-webfont.ttf') format('truetype'),
+         url('SF_Wasabi_Condensed-webfont.svg#sf_wasabi_condensedregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

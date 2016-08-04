@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'marvelitalic';
+    src: url('Marvel-Italic-webfont.eot');
+    src: url('Marvel-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Marvel-Italic-webfont.woff') format('woff'),
+         url('Marvel-Italic-webfont.ttf') format('truetype'),
+         url('Marvel-Italic-webfont.svg#marvelitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'digital_dream_fatregular';
+    src: url('DIGITALDREAMFAT-webfont.eot');
+    src: url('DIGITALDREAMFAT-webfont.eot?#iefix') format('embedded-opentype'),
+         url('DIGITALDREAMFAT-webfont.woff') format('woff'),
+         url('DIGITALDREAMFAT-webfont.ttf') format('truetype'),
+         url('DIGITALDREAMFAT-webfont.svg#digital_dream_fatregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

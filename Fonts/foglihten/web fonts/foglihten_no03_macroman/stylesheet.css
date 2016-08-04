@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'foglihtenno03regular';
+    src: url('FoglihtenNo03-webfont.eot');
+    src: url('FoglihtenNo03-webfont.eot?#iefix') format('embedded-opentype'),
+         url('FoglihtenNo03-webfont.woff') format('woff'),
+         url('FoglihtenNo03-webfont.ttf') format('truetype'),
+         url('FoglihtenNo03-webfont.svg#foglihtenno03regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

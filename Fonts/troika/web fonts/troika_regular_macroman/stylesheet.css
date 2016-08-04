@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'troikaregular';
+    src: url('troika-webfont.eot');
+    src: url('troika-webfont.eot?#iefix') format('embedded-opentype'),
+         url('troika-webfont.woff') format('woff'),
+         url('troika-webfont.ttf') format('truetype'),
+         url('troika-webfont.svg#troikaregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'sinkin_sans100_thin_italic';
+    src: url('SinkinSans-100ThinItalic-webfont.eot');
+    src: url('SinkinSans-100ThinItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('SinkinSans-100ThinItalic-webfont.woff') format('woff'),
+         url('SinkinSans-100ThinItalic-webfont.ttf') format('truetype'),
+         url('SinkinSans-100ThinItalic-webfont.svg#sinkin_sans100_thin_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

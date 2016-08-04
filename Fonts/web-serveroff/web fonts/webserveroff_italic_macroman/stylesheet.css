@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'web_serveroffitalic';
+    src: url('Web_Serveroff-Italic-webfont.eot');
+    src: url('Web_Serveroff-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Web_Serveroff-Italic-webfont.woff') format('woff'),
+         url('Web_Serveroff-Italic-webfont.ttf') format('truetype'),
+         url('Web_Serveroff-Italic-webfont.svg#web_serveroffitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

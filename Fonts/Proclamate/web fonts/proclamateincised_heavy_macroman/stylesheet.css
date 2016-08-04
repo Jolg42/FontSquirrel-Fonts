@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'proclamate_incisedheavy';
+    src: url('proclamate_incised-webfont.eot');
+    src: url('proclamate_incised-webfont.eot?#iefix') format('embedded-opentype'),
+         url('proclamate_incised-webfont.woff') format('woff'),
+         url('proclamate_incised-webfont.ttf') format('truetype'),
+         url('proclamate_incised-webfont.svg#proclamate_incisedheavy') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

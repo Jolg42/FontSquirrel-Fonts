@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'rosarivoitalic';
+    src: url('Rosarivo-Italic-webfont.eot');
+    src: url('Rosarivo-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Rosarivo-Italic-webfont.woff') format('woff'),
+         url('Rosarivo-Italic-webfont.ttf') format('truetype'),
+         url('Rosarivo-Italic-webfont.svg#rosarivoitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

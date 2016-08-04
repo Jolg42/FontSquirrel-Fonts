@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'laconicregular';
+    src: url('Laconic_Regular-webfont.eot');
+    src: url('Laconic_Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Laconic_Regular-webfont.woff') format('woff'),
+         url('Laconic_Regular-webfont.ttf') format('truetype'),
+         url('Laconic_Regular-webfont.svg#laconicregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

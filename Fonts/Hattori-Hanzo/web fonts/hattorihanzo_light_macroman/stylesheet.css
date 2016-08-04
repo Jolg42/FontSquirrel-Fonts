@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'hattori_hanzolight';
+    src: url('Hattori_Hanzo-webfont.eot');
+    src: url('Hattori_Hanzo-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Hattori_Hanzo-webfont.woff') format('woff'),
+         url('Hattori_Hanzo-webfont.ttf') format('truetype'),
+         url('Hattori_Hanzo-webfont.svg#hattori_hanzolight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

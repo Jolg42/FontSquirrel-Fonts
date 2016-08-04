@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'source_code_promedium';
+    src: url('SourceCodePro-Medium-webfont.eot');
+    src: url('SourceCodePro-Medium-webfont.eot?#iefix') format('embedded-opentype'),
+         url('SourceCodePro-Medium-webfont.woff') format('woff'),
+         url('SourceCodePro-Medium-webfont.ttf') format('truetype'),
+         url('SourceCodePro-Medium-webfont.svg#source_code_promedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

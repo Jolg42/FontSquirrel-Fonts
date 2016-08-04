@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'architects_daughterregular';
+    src: url('ArchitectsDaughter-webfont.eot');
+    src: url('ArchitectsDaughter-webfont.eot?#iefix') format('embedded-opentype'),
+         url('ArchitectsDaughter-webfont.woff') format('woff'),
+         url('ArchitectsDaughter-webfont.ttf') format('truetype'),
+         url('ArchitectsDaughter-webfont.svg#architects_daughterregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

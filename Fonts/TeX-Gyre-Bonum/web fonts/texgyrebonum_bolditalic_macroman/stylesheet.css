@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'tex_gyre_bonumbold_italic';
+    src: url('texgyrebonum-bolditalic-webfont.eot');
+    src: url('texgyrebonum-bolditalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('texgyrebonum-bolditalic-webfont.woff') format('woff'),
+         url('texgyrebonum-bolditalic-webfont.ttf') format('truetype'),
+         url('texgyrebonum-bolditalic-webfont.svg#tex_gyre_bonumbold_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

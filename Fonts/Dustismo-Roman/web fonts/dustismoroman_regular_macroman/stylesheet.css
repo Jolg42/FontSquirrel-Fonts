@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'dustismo_romanregular';
+    src: url('Dustismo_Roman-webfont.eot');
+    src: url('Dustismo_Roman-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Dustismo_Roman-webfont.woff') format('woff'),
+         url('Dustismo_Roman-webfont.ttf') format('truetype'),
+         url('Dustismo_Roman-webfont.svg#dustismo_romanregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

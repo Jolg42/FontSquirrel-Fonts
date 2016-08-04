@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'perspective_sans_blackitalic';
+    src: url('persabki-webfont.eot');
+    src: url('persabki-webfont.eot?#iefix') format('embedded-opentype'),
+         url('persabki-webfont.woff') format('woff'),
+         url('persabki-webfont.ttf') format('truetype'),
+         url('persabki-webfont.svg#perspective_sans_blackitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

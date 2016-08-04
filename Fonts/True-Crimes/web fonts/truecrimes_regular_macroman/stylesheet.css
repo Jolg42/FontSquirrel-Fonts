@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'true_crimesregular';
+    src: url('true-crimes-webfont.eot');
+    src: url('true-crimes-webfont.eot?#iefix') format('embedded-opentype'),
+         url('true-crimes-webfont.woff') format('woff'),
+         url('true-crimes-webfont.ttf') format('truetype'),
+         url('true-crimes-webfont.svg#true_crimesregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

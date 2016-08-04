@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'lovers_quarrelregular';
+    src: url('LoversQuarrel-Regular-webfont.eot');
+    src: url('LoversQuarrel-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('LoversQuarrel-Regular-webfont.woff') format('woff'),
+         url('LoversQuarrel-Regular-webfont.ttf') format('truetype'),
+         url('LoversQuarrel-Regular-webfont.svg#lovers_quarrelregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'slukonimedium';
+    src: url('Slukoni-webfont.eot');
+    src: url('Slukoni-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Slukoni-webfont.woff') format('woff'),
+         url('Slukoni-webfont.ttf') format('truetype'),
+         url('Slukoni-webfont.svg#slukonimedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

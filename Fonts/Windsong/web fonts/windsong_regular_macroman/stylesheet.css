@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'windsongregular';
+    src: url('Windsong-webfont.eot');
+    src: url('Windsong-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Windsong-webfont.woff') format('woff'),
+         url('Windsong-webfont.ttf') format('truetype'),
+         url('Windsong-webfont.svg#windsongregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

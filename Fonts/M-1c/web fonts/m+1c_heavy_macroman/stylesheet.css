@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'm_1cheavy';
+    src: url('mplus-1c-heavy-webfont.eot');
+    src: url('mplus-1c-heavy-webfont.eot?#iefix') format('embedded-opentype'),
+         url('mplus-1c-heavy-webfont.woff') format('woff'),
+         url('mplus-1c-heavy-webfont.ttf') format('truetype'),
+         url('mplus-1c-heavy-webfont.svg#m_1cheavy') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

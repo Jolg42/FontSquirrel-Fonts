@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'euphoria_scriptregular';
+    src: url('EuphoriaScript-Regular-webfont.eot');
+    src: url('EuphoriaScript-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('EuphoriaScript-Regular-webfont.woff') format('woff'),
+         url('EuphoriaScript-Regular-webfont.ttf') format('truetype'),
+         url('EuphoriaScript-Regular-webfont.svg#euphoria_scriptregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

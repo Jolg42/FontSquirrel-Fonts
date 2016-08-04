@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'laconicshadow';
+    src: url('Laconic_Shadow-webfont.eot');
+    src: url('Laconic_Shadow-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Laconic_Shadow-webfont.woff') format('woff'),
+         url('Laconic_Shadow-webfont.ttf') format('truetype'),
+         url('Laconic_Shadow-webfont.svg#laconicshadow') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

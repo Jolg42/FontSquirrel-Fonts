@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'bitstream_vera_sans_monobold';
+    src: url('VeraMono-Bold-webfont.eot');
+    src: url('VeraMono-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('VeraMono-Bold-webfont.woff') format('woff'),
+         url('VeraMono-Bold-webfont.ttf') format('truetype'),
+         url('VeraMono-Bold-webfont.svg#bitstream_vera_sans_monobold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

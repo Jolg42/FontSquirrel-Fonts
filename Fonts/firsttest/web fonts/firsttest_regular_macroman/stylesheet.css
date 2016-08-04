@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'forqueregular';
+    src: url('Forque-webfont.eot');
+    src: url('Forque-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Forque-webfont.woff') format('woff'),
+         url('Forque-webfont.ttf') format('truetype'),
+         url('Forque-webfont.svg#forqueregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

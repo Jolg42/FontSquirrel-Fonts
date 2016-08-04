@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'intruder_alertregular';
+    src: url('Intruder-webfont.eot');
+    src: url('Intruder-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Intruder-webfont.woff') format('woff'),
+         url('Intruder-webfont.ttf') format('truetype'),
+         url('Intruder-webfont.svg#intruder_alertregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

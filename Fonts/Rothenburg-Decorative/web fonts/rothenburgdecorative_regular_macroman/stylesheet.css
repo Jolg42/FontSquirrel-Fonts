@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'webfontregular';
+    src: url('rothenbg-webfont.eot');
+    src: url('rothenbg-webfont.eot?#iefix') format('embedded-opentype'),
+         url('rothenbg-webfont.woff') format('woff'),
+         url('rothenbg-webfont.ttf') format('truetype'),
+         url('rothenbg-webfont.svg#webfontregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

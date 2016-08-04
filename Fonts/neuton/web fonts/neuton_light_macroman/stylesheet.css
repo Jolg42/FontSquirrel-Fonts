@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'neutonlight';
+    src: url('Neuton-Light-webfont.eot');
+    src: url('Neuton-Light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Neuton-Light-webfont.woff') format('woff'),
+         url('Neuton-Light-webfont.ttf') format('truetype'),
+         url('Neuton-Light-webfont.svg#neutonlight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

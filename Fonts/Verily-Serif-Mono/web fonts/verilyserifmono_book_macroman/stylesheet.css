@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'verily_serif_monobook';
+    src: url('VerilySerifMono-webfont.eot');
+    src: url('VerilySerifMono-webfont.eot?#iefix') format('embedded-opentype'),
+         url('VerilySerifMono-webfont.woff') format('woff'),
+         url('VerilySerifMono-webfont.ttf') format('truetype'),
+         url('VerilySerifMono-webfont.svg#verily_serif_monobook') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

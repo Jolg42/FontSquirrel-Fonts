@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'combinumerals_ltdregular';
+    src: url('CombiNumeralsLtd-webfont.eot');
+    src: url('CombiNumeralsLtd-webfont.eot?#iefix') format('embedded-opentype'),
+         url('CombiNumeralsLtd-webfont.woff') format('woff'),
+         url('CombiNumeralsLtd-webfont.ttf') format('truetype'),
+         url('CombiNumeralsLtd-webfont.svg#combinumerals_ltdregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

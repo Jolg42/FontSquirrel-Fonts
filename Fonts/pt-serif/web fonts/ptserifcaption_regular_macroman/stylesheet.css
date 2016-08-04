@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'pt_serif_captionregular';
+    src: url('PTZ55F-webfont.eot');
+    src: url('PTZ55F-webfont.eot?#iefix') format('embedded-opentype'),
+         url('PTZ55F-webfont.woff') format('woff'),
+         url('PTZ55F-webfont.ttf') format('truetype'),
+         url('PTZ55F-webfont.svg#pt_serif_captionregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

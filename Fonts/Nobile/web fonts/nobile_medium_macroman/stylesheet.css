@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'nobilemedium';
+    src: url('Nobile-Medium-webfont.eot');
+    src: url('Nobile-Medium-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Nobile-Medium-webfont.woff') format('woff'),
+         url('Nobile-Medium-webfont.ttf') format('truetype'),
+         url('Nobile-Medium-webfont.svg#nobilemedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

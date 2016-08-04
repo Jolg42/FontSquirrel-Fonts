@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'paete_roundbold';
+    src: url('PAETRB__-webfont.eot');
+    src: url('PAETRB__-webfont.eot?#iefix') format('embedded-opentype'),
+         url('PAETRB__-webfont.woff') format('woff'),
+         url('PAETRB__-webfont.ttf') format('truetype'),
+         url('PAETRB__-webfont.svg#paete_roundbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

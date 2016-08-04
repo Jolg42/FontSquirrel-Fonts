@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'lane_-_upperregular';
+    src: url('LANEUP__-webfont.eot');
+    src: url('LANEUP__-webfont.eot?#iefix') format('embedded-opentype'),
+         url('LANEUP__-webfont.woff') format('woff'),
+         url('LANEUP__-webfont.ttf') format('truetype'),
+         url('LANEUP__-webfont.svg#lane_-_upperregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'faux_snow_brkregular';
+    src: url('fauxsnow-webfont.eot');
+    src: url('fauxsnow-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fauxsnow-webfont.woff') format('woff'),
+         url('fauxsnow-webfont.ttf') format('truetype'),
+         url('fauxsnow-webfont.svg#faux_snow_brkregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

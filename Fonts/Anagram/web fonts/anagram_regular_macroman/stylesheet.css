@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'anagramregular';
+    src: url('Anagram-webfont.eot');
+    src: url('Anagram-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Anagram-webfont.woff') format('woff'),
+         url('Anagram-webfont.ttf') format('truetype'),
+         url('Anagram-webfont.svg#anagramregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

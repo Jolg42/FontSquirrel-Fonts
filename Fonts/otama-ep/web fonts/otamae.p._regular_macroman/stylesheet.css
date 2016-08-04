@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'otama.epregular';
+    src: url('Otama-ep-webfont.eot');
+    src: url('Otama-ep-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Otama-ep-webfont.woff') format('woff'),
+         url('Otama-ep-webfont.ttf') format('truetype'),
+         url('Otama-ep-webfont.svg#otama.epregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

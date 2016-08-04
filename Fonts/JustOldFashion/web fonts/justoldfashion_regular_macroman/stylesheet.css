@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'justoldfashionregular';
+    src: url('JustOldFashion-webfont.eot');
+    src: url('JustOldFashion-webfont.eot?#iefix') format('embedded-opentype'),
+         url('JustOldFashion-webfont.woff') format('woff'),
+         url('JustOldFashion-webfont.ttf') format('truetype'),
+         url('JustOldFashion-webfont.svg#justoldfashionregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

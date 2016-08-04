@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'arsenalregular';
+    src: url('Arsenal-Regular-webfont.eot');
+    src: url('Arsenal-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Arsenal-Regular-webfont.woff') format('woff'),
+         url('Arsenal-Regular-webfont.ttf') format('truetype'),
+         url('Arsenal-Regular-webfont.svg#arsenalregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

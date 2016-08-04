@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'karlabold';
+    src: url('Karla-Bold-webfont.eot');
+    src: url('Karla-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Karla-Bold-webfont.woff') format('woff'),
+         url('Karla-Bold-webfont.ttf') format('truetype'),
+         url('Karla-Bold-webfont.svg#karlabold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

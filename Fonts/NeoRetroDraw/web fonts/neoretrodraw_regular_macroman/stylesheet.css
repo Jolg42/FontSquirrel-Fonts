@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'neoretrodrawregular';
+    src: url('NEORD___-webfont.eot');
+    src: url('NEORD___-webfont.eot?#iefix') format('embedded-opentype'),
+         url('NEORD___-webfont.woff') format('woff'),
+         url('NEORD___-webfont.ttf') format('truetype'),
+         url('NEORD___-webfont.svg#neoretrodrawregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

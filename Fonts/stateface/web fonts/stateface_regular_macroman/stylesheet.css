@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'statefaceregular';
+    src: url('StateFace-Regular-webfont.eot');
+    src: url('StateFace-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('StateFace-Regular-webfont.woff') format('woff'),
+         url('StateFace-Regular-webfont.ttf') format('truetype'),
+         url('StateFace-Regular-webfont.svg#statefaceregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

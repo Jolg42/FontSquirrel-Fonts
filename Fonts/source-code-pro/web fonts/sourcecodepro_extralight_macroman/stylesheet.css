@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'source_code_proextralight';
+    src: url('SourceCodePro-ExtraLight-webfont.eot');
+    src: url('SourceCodePro-ExtraLight-webfont.eot?#iefix') format('embedded-opentype'),
+         url('SourceCodePro-ExtraLight-webfont.woff') format('woff'),
+         url('SourceCodePro-ExtraLight-webfont.ttf') format('truetype'),
+         url('SourceCodePro-ExtraLight-webfont.svg#source_code_proextralight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'cinzel_decorativeblack';
+    src: url('CinzelDecorative-Black-webfont.eot');
+    src: url('CinzelDecorative-Black-webfont.eot?#iefix') format('embedded-opentype'),
+         url('CinzelDecorative-Black-webfont.woff') format('woff'),
+         url('CinzelDecorative-Black-webfont.ttf') format('truetype'),
+         url('CinzelDecorative-Black-webfont.svg#cinzel_decorativeblack') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

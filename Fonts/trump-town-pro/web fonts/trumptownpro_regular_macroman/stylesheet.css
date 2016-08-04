@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'trump_town_proregular';
+    src: url('Trump_Town_Pro-webfont.eot');
+    src: url('Trump_Town_Pro-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Trump_Town_Pro-webfont.woff') format('woff'),
+         url('Trump_Town_Pro-webfont.ttf') format('truetype'),
+         url('Trump_Town_Pro-webfont.svg#trump_town_proregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

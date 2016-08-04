@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'karatulaitalic';
+    src: url('KARAI___-webfont.eot');
+    src: url('KARAI___-webfont.eot?#iefix') format('embedded-opentype'),
+         url('KARAI___-webfont.woff') format('woff'),
+         url('KARAI___-webfont.ttf') format('truetype'),
+         url('KARAI___-webfont.svg#karatulaitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

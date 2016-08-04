@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'cowboy_hippie_proregular';
+    src: url('Cowboy_Hippie_Pro-webfont.eot');
+    src: url('Cowboy_Hippie_Pro-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Cowboy_Hippie_Pro-webfont.woff') format('woff'),
+         url('Cowboy_Hippie_Pro-webfont.ttf') format('truetype'),
+         url('Cowboy_Hippie_Pro-webfont.svg#cowboy_hippie_proregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

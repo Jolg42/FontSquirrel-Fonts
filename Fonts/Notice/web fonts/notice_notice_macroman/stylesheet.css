@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'noticenotice';
+    src: url('NoticeStd-webfont.eot');
+    src: url('NoticeStd-webfont.eot?#iefix') format('embedded-opentype'),
+         url('NoticeStd-webfont.woff') format('woff'),
+         url('NoticeStd-webfont.ttf') format('truetype'),
+         url('NoticeStd-webfont.svg#noticenotice') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

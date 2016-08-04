@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'holy-ravioliregular';
+    src: url('HOLY-RAV-webfont.eot');
+    src: url('HOLY-RAV-webfont.eot?#iefix') format('embedded-opentype'),
+         url('HOLY-RAV-webfont.woff') format('woff'),
+         url('HOLY-RAV-webfont.ttf') format('truetype'),
+         url('HOLY-RAV-webfont.svg#holy-ravioliregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

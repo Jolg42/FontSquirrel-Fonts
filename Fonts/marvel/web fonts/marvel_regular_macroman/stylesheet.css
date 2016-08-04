@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'marvelregular';
+    src: url('Marvel-Regular-webfont.eot');
+    src: url('Marvel-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Marvel-Regular-webfont.woff') format('woff'),
+         url('Marvel-Regular-webfont.ttf') format('truetype'),
+         url('Marvel-Regular-webfont.svg#marvelregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

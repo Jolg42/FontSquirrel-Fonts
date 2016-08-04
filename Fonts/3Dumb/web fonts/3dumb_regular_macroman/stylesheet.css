@@ -1,0 +1,12 @@
+@font-face {
+    font-family: '3dumbregular';
+    src: url('3Dumb-webfont.eot');
+    src: url('3Dumb-webfont.eot?#iefix') format('embedded-opentype'),
+         url('3Dumb-webfont.woff') format('woff'),
+         url('3Dumb-webfont.ttf') format('truetype'),
+         url('3Dumb-webfont.svg#3dumbregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

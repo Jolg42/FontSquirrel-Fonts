@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'boogalooregular';
+    src: url('Boogaloo-Regular-webfont.eot');
+    src: url('Boogaloo-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Boogaloo-Regular-webfont.woff') format('woff'),
+         url('Boogaloo-Regular-webfont.ttf') format('truetype'),
+         url('Boogaloo-Regular-webfont.svg#boogalooregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

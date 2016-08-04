@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'marvelbold';
+    src: url('Marvel-Bold-webfont.eot');
+    src: url('Marvel-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Marvel-Bold-webfont.woff') format('woff'),
+         url('Marvel-Bold-webfont.ttf') format('truetype'),
+         url('Marvel-Bold-webfont.svg#marvelbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

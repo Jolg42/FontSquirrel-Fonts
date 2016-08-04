@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'wc_wunderbach_btaregular';
+    src: url('WC_Wunderbach-webfont.eot');
+    src: url('WC_Wunderbach-webfont.eot?#iefix') format('embedded-opentype'),
+         url('WC_Wunderbach-webfont.woff') format('woff'),
+         url('WC_Wunderbach-webfont.ttf') format('truetype'),
+         url('WC_Wunderbach-webfont.svg#wc_wunderbach_btaregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

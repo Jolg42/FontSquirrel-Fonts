@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'overlockblack_italic';
+    src: url('Overlock-BlackItalic-webfont.eot');
+    src: url('Overlock-BlackItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Overlock-BlackItalic-webfont.woff') format('woff'),
+         url('Overlock-BlackItalic-webfont.ttf') format('truetype'),
+         url('Overlock-BlackItalic-webfont.svg#overlockblack_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

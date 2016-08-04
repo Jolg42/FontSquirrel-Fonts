@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'dpsdbeyondregular';
+    src: url('DPSDbeyond-webfont.eot');
+    src: url('DPSDbeyond-webfont.eot?#iefix') format('embedded-opentype'),
+         url('DPSDbeyond-webfont.woff') format('woff'),
+         url('DPSDbeyond-webfont.ttf') format('truetype'),
+         url('DPSDbeyond-webfont.svg#dpsdbeyondregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

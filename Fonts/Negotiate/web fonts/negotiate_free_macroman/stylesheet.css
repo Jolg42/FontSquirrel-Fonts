@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'negotiatefree';
+    src: url('negotiate_free-webfont.eot');
+    src: url('negotiate_free-webfont.eot?#iefix') format('embedded-opentype'),
+         url('negotiate_free-webfont.woff') format('woff'),
+         url('negotiate_free-webfont.ttf') format('truetype'),
+         url('negotiate_free-webfont.svg#negotiatefree') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

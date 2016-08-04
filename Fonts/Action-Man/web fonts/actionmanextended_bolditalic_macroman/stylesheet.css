@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'action_man_extendedBdIt';
+    src: url('Action_Man_Extended_Bold_Italic-webfont.eot');
+    src: url('Action_Man_Extended_Bold_Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Action_Man_Extended_Bold_Italic-webfont.woff') format('woff'),
+         url('Action_Man_Extended_Bold_Italic-webfont.ttf') format('truetype'),
+         url('Action_Man_Extended_Bold_Italic-webfont.svg#action_man_extendedBdIt') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'college_condensedregular';
+    src: url('COLLEGEC-webfont.eot');
+    src: url('COLLEGEC-webfont.eot?#iefix') format('embedded-opentype'),
+         url('COLLEGEC-webfont.woff') format('woff'),
+         url('COLLEGEC-webfont.ttf') format('truetype'),
+         url('COLLEGEC-webfont.svg#college_condensedregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

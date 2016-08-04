@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'cicle_semi_italicsemi_italic';
+    src: url('Cicle_Semi_Italic-webfont.eot');
+    src: url('Cicle_Semi_Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Cicle_Semi_Italic-webfont.woff') format('woff'),
+         url('Cicle_Semi_Italic-webfont.ttf') format('truetype'),
+         url('Cicle_Semi_Italic-webfont.svg#cicle_semi_italicsemi_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

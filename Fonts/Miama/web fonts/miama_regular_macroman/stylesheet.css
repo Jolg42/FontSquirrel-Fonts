@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'miamaregular';
+    src: url('Miama-webfont.eot');
+    src: url('Miama-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Miama-webfont.woff') format('woff'),
+         url('Miama-webfont.ttf') format('truetype'),
+         url('Miama-webfont.svg#miamaregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

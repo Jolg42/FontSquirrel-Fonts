@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'alegreya_sans_scXBdIt';
+    src: url('AlegreyaSansSC-ExtraBoldItalic-webfont.eot');
+    src: url('AlegreyaSansSC-ExtraBoldItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('AlegreyaSansSC-ExtraBoldItalic-webfont.woff') format('woff'),
+         url('AlegreyaSansSC-ExtraBoldItalic-webfont.ttf') format('truetype'),
+         url('AlegreyaSansSC-ExtraBoldItalic-webfont.svg#alegreya_sans_scXBdIt') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

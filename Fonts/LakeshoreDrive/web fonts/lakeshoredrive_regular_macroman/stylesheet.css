@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'lakeshoredriveregular';
+    src: url('LAKESHOR-webfont.eot');
+    src: url('LAKESHOR-webfont.eot?#iefix') format('embedded-opentype'),
+         url('LAKESHOR-webfont.woff') format('woff'),
+         url('LAKESHOR-webfont.ttf') format('truetype'),
+         url('LAKESHOR-webfont.svg#lakeshoredriveregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

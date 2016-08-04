@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'merriweather_sansbookitalic';
+    src: url('MerriweatherSans-LightItalic-webfont.eot');
+    src: url('MerriweatherSans-LightItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('MerriweatherSans-LightItalic-webfont.woff') format('woff'),
+         url('MerriweatherSans-LightItalic-webfont.ttf') format('truetype'),
+         url('MerriweatherSans-LightItalic-webfont.svg#merriweather_sansbookitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

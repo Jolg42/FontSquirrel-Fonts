@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'aquilinetworegular';
+    src: url('AquilineTwo-webfont.eot');
+    src: url('AquilineTwo-webfont.eot?#iefix') format('embedded-opentype'),
+         url('AquilineTwo-webfont.woff') format('woff'),
+         url('AquilineTwo-webfont.ttf') format('truetype'),
+         url('AquilineTwo-webfont.svg#aquilinetworegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

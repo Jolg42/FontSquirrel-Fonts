@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'josefin_sansthin';
+    src: url('JosefinSans-Thin-webfont.eot');
+    src: url('JosefinSans-Thin-webfont.eot?#iefix') format('embedded-opentype'),
+         url('JosefinSans-Thin-webfont.woff') format('woff'),
+         url('JosefinSans-Thin-webfont.ttf') format('truetype'),
+         url('JosefinSans-Thin-webfont.svg#josefin_sansthin') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'note_thisregular';
+    src: url('Note_this-webfont.eot');
+    src: url('Note_this-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Note_this-webfont.woff') format('woff'),
+         url('Note_this-webfont.ttf') format('truetype'),
+         url('Note_this-webfont.svg#note_thisregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

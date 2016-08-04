@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'scriptinaregular';
+    src: url('scriptina-webfont.eot');
+    src: url('scriptina-webfont.eot?#iefix') format('embedded-opentype'),
+         url('scriptina-webfont.woff') format('woff'),
+         url('scriptina-webfont.ttf') format('truetype'),
+         url('scriptina-webfont.svg#scriptinaregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

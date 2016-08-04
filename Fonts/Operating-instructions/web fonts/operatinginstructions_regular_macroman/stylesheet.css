@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'operating_instructionsregular';
+    src: url('Operatinginstructions-webfont.eot');
+    src: url('Operatinginstructions-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Operatinginstructions-webfont.woff') format('woff'),
+         url('Operatinginstructions-webfont.ttf') format('truetype'),
+         url('Operatinginstructions-webfont.svg#operating_instructionsregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

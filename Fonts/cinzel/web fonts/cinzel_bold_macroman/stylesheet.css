@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'cinzelbold';
+    src: url('Cinzel-Bold-webfont.eot');
+    src: url('Cinzel-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Cinzel-Bold-webfont.woff') format('woff'),
+         url('Cinzel-Bold-webfont.ttf') format('truetype'),
+         url('Cinzel-Bold-webfont.svg#cinzelbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

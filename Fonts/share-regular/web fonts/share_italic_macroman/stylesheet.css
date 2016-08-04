@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'shareitalic';
+    src: url('Share-Italic-webfont.eot');
+    src: url('Share-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Share-Italic-webfont.woff') format('woff'),
+         url('Share-Italic-webfont.ttf') format('truetype'),
+         url('Share-Italic-webfont.svg#shareitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'digital_dream_skew_narrowRg';
+    src: url('DIGITALDREAMSKEWNARROW-webfont.eot');
+    src: url('DIGITALDREAMSKEWNARROW-webfont.eot?#iefix') format('embedded-opentype'),
+         url('DIGITALDREAMSKEWNARROW-webfont.woff') format('woff'),
+         url('DIGITALDREAMSKEWNARROW-webfont.ttf') format('truetype'),
+         url('DIGITALDREAMSKEWNARROW-webfont.svg#digital_dream_skew_narrowRg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

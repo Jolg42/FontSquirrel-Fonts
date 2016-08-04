@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'sinkin_sans800_black';
+    src: url('SinkinSans-800Black-webfont.eot');
+    src: url('SinkinSans-800Black-webfont.eot?#iefix') format('embedded-opentype'),
+         url('SinkinSans-800Black-webfont.woff') format('woff'),
+         url('SinkinSans-800Black-webfont.ttf') format('truetype'),
+         url('SinkinSans-800Black-webfont.svg#sinkin_sans800_black') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

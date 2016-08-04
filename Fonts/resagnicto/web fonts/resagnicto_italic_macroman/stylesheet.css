@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'resagnictoitalic';
+    src: url('ResagnictoItalic-webfont.eot');
+    src: url('ResagnictoItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('ResagnictoItalic-webfont.woff') format('woff'),
+         url('ResagnictoItalic-webfont.ttf') format('truetype'),
+         url('ResagnictoItalic-webfont.svg#resagnictoitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

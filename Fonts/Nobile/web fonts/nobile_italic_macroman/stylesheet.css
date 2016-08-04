@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'nobileitalic';
+    src: url('Nobile-Italic-webfont.eot');
+    src: url('Nobile-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Nobile-Italic-webfont.woff') format('woff'),
+         url('Nobile-Italic-webfont.ttf') format('truetype'),
+         url('Nobile-Italic-webfont.svg#nobileitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

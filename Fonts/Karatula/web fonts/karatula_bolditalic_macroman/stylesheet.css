@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'karatulabolditalic';
+    src: url('KARABI__-webfont.eot');
+    src: url('KARABI__-webfont.eot?#iefix') format('embedded-opentype'),
+         url('KARABI__-webfont.woff') format('woff'),
+         url('KARABI__-webfont.ttf') format('truetype'),
+         url('KARABI__-webfont.svg#karatulabolditalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

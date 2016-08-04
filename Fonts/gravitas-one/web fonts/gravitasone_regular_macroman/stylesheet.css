@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'gravitas_oneregular';
+    src: url('GravitasOne-webfont.eot');
+    src: url('GravitasOne-webfont.eot?#iefix') format('embedded-opentype'),
+         url('GravitasOne-webfont.woff') format('woff'),
+         url('GravitasOne-webfont.ttf') format('truetype'),
+         url('GravitasOne-webfont.svg#gravitas_oneregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

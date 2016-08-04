@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'cabinbold_italic';
+    src: url('Cabin-BoldItalic-webfont.eot');
+    src: url('Cabin-BoldItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Cabin-BoldItalic-webfont.woff') format('woff'),
+         url('Cabin-BoldItalic-webfont.ttf') format('truetype'),
+         url('Cabin-BoldItalic-webfont.svg#cabinbold_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

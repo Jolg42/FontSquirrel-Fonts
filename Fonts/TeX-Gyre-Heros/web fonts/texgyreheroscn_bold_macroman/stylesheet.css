@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'texgyreheroscnbold';
+    src: url('texgyreheroscn-bold-webfont.eot');
+    src: url('texgyreheroscn-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('texgyreheroscn-bold-webfont.woff') format('woff'),
+         url('texgyreheroscn-bold-webfont.ttf') format('truetype'),
+         url('texgyreheroscn-bold-webfont.svg#texgyreheroscnbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

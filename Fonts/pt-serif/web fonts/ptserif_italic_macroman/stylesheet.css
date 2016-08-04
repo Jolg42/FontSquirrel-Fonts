@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'pt_serifitalic';
+    src: url('PTF56F-webfont.eot');
+    src: url('PTF56F-webfont.eot?#iefix') format('embedded-opentype'),
+         url('PTF56F-webfont.woff') format('woff'),
+         url('PTF56F-webfont.ttf') format('truetype'),
+         url('PTF56F-webfont.svg#pt_serifitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'sinkin_sans300_light';
+    src: url('SinkinSans-300Light-webfont.eot');
+    src: url('SinkinSans-300Light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('SinkinSans-300Light-webfont.woff') format('woff'),
+         url('SinkinSans-300Light-webfont.ttf') format('truetype'),
+         url('SinkinSans-300Light-webfont.svg#sinkin_sans300_light') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'komika_axisregular';
+    src: url('KOMIKAX_-webfont.eot');
+    src: url('KOMIKAX_-webfont.eot?#iefix') format('embedded-opentype'),
+         url('KOMIKAX_-webfont.woff') format('woff'),
+         url('KOMIKAX_-webfont.ttf') format('truetype'),
+         url('KOMIKAX_-webfont.svg#komika_axisregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

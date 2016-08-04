@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'neristhin';
+    src: url('Neris-Thin-webfont.eot');
+    src: url('Neris-Thin-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Neris-Thin-webfont.woff') format('woff'),
+         url('Neris-Thin-webfont.ttf') format('truetype'),
+         url('Neris-Thin-webfont.svg#neristhin') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

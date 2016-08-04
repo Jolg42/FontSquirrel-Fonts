@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'krazy_nightsregular';
+    src: url('krazynights-webfont.eot');
+    src: url('krazynights-webfont.eot?#iefix') format('embedded-opentype'),
+         url('krazynights-webfont.woff') format('woff'),
+         url('krazynights-webfont.ttf') format('truetype'),
+         url('krazynights-webfont.svg#krazy_nightsregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

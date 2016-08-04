@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'karnivorebold';
+    src: url('KARNIVOB-webfont.eot');
+    src: url('KARNIVOB-webfont.eot?#iefix') format('embedded-opentype'),
+         url('KARNIVOB-webfont.woff') format('woff'),
+         url('KARNIVOB-webfont.ttf') format('truetype'),
+         url('KARNIVOB-webfont.svg#karnivorebold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

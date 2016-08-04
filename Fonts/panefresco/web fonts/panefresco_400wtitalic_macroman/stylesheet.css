@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'panefresco_400wtitalic';
+    src: url('Panefresco400wtItalic-webfont.eot');
+    src: url('Panefresco400wtItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Panefresco400wtItalic-webfont.woff') format('woff'),
+         url('Panefresco400wtItalic-webfont.ttf') format('truetype'),
+         url('Panefresco400wtItalic-webfont.svg#panefresco_400wtitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

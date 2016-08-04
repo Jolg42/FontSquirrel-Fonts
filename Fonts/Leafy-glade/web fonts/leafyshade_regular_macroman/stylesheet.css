@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'leafyshaderegular';
+    src: url('Leafy_Shade-webfont.eot');
+    src: url('Leafy_Shade-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Leafy_Shade-webfont.woff') format('woff'),
+         url('Leafy_Shade-webfont.ttf') format('truetype'),
+         url('Leafy_Shade-webfont.svg#leafyshaderegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

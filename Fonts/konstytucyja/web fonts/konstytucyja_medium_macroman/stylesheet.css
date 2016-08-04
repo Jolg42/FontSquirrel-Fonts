@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'konstytucyjamedium';
+    src: url('konstytucyja_091-webfont.eot');
+    src: url('konstytucyja_091-webfont.eot?#iefix') format('embedded-opentype'),
+         url('konstytucyja_091-webfont.woff') format('woff'),
+         url('konstytucyja_091-webfont.ttf') format('truetype'),
+         url('konstytucyja_091-webfont.svg#konstytucyjamedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

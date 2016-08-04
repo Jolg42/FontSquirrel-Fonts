@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'furoreregular';
+    src: url('Furore-webfont.eot');
+    src: url('Furore-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Furore-webfont.woff') format('woff'),
+         url('Furore-webfont.ttf') format('truetype'),
+         url('Furore-webfont.svg#furoreregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

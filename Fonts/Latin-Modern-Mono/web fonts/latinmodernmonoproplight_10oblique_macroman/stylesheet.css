@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'latin_modern_mono_prop_li10Ob';
+    src: url('lmmonoproplt10-oblique-webfont.eot');
+    src: url('lmmonoproplt10-oblique-webfont.eot?#iefix') format('embedded-opentype'),
+         url('lmmonoproplt10-oblique-webfont.woff') format('woff'),
+         url('lmmonoproplt10-oblique-webfont.ttf') format('truetype'),
+         url('lmmonoproplt10-oblique-webfont.svg#latin_modern_mono_prop_li10Ob') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

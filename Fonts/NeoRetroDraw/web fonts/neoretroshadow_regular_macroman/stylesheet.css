@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'neoretroshadowregular';
+    src: url('NEORS___-webfont.eot');
+    src: url('NEORS___-webfont.eot?#iefix') format('embedded-opentype'),
+         url('NEORS___-webfont.woff') format('woff'),
+         url('NEORS___-webfont.ttf') format('truetype'),
+         url('NEORS___-webfont.svg#neoretroshadowregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

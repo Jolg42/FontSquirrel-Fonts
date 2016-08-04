@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'kavoonregular';
+    src: url('Kavoon-Regular-webfont.eot');
+    src: url('Kavoon-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Kavoon-Regular-webfont.woff') format('woff'),
+         url('Kavoon-Regular-webfont.ttf') format('truetype'),
+         url('Kavoon-Regular-webfont.svg#kavoonregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

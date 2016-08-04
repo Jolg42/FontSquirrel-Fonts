@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'sf_arch_rivalbold_italic';
+    src: url('SF_Arch_Rival_Bold_Italic-webfont.eot');
+    src: url('SF_Arch_Rival_Bold_Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('SF_Arch_Rival_Bold_Italic-webfont.woff') format('woff'),
+         url('SF_Arch_Rival_Bold_Italic-webfont.ttf') format('truetype'),
+         url('SF_Arch_Rival_Bold_Italic-webfont.svg#sf_arch_rivalbold_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

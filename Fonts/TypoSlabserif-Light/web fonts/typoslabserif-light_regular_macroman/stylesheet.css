@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'typoslabserif-lightregular';
+    src: url('TypoSlabserif-Light-webfont.eot');
+    src: url('TypoSlabserif-Light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('TypoSlabserif-Light-webfont.woff') format('woff'),
+         url('TypoSlabserif-Light-webfont.ttf') format('truetype'),
+         url('TypoSlabserif-Light-webfont.svg#typoslabserif-lightregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

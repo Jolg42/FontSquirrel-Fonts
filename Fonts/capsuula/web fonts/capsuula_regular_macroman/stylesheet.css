@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'capsuularegular';
+    src: url('Capsuula-webfont.eot');
+    src: url('Capsuula-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Capsuula-webfont.woff') format('woff'),
+         url('Capsuula-webfont.ttf') format('truetype'),
+         url('Capsuula-webfont.svg#capsuularegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

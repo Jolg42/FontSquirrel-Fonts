@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'makoregular';
+    src: url('Mako-Regular-webfont.eot');
+    src: url('Mako-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Mako-Regular-webfont.woff') format('woff'),
+         url('Mako-Regular-webfont.ttf') format('truetype'),
+         url('Mako-Regular-webfont.svg#makoregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

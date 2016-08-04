@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'lilac_malariaregular';
+    src: url('lilac_malaria-webfont.eot');
+    src: url('lilac_malaria-webfont.eot?#iefix') format('embedded-opentype'),
+         url('lilac_malaria-webfont.woff') format('woff'),
+         url('lilac_malaria-webfont.ttf') format('truetype'),
+         url('lilac_malaria-webfont.svg#lilac_malariaregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

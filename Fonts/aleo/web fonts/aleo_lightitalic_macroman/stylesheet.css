@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'aleolightitalic';
+    src: url('Aleo-LightItalic-webfont.eot');
+    src: url('Aleo-LightItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Aleo-LightItalic-webfont.woff') format('woff'),
+         url('Aleo-LightItalic-webfont.ttf') format('truetype'),
+         url('Aleo-LightItalic-webfont.svg#aleolightitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

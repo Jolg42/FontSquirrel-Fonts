@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'studebakerregular';
+    src: url('Studebaker-webfont.eot');
+    src: url('Studebaker-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Studebaker-webfont.woff') format('woff'),
+         url('Studebaker-webfont.ttf') format('truetype'),
+         url('Studebaker-webfont.svg#studebakerregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

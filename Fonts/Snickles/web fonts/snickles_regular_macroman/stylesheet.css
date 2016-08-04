@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'snicklesregular';
+    src: url('Snickles-webfont.eot');
+    src: url('Snickles-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Snickles-webfont.woff') format('woff'),
+         url('Snickles-webfont.ttf') format('truetype'),
+         url('Snickles-webfont.svg#snicklesregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

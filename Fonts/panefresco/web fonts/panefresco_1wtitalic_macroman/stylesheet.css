@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'panefresco_1wtitalic';
+    src: url('Panefresco1wtItalic-webfont.eot');
+    src: url('Panefresco1wtItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Panefresco1wtItalic-webfont.woff') format('woff'),
+         url('Panefresco1wtItalic-webfont.ttf') format('truetype'),
+         url('Panefresco1wtItalic-webfont.svg#panefresco_1wtitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'pixiefontregular';
+    src: url('PixieFont-webfont.eot');
+    src: url('PixieFont-webfont.eot?#iefix') format('embedded-opentype'),
+         url('PixieFont-webfont.woff') format('woff'),
+         url('PixieFont-webfont.ttf') format('truetype'),
+         url('PixieFont-webfont.svg#pixiefontregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

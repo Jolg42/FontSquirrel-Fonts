@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'leafy_gladeregular';
+    src: url('Leafy-Glade-webfont.eot');
+    src: url('Leafy-Glade-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Leafy-Glade-webfont.woff') format('woff'),
+         url('Leafy-Glade-webfont.ttf') format('truetype'),
+         url('Leafy-Glade-webfont.svg#leafy_gladeregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'griffosscapsfontregular';
+    src: url('GriffosSCapsFont-webfont.eot');
+    src: url('GriffosSCapsFont-webfont.eot?#iefix') format('embedded-opentype'),
+         url('GriffosSCapsFont-webfont.woff') format('woff'),
+         url('GriffosSCapsFont-webfont.ttf') format('truetype'),
+         url('GriffosSCapsFont-webfont.svg#griffosscapsfontregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'old_standard_ttregular';
+    src: url('OldStandard-Regular-webfont.eot');
+    src: url('OldStandard-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('OldStandard-Regular-webfont.woff') format('woff'),
+         url('OldStandard-Regular-webfont.ttf') format('truetype'),
+         url('OldStandard-Regular-webfont.svg#old_standard_ttregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'teutonic_no4demibold';
+    src: url('teutonic4-webfont.eot');
+    src: url('teutonic4-webfont.eot?#iefix') format('embedded-opentype'),
+         url('teutonic4-webfont.woff') format('woff'),
+         url('teutonic4-webfont.ttf') format('truetype'),
+         url('teutonic4-webfont.svg#teutonic_no4demibold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

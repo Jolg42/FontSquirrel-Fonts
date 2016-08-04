@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'resagokrbold';
+    src: url('ResagokrBold-webfont.eot');
+    src: url('ResagokrBold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('ResagokrBold-webfont.woff') format('woff'),
+         url('ResagokrBold-webfont.ttf') format('truetype'),
+         url('ResagokrBold-webfont.svg#resagokrbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

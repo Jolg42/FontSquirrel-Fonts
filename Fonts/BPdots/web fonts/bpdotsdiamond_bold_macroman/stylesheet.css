@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'bpdotsdiamondbold';
+    src: url('BPdotsDiamondBold-webfont.eot');
+    src: url('BPdotsDiamondBold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('BPdotsDiamondBold-webfont.woff') format('woff'),
+         url('BPdotsDiamondBold-webfont.ttf') format('truetype'),
+         url('BPdotsDiamondBold-webfont.svg#bpdotsdiamondbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

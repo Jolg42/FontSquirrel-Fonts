@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'tinetregular';
+    src: url('TungusFont_Tinet-webfont.eot');
+    src: url('TungusFont_Tinet-webfont.eot?#iefix') format('embedded-opentype'),
+         url('TungusFont_Tinet-webfont.woff') format('woff'),
+         url('TungusFont_Tinet-webfont.ttf') format('truetype'),
+         url('TungusFont_Tinet-webfont.svg#tinetregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

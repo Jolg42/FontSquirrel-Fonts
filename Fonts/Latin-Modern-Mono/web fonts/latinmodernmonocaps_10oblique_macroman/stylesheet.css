@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'latin_modern_mono_caps10Ob';
+    src: url('lmmonocaps10-oblique-webfont.eot');
+    src: url('lmmonocaps10-oblique-webfont.eot?#iefix') format('embedded-opentype'),
+         url('lmmonocaps10-oblique-webfont.woff') format('woff'),
+         url('lmmonocaps10-oblique-webfont.ttf') format('truetype'),
+         url('lmmonocaps10-oblique-webfont.svg#latin_modern_mono_caps10Ob') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'pecitamedium';
+    src: url('Pecita-webfont.eot');
+    src: url('Pecita-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Pecita-webfont.woff') format('woff'),
+         url('Pecita-webfont.ttf') format('truetype'),
+         url('Pecita-webfont.svg#pecitamedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

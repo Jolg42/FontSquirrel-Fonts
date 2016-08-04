@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'paloaltoheavy';
+    src: url('Palo_Alto_Oblique-webfont.eot');
+    src: url('Palo_Alto_Oblique-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Palo_Alto_Oblique-webfont.woff') format('woff'),
+         url('Palo_Alto_Oblique-webfont.ttf') format('truetype'),
+         url('Palo_Alto_Oblique-webfont.svg#paloaltoheavy') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

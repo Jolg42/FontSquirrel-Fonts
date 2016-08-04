@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'myndraineregular';
+    src: url('Myndraine-webfont.eot');
+    src: url('Myndraine-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Myndraine-webfont.woff') format('woff'),
+         url('Myndraine-webfont.ttf') format('truetype'),
+         url('Myndraine-webfont.svg#myndraineregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

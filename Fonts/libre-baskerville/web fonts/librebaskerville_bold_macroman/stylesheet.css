@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'libre_baskervillebold';
+    src: url('LibreBaskerville-Bold-webfont.eot');
+    src: url('LibreBaskerville-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('LibreBaskerville-Bold-webfont.woff') format('woff'),
+         url('LibreBaskerville-Bold-webfont.ttf') format('truetype'),
+         url('LibreBaskerville-Bold-webfont.svg#libre_baskervillebold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

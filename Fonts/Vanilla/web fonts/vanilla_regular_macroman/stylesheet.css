@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'vanillaregular';
+    src: url('Vanilla-webfont.eot');
+    src: url('Vanilla-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Vanilla-webfont.woff') format('woff'),
+         url('Vanilla-webfont.ttf') format('truetype'),
+         url('Vanilla-webfont.svg#vanillaregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

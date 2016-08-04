@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'greyscalebasicbold_italic';
+    src: url('Greyscale_Basic_Bold_Italic-webfont.eot');
+    src: url('Greyscale_Basic_Bold_Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Greyscale_Basic_Bold_Italic-webfont.woff') format('woff'),
+         url('Greyscale_Basic_Bold_Italic-webfont.ttf') format('truetype'),
+         url('Greyscale_Basic_Bold_Italic-webfont.svg#greyscalebasicbold_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

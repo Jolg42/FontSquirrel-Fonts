@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'signikalight';
+    src: url('Signika-Light-webfont.eot');
+    src: url('Signika-Light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Signika-Light-webfont.woff') format('woff'),
+         url('Signika-Light-webfont.ttf') format('truetype'),
+         url('Signika-Light-webfont.svg#signikalight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

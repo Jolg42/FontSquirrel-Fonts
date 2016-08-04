@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'greatlakesnfregular';
+    src: url('GREALN__-webfont.eot');
+    src: url('GREALN__-webfont.eot?#iefix') format('embedded-opentype'),
+         url('GREALN__-webfont.woff') format('woff'),
+         url('GREALN__-webfont.ttf') format('truetype'),
+         url('GREALN__-webfont.svg#greatlakesnfregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

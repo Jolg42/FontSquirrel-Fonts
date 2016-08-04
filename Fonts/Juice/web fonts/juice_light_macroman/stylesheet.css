@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'juice_lightregular';
+    src: url('JUICE_Light-webfont.eot');
+    src: url('JUICE_Light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('JUICE_Light-webfont.woff') format('woff'),
+         url('JUICE_Light-webfont.ttf') format('truetype'),
+         url('JUICE_Light-webfont.svg#juice_lightregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

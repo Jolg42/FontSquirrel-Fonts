@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'istokitalic';
+    src: url('Istok-Italic-webfont.eot');
+    src: url('Istok-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Istok-Italic-webfont.woff') format('woff'),
+         url('Istok-Italic-webfont.ttf') format('truetype'),
+         url('Istok-Italic-webfont.svg#istokitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

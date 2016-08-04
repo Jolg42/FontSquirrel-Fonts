@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'spicy_riceregular';
+    src: url('SpicyRice-Regular-webfont.eot');
+    src: url('SpicyRice-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('SpicyRice-Regular-webfont.woff') format('woff'),
+         url('SpicyRice-Regular-webfont.ttf') format('truetype'),
+         url('SpicyRice-Regular-webfont.svg#spicy_riceregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

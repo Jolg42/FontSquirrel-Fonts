@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'rabioheadregular';
+    src: url('rabiohead-webfont.eot');
+    src: url('rabiohead-webfont.eot?#iefix') format('embedded-opentype'),
+         url('rabiohead-webfont.woff') format('woff'),
+         url('rabiohead-webfont.ttf') format('truetype'),
+         url('rabiohead-webfont.svg#rabioheadregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

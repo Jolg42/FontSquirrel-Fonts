@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'aguafina_scriptregular';
+    src: url('AguafinaScript-Regular-webfont.eot');
+    src: url('AguafinaScript-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('AguafinaScript-Regular-webfont.woff') format('woff'),
+         url('AguafinaScript-Regular-webfont.ttf') format('truetype'),
+         url('AguafinaScript-Regular-webfont.svg#aguafina_scriptregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

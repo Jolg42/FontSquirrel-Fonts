@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'oswaldbold';
+    src: url('Oswald-Bold-webfont.eot');
+    src: url('Oswald-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Oswald-Bold-webfont.woff') format('woff'),
+         url('Oswald-Bold-webfont.ttf') format('truetype'),
+         url('Oswald-Bold-webfont.svg#oswaldbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

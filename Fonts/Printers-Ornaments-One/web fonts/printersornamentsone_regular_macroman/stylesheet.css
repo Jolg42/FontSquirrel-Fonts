@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'printers_ornaments_oneregular';
+    src: url('PrintersOrnamentsOne-webfont.eot');
+    src: url('PrintersOrnamentsOne-webfont.eot?#iefix') format('embedded-opentype'),
+         url('PrintersOrnamentsOne-webfont.woff') format('woff'),
+         url('PrintersOrnamentsOne-webfont.ttf') format('truetype'),
+         url('PrintersOrnamentsOne-webfont.svg#printers_ornaments_oneregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

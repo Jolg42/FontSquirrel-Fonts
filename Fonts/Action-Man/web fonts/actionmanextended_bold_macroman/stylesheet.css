@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'action_man_extendedbold';
+    src: url('Action_Man_Extended_Bold-webfont.eot');
+    src: url('Action_Man_Extended_Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Action_Man_Extended_Bold-webfont.woff') format('woff'),
+         url('Action_Man_Extended_Bold-webfont.ttf') format('truetype'),
+         url('Action_Man_Extended_Bold-webfont.svg#action_man_extendedbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

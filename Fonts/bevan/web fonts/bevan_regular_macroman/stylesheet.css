@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'bevanregular';
+    src: url('Bevan-webfont.eot');
+    src: url('Bevan-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Bevan-webfont.woff') format('woff'),
+         url('Bevan-webfont.ttf') format('truetype'),
+         url('Bevan-webfont.svg#bevanregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

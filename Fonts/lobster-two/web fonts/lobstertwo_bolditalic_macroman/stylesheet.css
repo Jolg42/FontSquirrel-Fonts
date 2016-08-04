@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'lobster_twobold_italic';
+    src: url('LobsterTwo-BoldItalic-webfont.eot');
+    src: url('LobsterTwo-BoldItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('LobsterTwo-BoldItalic-webfont.woff') format('woff'),
+         url('LobsterTwo-BoldItalic-webfont.ttf') format('truetype'),
+         url('LobsterTwo-BoldItalic-webfont.svg#lobster_twobold_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

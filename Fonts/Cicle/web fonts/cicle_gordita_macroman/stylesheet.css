@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'cicle_gorditagordita';
+    src: url('Cicle_Gordita-webfont.eot');
+    src: url('Cicle_Gordita-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Cicle_Gordita-webfont.woff') format('woff'),
+         url('Cicle_Gordita-webfont.ttf') format('truetype'),
+         url('Cicle_Gordita-webfont.svg#cicle_gorditagordita') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

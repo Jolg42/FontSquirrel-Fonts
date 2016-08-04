@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'league_gothiccondensed_italic';
+    src: url('LeagueGothic-CondensedItalic-webfont.eot');
+    src: url('LeagueGothic-CondensedItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('LeagueGothic-CondensedItalic-webfont.woff') format('woff'),
+         url('LeagueGothic-CondensedItalic-webfont.ttf') format('truetype'),
+         url('LeagueGothic-CondensedItalic-webfont.svg#league_gothiccondensed_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

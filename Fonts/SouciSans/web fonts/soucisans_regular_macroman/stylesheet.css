@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'soucisansregular';
+    src: url('SOUCISAN-webfont.eot');
+    src: url('SOUCISAN-webfont.eot?#iefix') format('embedded-opentype'),
+         url('SOUCISAN-webfont.woff') format('woff'),
+         url('SOUCISAN-webfont.ttf') format('truetype'),
+         url('SOUCISAN-webfont.svg#soucisansregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

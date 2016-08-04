@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'kells_sdregular';
+    src: url('Kells_SD-webfont.eot');
+    src: url('Kells_SD-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Kells_SD-webfont.woff') format('woff'),
+         url('Kells_SD-webfont.ttf') format('truetype'),
+         url('Kells_SD-webfont.svg#kells_sdregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

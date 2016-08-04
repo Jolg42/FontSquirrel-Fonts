@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'latin_modern_mono_prop_10BdOb';
+    src: url('lmmonoproplt10-boldoblique-webfont.eot');
+    src: url('lmmonoproplt10-boldoblique-webfont.eot?#iefix') format('embedded-opentype'),
+         url('lmmonoproplt10-boldoblique-webfont.woff') format('woff'),
+         url('lmmonoproplt10-boldoblique-webfont.ttf') format('truetype'),
+         url('lmmonoproplt10-boldoblique-webfont.svg#latin_modern_mono_prop_10BdOb') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

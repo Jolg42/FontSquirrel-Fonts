@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'overlockitalic';
+    src: url('Overlock-Italic-webfont.eot');
+    src: url('Overlock-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Overlock-Italic-webfont.woff') format('woff'),
+         url('Overlock-Italic-webfont.ttf') format('truetype'),
+         url('Overlock-Italic-webfont.svg#overlockitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

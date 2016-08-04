@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'santana-regularcondensedRg';
+    src: url('Santana-RegularCondensed-webfont.eot');
+    src: url('Santana-RegularCondensed-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Santana-RegularCondensed-webfont.woff') format('woff'),
+         url('Santana-RegularCondensed-webfont.ttf') format('truetype'),
+         url('Santana-RegularCondensed-webfont.svg#santana-regularcondensedRg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

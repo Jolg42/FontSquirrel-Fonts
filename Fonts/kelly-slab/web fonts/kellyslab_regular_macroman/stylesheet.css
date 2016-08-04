@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'kelly_slabregular';
+    src: url('KellySlab-Regular-webfont.eot');
+    src: url('KellySlab-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('KellySlab-Regular-webfont.woff') format('woff'),
+         url('KellySlab-Regular-webfont.ttf') format('truetype'),
+         url('KellySlab-Regular-webfont.svg#kelly_slabregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

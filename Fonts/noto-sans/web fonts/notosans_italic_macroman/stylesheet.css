@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'noto_sansitalic';
+    src: url('NotoSans-Italic-webfont.eot');
+    src: url('NotoSans-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('NotoSans-Italic-webfont.woff') format('woff'),
+         url('NotoSans-Italic-webfont.ttf') format('truetype'),
+         url('NotoSans-Italic-webfont.svg#noto_sansitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

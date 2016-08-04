@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'radiolandregular';
+    src: url('RADIOLAND-webfont.eot');
+    src: url('RADIOLAND-webfont.eot?#iefix') format('embedded-opentype'),
+         url('RADIOLAND-webfont.woff') format('woff'),
+         url('RADIOLAND-webfont.ttf') format('truetype'),
+         url('RADIOLAND-webfont.svg#radiolandregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

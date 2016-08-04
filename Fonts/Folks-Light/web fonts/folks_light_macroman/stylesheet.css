@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'folks-lightregular';
+    src: url('Folks-Light-webfont.eot');
+    src: url('Folks-Light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Folks-Light-webfont.woff') format('woff'),
+         url('Folks-Light-webfont.ttf') format('truetype'),
+         url('Folks-Light-webfont.svg#folks-lightregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

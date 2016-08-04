@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'trendy_universityregular';
+    src: url('TRENU___-webfont.eot');
+    src: url('TRENU___-webfont.eot?#iefix') format('embedded-opentype'),
+         url('TRENU___-webfont.woff') format('woff'),
+         url('TRENU___-webfont.ttf') format('truetype'),
+         url('TRENU___-webfont.svg#trendy_universityregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'bodonitownregular';
+    src: url('Bodonitown-webfont.eot');
+    src: url('Bodonitown-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Bodonitown-webfont.woff') format('woff'),
+         url('Bodonitown-webfont.ttf') format('truetype'),
+         url('Bodonitown-webfont.svg#bodonitownregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

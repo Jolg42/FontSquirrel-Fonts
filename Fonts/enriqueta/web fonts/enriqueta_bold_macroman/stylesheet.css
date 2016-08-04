@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'enriquetabold';
+    src: url('Enriqueta-Bold-webfont.eot');
+    src: url('Enriqueta-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Enriqueta-Bold-webfont.woff') format('woff'),
+         url('Enriqueta-Bold-webfont.ttf') format('truetype'),
+         url('Enriqueta-Bold-webfont.svg#enriquetabold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

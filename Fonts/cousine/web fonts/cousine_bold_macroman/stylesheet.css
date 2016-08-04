@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'cousinebold';
+    src: url('Cousine-Bold-webfont.eot');
+    src: url('Cousine-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Cousine-Bold-webfont.woff') format('woff'),
+         url('Cousine-Bold-webfont.ttf') format('truetype'),
+         url('Cousine-Bold-webfont.svg#cousinebold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

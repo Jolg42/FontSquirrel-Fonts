@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'camboregular';
+    src: url('Cambo-Regular-webfont.eot');
+    src: url('Cambo-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Cambo-Regular-webfont.woff') format('woff'),
+         url('Cambo-Regular-webfont.ttf') format('truetype'),
+         url('Cambo-Regular-webfont.svg#camboregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

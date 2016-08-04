@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'kingthings_italiqueregular';
+    src: url('Kingthings_Italique-webfont.eot');
+    src: url('Kingthings_Italique-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Kingthings_Italique-webfont.woff') format('woff'),
+         url('Kingthings_Italique-webfont.ttf') format('truetype'),
+         url('Kingthings_Italique-webfont.svg#kingthings_italiqueregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

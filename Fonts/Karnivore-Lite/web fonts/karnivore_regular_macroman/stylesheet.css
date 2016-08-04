@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'karnivoreregular';
+    src: url('KARNIVOR-webfont.eot');
+    src: url('KARNIVOR-webfont.eot?#iefix') format('embedded-opentype'),
+         url('KARNIVOR-webfont.woff') format('woff'),
+         url('KARNIVOR-webfont.ttf') format('truetype'),
+         url('KARNIVOR-webfont.svg#karnivoreregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

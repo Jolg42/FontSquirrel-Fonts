@@ -1,0 +1,118 @@
+Tehuti version 2
+
+Author/designer: T. Christopher White
+You can contact me if you have suggestions, find problems and know how to fix them, et cetera, at: amenemsu@gmail.com
+
+Tehuti is a modern font predominantly based off Electra, with touches from Palatino, Janson, and Goudy Oldstyle. This is version 2, which has had quite a few updates to its design. During its creation, it led me to incorporate new ideas and alternate designs for characters which I’ve always felt were imbalanced when in text. This expansion also had to do with my love of languages and linguistics, and made me take a different approach to the design of the Greek and Cyrillic glyphs, giving both a more Latin-like feel. The lowercase Cyrillic glyphs are not simply smaller versions of their uppercase counterparts, as is often the case. Also, the a’s in the italic version are designed in a way as to be easily distinguished by the various languages that use them, i.e., whether it be African or Native American. All extra features, including alternate characters, et cetera, are available via open type tables. For those programs without access to open type, all characters are in the Private Use Area at the end of the font. A fontlog is included that lists the code points for additional characters. Since Tehuti is a Unicode font, I will update it on occasion, so check back for newer versions.
+
+Notes: a) the modifier letters are set at the optimal height for text; they are not superiors, but numerators, meaning that if you need to add additional letters to text use the numerator table, i.e., for abbreviations as in 5th, 1ère, and so on. The standard superiors are set for math. b) Tehuti has a large m-height to accommodate multiple combining diacritics, i.e., it’s a smaller point size—16 point equals roughly 12 point in most fonts.
+
+Tehuti includes:
+
+• Latin, Greek, and Cyrillic
+• Extended punctuation and brackets. For the uppercase middle dot, use (2E31)
+• Most currency symbols, including the newest additions
+• A ton of math symbols and arrows
+• Latin superscripts, subscripts, numerators, and denominators, which include most punctuation and are mostly in the PUA, and are ordered as listed
+• Proportional (lining) numbers, which are in the PUA, and are followed by the tabular styles of both
+• Fractions
+• A redesigned Alpha
+• Redesigned velarized, palatalized, and retroflex characters
+• Redesigned glottal stops. Their new design resembles curved 7s, i.e., they lack the stem, which is preferred in the languages that use them. They have curvier alternates, which are (E6B8 & E6B9). The lowercase pharyngeal voiced fricative, counterpart to (0295), if there exists or should exist a use for them as case pairs, is (02E4). Their alternates are (E6BA & E6BB)
+• Alternate capitals with hooks, i.e., B, D, H, K, P, and T
+• IPA
+• UPA
+• Capital small capital I (A7AE), counterpart to small capital ɪ (026A)
+• J with crossed-tail (A7B2), counterpart to (029D)
+• Latin Chis (A7B3 & AB53), Betas (A7B4 & A7B5), and Omegas (A7B6 & A7B7)
+• Teuthonista (Latin Extended-E)
+• Cyrillic alternates for Macedonian, Serbian, and Bulgarian
+• SIL additions, which start at F1A1
+• SIL nine-step tone markers for African orthographies (F1F1-F1F9)
+• SIL retroflex D with hook (F20D), counterpart to (1D91)
+• SIL Z with palatal hook (F234), counterpart to (1D8E)
+• a & A for Kaolib (F247 & F248)
+
+These are my additions:
+
+• Triple diacritic marks, which anchor to the center character: circumflex (1AFC), inverted breve (1AFD), breve below (1AFE), tilde below (1AFF)
+• Question and exclamation marks with commas (E000 & E001)
+• Inverted question and exclamation marks with commas (E002 & E003)
+• A with right half ring (E049), counterpart to (1E9A)
+• Bilabial trill B (E0E7), counterpart to the SIL addition (F2D6)
+• Alternate B with hook (E0E9)
+• Alternate Cyrillic Ve (E0E8)
+• Alternate stroked b (E0F1)
+• Alternate Cyrillic be (E0F2)
+• Alternate Cyrillic ve (E0F3)
+• Alternate stroked D/d (E11F & E131)
+• Alternate retroflex D (0189) and retroflex D (018A) with hook (E122 & E123/E125)
+• Latin Delta (E121), counterpart to 1E9F
+• Dh/Dl and dh/dl for Native American (E120 & E132)
+• Alternate D with hook (E124)
+• Alternate Cyrillic de (E133)
+• Open E variants (E179 & E17A)
+• Open e variants for Teuthonista (E1C0 & E1C1)
+• Florin (E249)
+• Alternate stroked g (E260)
+• Alternate hooked g (E261)
+• Teuthonista g with stroked tail (E262)
+• Alternate Cyrillic ghes (E263 & E264)
+• H with line below (E282), counterpart to (1E96)
+• Alternate barred H/h (E285 & E28F)
+• Alternate H with hook (E286)
+• Latin Soft sign (E2C7 & E300)
+• Long i (E2CB), counterpart to (A7FE)
+• Alternate Cyrillic is (E301 & E302)
+• Alternate K with hook (E36E)
+• Alternate Cyrillic kas (E377 & E378)
+• Marshallese glyphs with cedillas: L (E382 & E394), M (E3A6 & E3BB), N (E3CE & E3DE), O (E429 & E465)
+• Alternate Welsh Ll (E388)
+• m and n with curled legs for Lithuanian (E3C4 & E3E5)
+• Alternate retroflex N (E3EB)
+• Alternate Eng (E3FF)
+• Alternate Greek Omegas (E44C & E44D)
+• Latin Phi (E520)
+• Alternate P with hook (E521)
+• Alternate p with hook (E52C)
+• Alternate Cyrillic pe (E52D)
+• Alternate Cyrillic Qa (E537)
+• Alternate Yrs (E54D & E55A)
+• R with cedilla (E547 & E554)
+• Retroflex R (E54E), counterpart to (027B)
+• Alternate Esh (E564)
+• T with diaeresis (E572), counterpart to (1E97)
+• T/t with palatal hook (E575 & E582), a possible glyph for tsh/tch/ch/č
+• Th/Tl and th/tl for Native American (E576 & 019B) and (E577 & E583)
+• Latin Thetas (E578 & E584) and (E579 & E585)
+• Alternate T with hook (E57B)
+• Alternate Cyrillic te (E586)
+• Alternate Cyrillic tse (E587)
+• UE (E5ED), counterpart to (1D6B)
+• Teuthonista stroked u (E606)
+• Alternate V/v with hook (E641 & E64B)
+• V with right hook (E642), counterpart to (2C71)
+• W with ring above (E653), counterpart to (1E98)
+• Alternate Cyrillic sha (E660)
+• Alternate Cyrillic shcha (E661)
+• Y with ring above (E67A), counterpart to (1E99)
+• Y/y with ogonek (E67D & E68C)
+• Latin Yerus (E683 & E692)
+• Alternate Cyrillic yu (E693)
+• Alternate Ezh (E69E)
+• Alternate Cyrillic zhe (E6AA)
+• Capital click consonants (E6AE, E6AF, E6B0, E6B1, & E6B2)
+• Saurashtra candrabindu (E6B4)
+• Modifier letter Theta for Native American languages (E6C1)
+• Small script diaeresis (E6C2)
+• Extra characters for Teuthonista (E6C4-E6D5)
+• Alternate caron for Native American languages, i.e., a combined caron and comma above (E6C3)
+• Alternate dollar sign (E7C5)
+• Capital Tironian et (E7C6)
+• Lowercase Latin et/ampersand (E7C7)
+• Dotless modifier letter j and j with crossed-tail (E7C8 & E7C9)
+• Chinantec alternates for spacing modifier letters (E7D0-E7D3)
+• Extended Cyrillic (E800-E83D)
+• Extended Cyrillic vzmets & titlos—the triple titlo anchors to the center character (E84A-E84E)
+• My signature rune (F100)
+

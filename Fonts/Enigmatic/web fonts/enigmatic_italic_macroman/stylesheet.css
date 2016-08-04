@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'enigmaticitalic';
+    src: url('Enigma_2i-webfont.eot');
+    src: url('Enigma_2i-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Enigma_2i-webfont.woff') format('woff'),
+         url('Enigma_2i-webfont.ttf') format('truetype'),
+         url('Enigma_2i-webfont.svg#enigmaticitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

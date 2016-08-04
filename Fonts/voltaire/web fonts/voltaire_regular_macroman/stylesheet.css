@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'voltaireregular';
+    src: url('Voltaire-Regular-webfont.eot');
+    src: url('Voltaire-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Voltaire-Regular-webfont.woff') format('woff'),
+         url('Voltaire-Regular-webfont.ttf') format('truetype'),
+         url('Voltaire-Regular-webfont.svg#voltaireregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

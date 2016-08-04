@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'aurulent_sansbold';
+    src: url('AurulentSans-Bold-webfont.eot');
+    src: url('AurulentSans-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('AurulentSans-Bold-webfont.woff') format('woff'),
+         url('AurulentSans-Bold-webfont.ttf') format('truetype'),
+         url('AurulentSans-Bold-webfont.svg#aurulent_sansbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

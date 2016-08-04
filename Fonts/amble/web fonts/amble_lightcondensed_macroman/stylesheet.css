@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'amblelight_condensed';
+    src: url('Amble-LightCondensed-webfont.eot');
+    src: url('Amble-LightCondensed-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Amble-LightCondensed-webfont.woff') format('woff'),
+         url('Amble-LightCondensed-webfont.ttf') format('truetype'),
+         url('Amble-LightCondensed-webfont.svg#amblelight_condensed') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

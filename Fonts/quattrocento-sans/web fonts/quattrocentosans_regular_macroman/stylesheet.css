@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'quattrocento_sansregular';
+    src: url('QuattrocentoSans-Regular-webfont.eot');
+    src: url('QuattrocentoSans-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('QuattrocentoSans-Regular-webfont.woff') format('woff'),
+         url('QuattrocentoSans-Regular-webfont.ttf') format('truetype'),
+         url('QuattrocentoSans-Regular-webfont.svg#quattrocento_sansregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

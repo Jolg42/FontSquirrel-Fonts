@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'vanbergerstencil';
+    src: url('VanBerger_Stencil-webfont.eot');
+    src: url('VanBerger_Stencil-webfont.eot?#iefix') format('embedded-opentype'),
+         url('VanBerger_Stencil-webfont.woff') format('woff'),
+         url('VanBerger_Stencil-webfont.ttf') format('truetype'),
+         url('VanBerger_Stencil-webfont.svg#vanbergerstencil') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

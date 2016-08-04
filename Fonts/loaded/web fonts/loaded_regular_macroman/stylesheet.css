@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'loadedregular';
+    src: url('loaded-webfont.eot');
+    src: url('loaded-webfont.eot?#iefix') format('embedded-opentype'),
+         url('loaded-webfont.woff') format('woff'),
+         url('loaded-webfont.ttf') format('truetype'),
+         url('loaded-webfont.svg#loadedregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

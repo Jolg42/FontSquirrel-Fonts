@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'action_manitalic';
+    src: url('Action_Man_Italic-webfont.eot');
+    src: url('Action_Man_Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Action_Man_Italic-webfont.woff') format('woff'),
+         url('Action_Man_Italic-webfont.ttf') format('truetype'),
+         url('Action_Man_Italic-webfont.svg#action_manitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

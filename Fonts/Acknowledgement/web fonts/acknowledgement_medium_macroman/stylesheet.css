@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'acknowledgementmedium';
+    src: url('Acknowledgement-webfont.eot');
+    src: url('Acknowledgement-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Acknowledgement-webfont.woff') format('woff'),
+         url('Acknowledgement-webfont.ttf') format('truetype'),
+         url('Acknowledgement-webfont.svg#acknowledgementmedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'clear_sans_mediumregular';
+    src: url('ClearSans-Medium-webfont.eot');
+    src: url('ClearSans-Medium-webfont.eot?#iefix') format('embedded-opentype'),
+         url('ClearSans-Medium-webfont.woff') format('woff'),
+         url('ClearSans-Medium-webfont.ttf') format('truetype'),
+         url('ClearSans-Medium-webfont.svg#clear_sans_mediumregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

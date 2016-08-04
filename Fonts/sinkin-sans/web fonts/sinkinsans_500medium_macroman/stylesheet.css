@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'sinkin_sans500_medium';
+    src: url('SinkinSans-500Medium-webfont.eot');
+    src: url('SinkinSans-500Medium-webfont.eot?#iefix') format('embedded-opentype'),
+         url('SinkinSans-500Medium-webfont.woff') format('woff'),
+         url('SinkinSans-500Medium-webfont.ttf') format('truetype'),
+         url('SinkinSans-500Medium-webfont.svg#sinkin_sans500_medium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

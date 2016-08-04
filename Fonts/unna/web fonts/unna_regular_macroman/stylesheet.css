@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'unnaregular';
+    src: url('Unna-Regular-webfont.eot');
+    src: url('Unna-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Unna-Regular-webfont.woff') format('woff'),
+         url('Unna-Regular-webfont.ttf') format('truetype'),
+         url('Unna-Regular-webfont.svg#unnaregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

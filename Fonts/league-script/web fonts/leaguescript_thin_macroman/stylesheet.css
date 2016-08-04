@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'league_script_thileaguescript';
+    src: url('LeagueScript-webfont.eot');
+    src: url('LeagueScript-webfont.eot?#iefix') format('embedded-opentype'),
+         url('LeagueScript-webfont.woff') format('woff'),
+         url('LeagueScript-webfont.ttf') format('truetype'),
+         url('LeagueScript-webfont.svg#league_script_thileaguescript') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

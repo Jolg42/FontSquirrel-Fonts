@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'mutlu_ornamental';
+    src: url('Mutlu__Ornamental-webfont.eot');
+    src: url('Mutlu__Ornamental-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Mutlu__Ornamental-webfont.woff') format('woff'),
+         url('Mutlu__Ornamental-webfont.ttf') format('truetype'),
+         url('Mutlu__Ornamental-webfont.svg#mutlu_ornamental') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

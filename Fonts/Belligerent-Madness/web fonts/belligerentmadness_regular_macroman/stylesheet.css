@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'belligerent_madnessregular';
+    src: url('belligerent-webfont.eot');
+    src: url('belligerent-webfont.eot?#iefix') format('embedded-opentype'),
+         url('belligerent-webfont.woff') format('woff'),
+         url('belligerent-webfont.ttf') format('truetype'),
+         url('belligerent-webfont.svg#belligerent_madnessregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

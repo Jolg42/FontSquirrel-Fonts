@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'bilbo_swash_capsregular';
+    src: url('BilboSwashCaps-Regular-webfont.eot');
+    src: url('BilboSwashCaps-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('BilboSwashCaps-Regular-webfont.woff') format('woff'),
+         url('BilboSwashCaps-Regular-webfont.ttf') format('truetype'),
+         url('BilboSwashCaps-Regular-webfont.svg#bilbo_swash_capsregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

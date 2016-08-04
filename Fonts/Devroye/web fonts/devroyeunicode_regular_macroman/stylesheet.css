@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'devroye_unicoderegular';
+    src: url('DEVROYUN-webfont.eot');
+    src: url('DEVROYUN-webfont.eot?#iefix') format('embedded-opentype'),
+         url('DEVROYUN-webfont.woff') format('woff'),
+         url('DEVROYUN-webfont.ttf') format('truetype'),
+         url('DEVROYUN-webfont.svg#devroye_unicoderegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

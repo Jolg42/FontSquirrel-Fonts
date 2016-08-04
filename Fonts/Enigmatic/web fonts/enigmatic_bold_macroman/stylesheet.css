@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'enigmaticbold';
+    src: url('EnigmaB_2-webfont.eot');
+    src: url('EnigmaB_2-webfont.eot?#iefix') format('embedded-opentype'),
+         url('EnigmaB_2-webfont.woff') format('woff'),
+         url('EnigmaB_2-webfont.ttf') format('truetype'),
+         url('EnigmaB_2-webfont.svg#enigmaticbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

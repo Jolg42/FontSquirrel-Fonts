@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'texgyreherositalic';
+    src: url('texgyreheros-italic-webfont.eot');
+    src: url('texgyreheros-italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('texgyreheros-italic-webfont.woff') format('woff'),
+         url('texgyreheros-italic-webfont.ttf') format('truetype'),
+         url('texgyreheros-italic-webfont.svg#texgyreherositalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'liberation_sansitalic';
+    src: url('LiberationSans-Italic-webfont.eot');
+    src: url('LiberationSans-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('LiberationSans-Italic-webfont.woff') format('woff'),
+         url('LiberationSans-Italic-webfont.ttf') format('truetype'),
+         url('LiberationSans-Italic-webfont.svg#liberation_sansitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

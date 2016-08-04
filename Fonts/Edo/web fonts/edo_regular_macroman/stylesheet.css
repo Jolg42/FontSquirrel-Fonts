@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'edoregular';
+    src: url('edo-webfont.eot');
+    src: url('edo-webfont.eot?#iefix') format('embedded-opentype'),
+         url('edo-webfont.woff') format('woff'),
+         url('edo-webfont.ttf') format('truetype'),
+         url('edo-webfont.svg#edoregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

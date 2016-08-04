@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'yokaweradregular';
+    src: url('Yokawerad-webfont.eot');
+    src: url('Yokawerad-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Yokawerad-webfont.woff') format('woff'),
+         url('Yokawerad-webfont.ttf') format('truetype'),
+         url('Yokawerad-webfont.svg#yokaweradregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

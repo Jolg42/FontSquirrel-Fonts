@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'bitstream_vera_serifroman';
+    src: url('VeraSerif-webfont.eot');
+    src: url('VeraSerif-webfont.eot?#iefix') format('embedded-opentype'),
+         url('VeraSerif-webfont.woff') format('woff'),
+         url('VeraSerif-webfont.ttf') format('truetype'),
+         url('VeraSerif-webfont.svg#bitstream_vera_serifroman') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

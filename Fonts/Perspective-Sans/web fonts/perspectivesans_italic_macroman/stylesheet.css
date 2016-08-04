@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'perspective_sansitalic';
+    src: url('persansi-webfont.eot');
+    src: url('persansi-webfont.eot?#iefix') format('embedded-opentype'),
+         url('persansi-webfont.woff') format('woff'),
+         url('persansi-webfont.ttf') format('truetype'),
+         url('persansi-webfont.svg#perspective_sansitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

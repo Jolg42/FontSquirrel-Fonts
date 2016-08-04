@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'chivoblack';
+    src: url('Chivo-Black-webfont.eot');
+    src: url('Chivo-Black-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Chivo-Black-webfont.woff') format('woff'),
+         url('Chivo-Black-webfont.ttf') format('truetype'),
+         url('Chivo-Black-webfont.svg#chivoblack') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

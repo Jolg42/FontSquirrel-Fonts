@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'genzsch_et_heyse_alternateRg';
+    src: url('GenzschEtHeyseAlt-webfont.eot');
+    src: url('GenzschEtHeyseAlt-webfont.eot?#iefix') format('embedded-opentype'),
+         url('GenzschEtHeyseAlt-webfont.woff') format('woff'),
+         url('GenzschEtHeyseAlt-webfont.ttf') format('truetype'),
+         url('GenzschEtHeyseAlt-webfont.svg#genzsch_et_heyse_alternateRg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

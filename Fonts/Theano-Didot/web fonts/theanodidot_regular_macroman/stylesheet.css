@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'theano_didotregular';
+    src: url('TheanoDidot-Regular-webfont.eot');
+    src: url('TheanoDidot-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('TheanoDidot-Regular-webfont.woff') format('woff'),
+         url('TheanoDidot-Regular-webfont.ttf') format('truetype'),
+         url('TheanoDidot-Regular-webfont.svg#theano_didotregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

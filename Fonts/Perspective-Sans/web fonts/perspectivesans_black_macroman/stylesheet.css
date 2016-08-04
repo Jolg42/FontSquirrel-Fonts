@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'perspective_sans_blackregular';
+    src: url('persanbk-webfont.eot');
+    src: url('persanbk-webfont.eot?#iefix') format('embedded-opentype'),
+         url('persanbk-webfont.woff') format('woff'),
+         url('persanbk-webfont.ttf') format('truetype'),
+         url('persanbk-webfont.svg#perspective_sans_blackregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'devroyeregular';
+    src: url('DEVROYE_-webfont.eot');
+    src: url('DEVROYE_-webfont.eot?#iefix') format('embedded-opentype'),
+         url('DEVROYE_-webfont.woff') format('woff'),
+         url('DEVROYE_-webfont.ttf') format('truetype'),
+         url('DEVROYE_-webfont.svg#devroyeregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

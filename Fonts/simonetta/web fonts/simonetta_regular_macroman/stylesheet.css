@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'simonettaregular';
+    src: url('Simonetta-Regular-webfont.eot');
+    src: url('Simonetta-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Simonetta-Regular-webfont.woff') format('woff'),
+         url('Simonetta-Regular-webfont.ttf') format('truetype'),
+         url('Simonetta-Regular-webfont.svg#simonettaregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

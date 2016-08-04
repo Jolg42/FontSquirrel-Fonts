@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'sf_cartoonist_handbold';
+    src: url('SF_Cartoonist_Hand_Bold-webfont.eot');
+    src: url('SF_Cartoonist_Hand_Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('SF_Cartoonist_Hand_Bold-webfont.woff') format('woff'),
+         url('SF_Cartoonist_Hand_Bold-webfont.ttf') format('truetype'),
+         url('SF_Cartoonist_Hand_Bold-webfont.svg#sf_cartoonist_handbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

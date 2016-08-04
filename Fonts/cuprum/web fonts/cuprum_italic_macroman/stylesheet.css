@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'cuprumitalic';
+    src: url('Cuprum-Italic-webfont.eot');
+    src: url('Cuprum-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Cuprum-Italic-webfont.woff') format('woff'),
+         url('Cuprum-Italic-webfont.ttf') format('truetype'),
+         url('Cuprum-Italic-webfont.svg#cuprumitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

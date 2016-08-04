@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'feliparegular';
+    src: url('Felipa-Regular-webfont.eot');
+    src: url('Felipa-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Felipa-Regular-webfont.woff') format('woff'),
+         url('Felipa-Regular-webfont.ttf') format('truetype'),
+         url('Felipa-Regular-webfont.svg#feliparegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

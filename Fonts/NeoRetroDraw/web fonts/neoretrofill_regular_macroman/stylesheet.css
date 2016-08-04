@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'neoretrofillregular';
+    src: url('NEORF___-webfont.eot');
+    src: url('NEORF___-webfont.eot?#iefix') format('embedded-opentype'),
+         url('NEORF___-webfont.woff') format('woff'),
+         url('NEORF___-webfont.ttf') format('truetype'),
+         url('NEORF___-webfont.svg#neoretrofillregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

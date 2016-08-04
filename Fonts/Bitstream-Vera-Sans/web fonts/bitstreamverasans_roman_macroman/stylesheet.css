@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'bitstream_vera_sansroman';
+    src: url('Vera-webfont.eot');
+    src: url('Vera-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Vera-webfont.woff') format('woff'),
+         url('Vera-webfont.ttf') format('truetype'),
+         url('Vera-webfont.svg#bitstream_vera_sansroman') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

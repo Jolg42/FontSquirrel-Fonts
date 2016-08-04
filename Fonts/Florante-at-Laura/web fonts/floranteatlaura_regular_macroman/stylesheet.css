@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'florante_at_lauraregular';
+    src: url('FLORLRG_-webfont.eot');
+    src: url('FLORLRG_-webfont.eot?#iefix') format('embedded-opentype'),
+         url('FLORLRG_-webfont.woff') format('woff'),
+         url('FLORLRG_-webfont.ttf') format('truetype'),
+         url('FLORLRG_-webfont.svg#florante_at_lauraregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'sf_wonder_comicbold';
+    src: url('SF_Wonder_Comic_Bold-webfont.eot');
+    src: url('SF_Wonder_Comic_Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('SF_Wonder_Comic_Bold-webfont.woff') format('woff'),
+         url('SF_Wonder_Comic_Bold-webfont.ttf') format('truetype'),
+         url('SF_Wonder_Comic_Bold-webfont.svg#sf_wonder_comicbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

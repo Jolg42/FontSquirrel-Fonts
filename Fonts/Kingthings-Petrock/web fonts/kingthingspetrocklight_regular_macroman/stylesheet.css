@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'kingthings_petrock_lightRg';
+    src: url('Kingthings_Petrock_light-webfont.eot');
+    src: url('Kingthings_Petrock_light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Kingthings_Petrock_light-webfont.woff') format('woff'),
+         url('Kingthings_Petrock_light-webfont.ttf') format('truetype'),
+         url('Kingthings_Petrock_light-webfont.svg#kingthings_petrock_lightRg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

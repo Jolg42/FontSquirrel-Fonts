@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'bodonixtregular';
+    src: url('BodoniXT-webfont.eot');
+    src: url('BodoniXT-webfont.eot?#iefix') format('embedded-opentype'),
+         url('BodoniXT-webfont.woff') format('woff'),
+         url('BodoniXT-webfont.ttf') format('truetype'),
+         url('BodoniXT-webfont.svg#bodonixtregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

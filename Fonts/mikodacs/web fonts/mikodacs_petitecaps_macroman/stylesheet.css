@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'mikodacspcsregular';
+    src: url('MikodacsPCS-fMac-webfont.eot');
+    src: url('MikodacsPCS-fMac-webfont.eot?#iefix') format('embedded-opentype'),
+         url('MikodacsPCS-fMac-webfont.woff') format('woff'),
+         url('MikodacsPCS-fMac-webfont.ttf') format('truetype'),
+         url('MikodacsPCS-fMac-webfont.svg#mikodacspcsregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

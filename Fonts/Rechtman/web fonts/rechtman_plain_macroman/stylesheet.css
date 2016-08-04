@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'rechtmanplain';
+    src: url('RechtmanPlain-webfont.eot');
+    src: url('RechtmanPlain-webfont.eot?#iefix') format('embedded-opentype'),
+         url('RechtmanPlain-webfont.woff') format('woff'),
+         url('RechtmanPlain-webfont.ttf') format('truetype'),
+         url('RechtmanPlain-webfont.svg#rechtmanplain') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

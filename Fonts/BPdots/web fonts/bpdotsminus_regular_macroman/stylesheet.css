@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'bpdotsminusregular';
+    src: url('BPdotsMinus-webfont.eot');
+    src: url('BPdotsMinus-webfont.eot?#iefix') format('embedded-opentype'),
+         url('BPdotsMinus-webfont.woff') format('woff'),
+         url('BPdotsMinus-webfont.ttf') format('truetype'),
+         url('BPdotsMinus-webfont.svg#bpdotsminusregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

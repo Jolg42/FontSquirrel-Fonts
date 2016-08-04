@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'banksia_black';
+    src: url('banksb26-webfont.eot');
+    src: url('banksb26-webfont.eot?#iefix') format('embedded-opentype'),
+         url('banksb26-webfont.woff') format('woff'),
+         url('banksb26-webfont.ttf') format('truetype'),
+         url('banksb26-webfont.svg#banksia_black') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

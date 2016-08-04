@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'folks-heavyregular';
+    src: url('Folks-Heavy-webfont.eot');
+    src: url('Folks-Heavy-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Folks-Heavy-webfont.woff') format('woff'),
+         url('Folks-Heavy-webfont.ttf') format('truetype'),
+         url('Folks-Heavy-webfont.svg#folks-heavyregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

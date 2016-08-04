@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'luxi_monobold_oblique';
+    src: url('luximbi-webfont.eot');
+    src: url('luximbi-webfont.eot?#iefix') format('embedded-opentype'),
+         url('luximbi-webfont.woff') format('woff'),
+         url('luximbi-webfont.ttf') format('truetype'),
+         url('luximbi-webfont.svg#luxi_monobold_oblique') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'mulilight';
+    src: url('Muli-Light-webfont.eot');
+    src: url('Muli-Light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Muli-Light-webfont.woff') format('woff'),
+         url('Muli-Light-webfont.ttf') format('truetype'),
+         url('Muli-Light-webfont.svg#mulilight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

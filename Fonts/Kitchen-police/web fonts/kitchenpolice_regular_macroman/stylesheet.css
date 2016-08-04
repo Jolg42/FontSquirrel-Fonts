@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'kitchen_policeregular';
+    src: url('KITCHENPOLICE-webfont.eot');
+    src: url('KITCHENPOLICE-webfont.eot?#iefix') format('embedded-opentype'),
+         url('KITCHENPOLICE-webfont.woff') format('woff'),
+         url('KITCHENPOLICE-webfont.ttf') format('truetype'),
+         url('KITCHENPOLICE-webfont.svg#kitchen_policeregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

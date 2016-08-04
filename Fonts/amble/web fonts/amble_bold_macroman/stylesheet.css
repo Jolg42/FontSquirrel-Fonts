@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'amblebold';
+    src: url('Amble-Bold-webfont.eot');
+    src: url('Amble-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Amble-Bold-webfont.woff') format('woff'),
+         url('Amble-Bold-webfont.ttf') format('truetype'),
+         url('Amble-Bold-webfont.svg#amblebold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

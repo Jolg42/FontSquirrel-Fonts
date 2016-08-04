@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'barrioregular';
+    src: url('Barrio-Regular-webfont.eot');
+    src: url('Barrio-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Barrio-Regular-webfont.woff') format('woff'),
+         url('Barrio-Regular-webfont.ttf') format('truetype'),
+         url('Barrio-Regular-webfont.svg#barrioregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

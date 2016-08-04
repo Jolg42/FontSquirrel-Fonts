@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'qumpellkano12regular';
+    src: url('QumpellkaNo12-webfont.eot');
+    src: url('QumpellkaNo12-webfont.eot?#iefix') format('embedded-opentype'),
+         url('QumpellkaNo12-webfont.woff') format('woff'),
+         url('QumpellkaNo12-webfont.ttf') format('truetype'),
+         url('QumpellkaNo12-webfont.svg#qumpellkano12regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

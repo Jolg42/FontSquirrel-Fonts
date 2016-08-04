@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'daelabold';
+    src: url('DaelaBol-webfont.eot');
+    src: url('DaelaBol-webfont.eot?#iefix') format('embedded-opentype'),
+         url('DaelaBol-webfont.woff') format('woff'),
+         url('DaelaBol-webfont.ttf') format('truetype'),
+         url('DaelaBol-webfont.svg#daelabold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

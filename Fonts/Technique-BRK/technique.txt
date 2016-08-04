@@ -1,0 +1,130 @@
+________________________________
+Technique  Created by Brian Kent
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Thanks for Downloading Technique.
+
+-Technique
+-Technique OL [Outline]
+
+
+There are a lot of alternative extra characters included in this font.
+
+[KEY]
+EXTRA CHARACTER = ACTUAL CHARACTER = ALT# CODE
+
+A = À = ALT+0192
+a = Á = ALT+0193
+a = Â = ALT+0194
+a = Ã = ALT+0195 [can also be used as a c]
+B = Ä = ALT+0196
+B = Å = ALT+0197
+
+D = Ç = ALT+0199
+D = È = ALT+0200
+E = É = ALT+0201
+e = Ê = ALT+0202
+e = Ë = ALT+0203
+f = Ì = ALT+0204
+G = Í = ALT+0205
+G = Î = ALT+0206
+g = Ï = ALT+0207
+i = Ð = ALT+0208
+j = Ñ = ALT+0209
+j = Ò = ALT+0210
+K = Ó = ALT+0211
+K = Ô = ALT+0212
+K = Õ = ALT+0213
+N = Ö = ALT+0214
+Q = × = ALT+0215
+R = Ø = ALT+0216
+R = Ù = ALT+0217
+r = Ú = ALT+0218
+S = Û = ALT+0219 [can also be used as a 5]
+t = Ü = ALT+0220
+t = Ý = ALT+0221
+t = Þ = ALT+0222
+V = ß = ALT+0223
+X = à = ALT+0224
+X = á = ALT+0225
+X = â = ALT+0226
+Y = ã = ALT+0227
+Z = ä = ALT+0228 [can also be used as a 2]
+2 = å = ALT+0229 [can also be used as a Z]
+
+3 = ç = ALT+0231
+3 = è = ALT+0232
+4 = é = ALT+0233
+4 = ê = ALT+0234
+5 = ë = ALT+0235
+6 = ì = ALT+0236
+7 = í = ALT+0237
+? = î = ALT+0238
+* = ï = ALT+0239
+- = ð = ALT+0240
+
+
+To type the extra characters, Press and Hold the ALT key, then
+on the Number Pad type in the 4 numbers.  When you release the
+ALT key the character will appear.
+
+Take a look at 'TeqXtra.gif' (included in the .zip file) for a
+graphical chart of all of the extra alternative characters.
+
+
+You can also use 1 as an I or l.  Experiment with different
+characters to get the look you want.  For example, the display
+image for this font at my site, I used TEChn1QuE and for my
+site's title I used æn1Gma .
+
+
+If you have any questions or comments, you can e-mail me at
+kentpw@norwich.net
+
+You can visit my Homepage <ÆNIGMA GAMES & FONTS> at
+http://www.aenigmafonts.com/
+
+________________
+INSTALLING FONTS
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+  There's a couple of ways to install Fonts. The 'easy' way to
+install fonts is to just Unzip/place the font file [.ttf] into your
+Windows\Fonts directory (I always use this method). If you're unable
+to do it the 'easy' way, then try to do it this way (for Windows
+95/98/NT):
+
+1] Unzip the Font(s) to a folder (or somewhere, just remember where
+you unzipped it) on your Computer.
+
+2] Next, click on the START button, then select SETTINGS then
+CONTROL PANEL.
+
+3] When the Control Panel Window pops up, Double Click on FONTS.
+
+4] When the FONTS window pops up, select File then Install New Font...
+
+5] A Add Fonts window will pop up, just go to the folder that you
+unzipped the Font(s) to, select the Font(s) and then click on OK.
+Now the Font(s) are installed.
+
+  Now you can use the Font(s) in programs that utilize Fonts.  Make
+sure that you install the font(s) first, then open up your apps
+(so the app will recognize the font).    Sometimes you'll have to
+wait until your computer 'auto-refreshes' for programs to recognize
+fonts (Windows is sometimes slow to do that).  You can refresh your
+computer quicker by going into Windows Explorer -or- My Computer and
+press F5 (or in the menubar select VIEW then REFRESH).
+
+
+__________
+DISCLAIMER
+¯¯¯¯¯¯¯¯¯¯
+-The font(s) in this zip file were created by me (Brian Kent).  All
+of my Fonts are Freeware, you can use them any way you want to
+(Personal use, Commercial use, or whatever).
+
+-If you have a Font related site and would like to offer my fonts on
+your site, go right ahead. All I ask is that you keep this text file
+intact with the Font.
+
+-You may not Sell or Distribute my Fonts for profit or alter them in
+any way without asking me first.  [e-mail -  kentpw@norwich.net]

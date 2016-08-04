@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'londrina_solidregular';
+    src: url('LondrinaSolid-Regular-webfont.eot');
+    src: url('LondrinaSolid-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('LondrinaSolid-Regular-webfont.woff') format('woff'),
+         url('LondrinaSolid-Regular-webfont.ttf') format('truetype'),
+         url('LondrinaSolid-Regular-webfont.svg#londrina_solidregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

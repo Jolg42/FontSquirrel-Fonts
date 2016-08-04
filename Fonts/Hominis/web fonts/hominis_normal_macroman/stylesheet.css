@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'hominisnormal';
+    src: url('HOMINIS-webfont.eot');
+    src: url('HOMINIS-webfont.eot?#iefix') format('embedded-opentype'),
+         url('HOMINIS-webfont.woff') format('woff'),
+         url('HOMINIS-webfont.ttf') format('truetype'),
+         url('HOMINIS-webfont.svg#hominisnormal') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

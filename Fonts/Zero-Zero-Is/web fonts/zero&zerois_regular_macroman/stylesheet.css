@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'zero__zero_isregular';
+    src: url('zero_and_zero_is-webfont.eot');
+    src: url('zero_and_zero_is-webfont.eot?#iefix') format('embedded-opentype'),
+         url('zero_and_zero_is-webfont.woff') format('woff'),
+         url('zero_and_zero_is-webfont.ttf') format('truetype'),
+         url('zero_and_zero_is-webfont.svg#zero__zero_isregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

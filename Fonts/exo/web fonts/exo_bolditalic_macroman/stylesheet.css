@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'exobolditalic';
+    src: url('Exo-BoldItalic-webfont.eot');
+    src: url('Exo-BoldItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Exo-BoldItalic-webfont.woff') format('woff'),
+         url('Exo-BoldItalic-webfont.ttf') format('truetype'),
+         url('Exo-BoldItalic-webfont.svg#exobolditalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

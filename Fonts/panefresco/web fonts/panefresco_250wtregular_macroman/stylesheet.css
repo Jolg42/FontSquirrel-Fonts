@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'panefresco_250wtregular';
+    src: url('Panefresco250wtRegular-webfont.eot');
+    src: url('Panefresco250wtRegular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Panefresco250wtRegular-webfont.woff') format('woff'),
+         url('Panefresco250wtRegular-webfont.ttf') format('truetype'),
+         url('Panefresco250wtRegular-webfont.svg#panefresco_250wtregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

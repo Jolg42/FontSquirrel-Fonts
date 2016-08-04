@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'm_1clight';
+    src: url('mplus-1c-light-webfont.eot');
+    src: url('mplus-1c-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('mplus-1c-light-webfont.woff') format('woff'),
+         url('mplus-1c-light-webfont.ttf') format('truetype'),
+         url('mplus-1c-light-webfont.svg#m_1clight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

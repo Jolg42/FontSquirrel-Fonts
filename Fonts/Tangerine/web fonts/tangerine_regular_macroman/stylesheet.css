@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'tangerineregular';
+    src: url('Tangerine_Regular-webfont.eot');
+    src: url('Tangerine_Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Tangerine_Regular-webfont.woff') format('woff'),
+         url('Tangerine_Regular-webfont.ttf') format('truetype'),
+         url('Tangerine_Regular-webfont.svg#tangerineregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

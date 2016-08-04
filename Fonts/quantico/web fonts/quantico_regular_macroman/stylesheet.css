@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'quanticoregular';
+    src: url('Quantico-Regular-webfont.eot');
+    src: url('Quantico-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Quantico-Regular-webfont.woff') format('woff'),
+         url('Quantico-Regular-webfont.ttf') format('truetype'),
+         url('Quantico-Regular-webfont.svg#quanticoregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

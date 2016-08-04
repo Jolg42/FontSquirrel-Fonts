@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'titilliumlight';
+    src: url('Titillium-Light-webfont.eot');
+    src: url('Titillium-Light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Titillium-Light-webfont.woff') format('woff'),
+         url('Titillium-Light-webfont.ttf') format('truetype'),
+         url('Titillium-Light-webfont.svg#titilliumlight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

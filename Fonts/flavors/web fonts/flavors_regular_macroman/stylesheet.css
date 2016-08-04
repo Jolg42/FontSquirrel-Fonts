@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'flavorsregular';
+    src: url('Flavors-Regular-webfont.eot');
+    src: url('Flavors-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Flavors-Regular-webfont.woff') format('woff'),
+         url('Flavors-Regular-webfont.ttf') format('truetype'),
+         url('Flavors-Regular-webfont.svg#flavorsregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

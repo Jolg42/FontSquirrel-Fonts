@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'zendaregular';
+    src: url('zenda-webfont.eot');
+    src: url('zenda-webfont.eot?#iefix') format('embedded-opentype'),
+         url('zenda-webfont.woff') format('woff'),
+         url('zenda-webfont.ttf') format('truetype'),
+         url('zenda-webfont.svg#zendaregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

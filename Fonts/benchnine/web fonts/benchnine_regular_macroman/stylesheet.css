@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'benchnineregular';
+    src: url('BenchNine-Regular-webfont.eot');
+    src: url('BenchNine-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('BenchNine-Regular-webfont.woff') format('woff'),
+         url('BenchNine-Regular-webfont.ttf') format('truetype'),
+         url('BenchNine-Regular-webfont.svg#benchnineregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

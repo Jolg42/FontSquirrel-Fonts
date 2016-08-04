@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'kingthings_spikelessregular';
+    src: url('Kingthings_Spikeless-webfont.eot');
+    src: url('Kingthings_Spikeless-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Kingthings_Spikeless-webfont.woff') format('woff'),
+         url('Kingthings_Spikeless-webfont.ttf') format('truetype'),
+         url('Kingthings_Spikeless-webfont.svg#kingthings_spikelessregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

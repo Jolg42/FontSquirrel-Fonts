@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'winterthurcondensedregular';
+    src: url('WinterthurCondensed-webfont.eot');
+    src: url('WinterthurCondensed-webfont.eot?#iefix') format('embedded-opentype'),
+         url('WinterthurCondensed-webfont.woff') format('woff'),
+         url('WinterthurCondensed-webfont.ttf') format('truetype'),
+         url('WinterthurCondensed-webfont.svg#winterthurcondensedregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

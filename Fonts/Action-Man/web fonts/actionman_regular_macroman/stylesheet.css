@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'action_manregular';
+    src: url('Action_Man-webfont.eot');
+    src: url('Action_Man-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Action_Man-webfont.woff') format('woff'),
+         url('Action_Man-webfont.ttf') format('truetype'),
+         url('Action_Man-webfont.svg#action_manregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

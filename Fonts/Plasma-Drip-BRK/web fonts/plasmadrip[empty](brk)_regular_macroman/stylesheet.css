@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'plasma_drip_empty_brkregular';
+    src: url('plasdrpe-webfont.eot');
+    src: url('plasdrpe-webfont.eot?#iefix') format('embedded-opentype'),
+         url('plasdrpe-webfont.woff') format('woff'),
+         url('plasdrpe-webfont.ttf') format('truetype'),
+         url('plasdrpe-webfont.svg#plasma_drip_empty_brkregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

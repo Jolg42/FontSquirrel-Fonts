@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'henrymorganhandregular';
+    src: url('HenryMorganHand-webfont.eot');
+    src: url('HenryMorganHand-webfont.eot?#iefix') format('embedded-opentype'),
+         url('HenryMorganHand-webfont.woff') format('woff'),
+         url('HenryMorganHand-webfont.ttf') format('truetype'),
+         url('HenryMorganHand-webfont.svg#henrymorganhandregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

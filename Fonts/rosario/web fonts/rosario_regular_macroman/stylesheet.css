@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'rosarioregular';
+    src: url('Rosario-Regular-webfont.eot');
+    src: url('Rosario-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Rosario-Regular-webfont.woff') format('woff'),
+         url('Rosario-Regular-webfont.ttf') format('truetype'),
+         url('Rosario-Regular-webfont.svg#rosarioregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

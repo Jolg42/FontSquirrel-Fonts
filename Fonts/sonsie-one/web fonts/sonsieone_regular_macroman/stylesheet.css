@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'sonsie_oneregular';
+    src: url('SonsieOne-Regular-webfont.eot');
+    src: url('SonsieOne-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('SonsieOne-Regular-webfont.woff') format('woff'),
+         url('SonsieOne-Regular-webfont.ttf') format('truetype'),
+         url('SonsieOne-Regular-webfont.svg#sonsie_oneregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

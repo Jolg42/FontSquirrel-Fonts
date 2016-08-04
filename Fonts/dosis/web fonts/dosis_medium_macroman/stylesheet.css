@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'dosismedium';
+    src: url('Dosis-Medium-webfont.eot');
+    src: url('Dosis-Medium-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Dosis-Medium-webfont.woff') format('woff'),
+         url('Dosis-Medium-webfont.ttf') format('truetype'),
+         url('Dosis-Medium-webfont.svg#dosismedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

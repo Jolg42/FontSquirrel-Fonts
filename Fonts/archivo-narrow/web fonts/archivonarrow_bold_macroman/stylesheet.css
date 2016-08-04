@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'archivo_narrowbold';
+    src: url('ArchivoNarrow-Bold-webfont.eot');
+    src: url('ArchivoNarrow-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('ArchivoNarrow-Bold-webfont.woff') format('woff'),
+         url('ArchivoNarrow-Bold-webfont.ttf') format('truetype'),
+         url('ArchivoNarrow-Bold-webfont.svg#archivo_narrowbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

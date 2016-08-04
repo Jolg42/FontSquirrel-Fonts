@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'amblelight';
+    src: url('Amble-Light-webfont.eot');
+    src: url('Amble-Light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Amble-Light-webfont.woff') format('woff'),
+         url('Amble-Light-webfont.ttf') format('truetype'),
+         url('Amble-Light-webfont.svg#amblelight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'gartonmedium';
+    src: url('garto16-webfont.eot');
+    src: url('garto16-webfont.eot?#iefix') format('embedded-opentype'),
+         url('garto16-webfont.woff') format('woff'),
+         url('garto16-webfont.ttf') format('truetype'),
+         url('garto16-webfont.svg#gartonmedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

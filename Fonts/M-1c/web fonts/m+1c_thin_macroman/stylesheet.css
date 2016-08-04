@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'm_1cthin';
+    src: url('mplus-1c-thin-webfont.eot');
+    src: url('mplus-1c-thin-webfont.eot?#iefix') format('embedded-opentype'),
+         url('mplus-1c-thin-webfont.woff') format('woff'),
+         url('mplus-1c-thin-webfont.ttf') format('truetype'),
+         url('mplus-1c-thin-webfont.svg#m_1cthin') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

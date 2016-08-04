@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'maven_probold';
+    src: url('MavenPro-Bold-webfont.eot');
+    src: url('MavenPro-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('MavenPro-Bold-webfont.woff') format('woff'),
+         url('MavenPro-Bold-webfont.ttf') format('truetype'),
+         url('MavenPro-Bold-webfont.svg#maven_probold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

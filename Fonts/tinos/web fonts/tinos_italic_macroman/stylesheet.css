@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'tinositalic';
+    src: url('Tinos-Italic-webfont.eot');
+    src: url('Tinos-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Tinos-Italic-webfont.woff') format('woff'),
+         url('Tinos-Italic-webfont.ttf') format('truetype'),
+         url('Tinos-Italic-webfont.svg#tinositalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

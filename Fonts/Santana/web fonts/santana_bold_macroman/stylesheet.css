@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'santanabold';
+    src: url('Santana-Bold-webfont.eot');
+    src: url('Santana-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Santana-Bold-webfont.woff') format('woff'),
+         url('Santana-Bold-webfont.ttf') format('truetype'),
+         url('Santana-Bold-webfont.svg#santanabold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'alegreya_scitalic';
+    src: url('AlegreyaSC-Italic-webfont.eot');
+    src: url('AlegreyaSC-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('AlegreyaSC-Italic-webfont.woff') format('woff'),
+         url('AlegreyaSC-Italic-webfont.ttf') format('truetype'),
+         url('AlegreyaSC-Italic-webfont.svg#alegreya_scitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

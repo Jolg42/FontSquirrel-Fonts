@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'yew_basturdbold';
+    src: url('YEWBB___-webfont.eot');
+    src: url('YEWBB___-webfont.eot?#iefix') format('embedded-opentype'),
+         url('YEWBB___-webfont.woff') format('woff'),
+         url('YEWBB___-webfont.ttf') format('truetype'),
+         url('YEWBB___-webfont.svg#yew_basturdbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

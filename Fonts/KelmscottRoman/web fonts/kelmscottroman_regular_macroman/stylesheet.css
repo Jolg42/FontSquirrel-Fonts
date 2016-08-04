@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'kelmscottromanregular';
+    src: url('KELMSCOT-webfont.eot');
+    src: url('KELMSCOT-webfont.eot?#iefix') format('embedded-opentype'),
+         url('KELMSCOT-webfont.woff') format('woff'),
+         url('KELMSCOT-webfont.ttf') format('truetype'),
+         url('KELMSCOT-webfont.svg#kelmscottromanregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

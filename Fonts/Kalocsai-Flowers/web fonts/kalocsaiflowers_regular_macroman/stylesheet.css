@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'kalocsai_flowersregular';
+    src: url('Kalocsai_Flowers-webfont.eot');
+    src: url('Kalocsai_Flowers-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Kalocsai_Flowers-webfont.woff') format('woff'),
+         url('Kalocsai_Flowers-webfont.ttf') format('truetype'),
+         url('Kalocsai_Flowers-webfont.svg#kalocsai_flowersregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

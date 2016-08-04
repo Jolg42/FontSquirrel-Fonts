@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'oxygen_monoregular';
+    src: url('OxygenMono-Regular-webfont.eot');
+    src: url('OxygenMono-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('OxygenMono-Regular-webfont.woff') format('woff'),
+         url('OxygenMono-Regular-webfont.ttf') format('truetype'),
+         url('OxygenMono-Regular-webfont.svg#oxygen_monoregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

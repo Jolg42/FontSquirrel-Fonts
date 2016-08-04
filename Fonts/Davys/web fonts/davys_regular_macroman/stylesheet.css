@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'davysregular';
+    src: url('DavysDingbats-webfont.eot');
+    src: url('DavysDingbats-webfont.eot?#iefix') format('embedded-opentype'),
+         url('DavysDingbats-webfont.woff') format('woff'),
+         url('DavysDingbats-webfont.ttf') format('truetype'),
+         url('DavysDingbats-webfont.svg#davysregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

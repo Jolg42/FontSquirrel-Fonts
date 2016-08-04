@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'texgyrecursoritalic';
+    src: url('texgyrecursor-italic-webfont.eot');
+    src: url('texgyrecursor-italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('texgyrecursor-italic-webfont.woff') format('woff'),
+         url('texgyrecursor-italic-webfont.ttf') format('truetype'),
+         url('texgyrecursor-italic-webfont.svg#texgyrecursoritalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

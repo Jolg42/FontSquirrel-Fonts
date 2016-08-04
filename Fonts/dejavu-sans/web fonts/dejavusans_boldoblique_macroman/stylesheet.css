@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'dejavu_sansbold_oblique';
+    src: url('DejaVuSans-BoldOblique-webfont.eot');
+    src: url('DejaVuSans-BoldOblique-webfont.eot?#iefix') format('embedded-opentype'),
+         url('DejaVuSans-BoldOblique-webfont.woff') format('woff'),
+         url('DejaVuSans-BoldOblique-webfont.ttf') format('truetype'),
+         url('DejaVuSans-BoldOblique-webfont.svg#dejavu_sansbold_oblique') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'gputeksbold';
+    src: url('Gputeks-Bold-webfont.eot');
+    src: url('Gputeks-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Gputeks-Bold-webfont.woff') format('woff'),
+         url('Gputeks-Bold-webfont.ttf') format('truetype'),
+         url('Gputeks-Bold-webfont.svg#gputeksbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

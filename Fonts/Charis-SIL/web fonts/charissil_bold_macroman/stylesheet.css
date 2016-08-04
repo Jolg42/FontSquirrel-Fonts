@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'charis_silbold';
+    src: url('CharisSILB-webfont.eot');
+    src: url('CharisSILB-webfont.eot?#iefix') format('embedded-opentype'),
+         url('CharisSILB-webfont.woff') format('woff'),
+         url('CharisSILB-webfont.ttf') format('truetype'),
+         url('CharisSILB-webfont.svg#charis_silbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

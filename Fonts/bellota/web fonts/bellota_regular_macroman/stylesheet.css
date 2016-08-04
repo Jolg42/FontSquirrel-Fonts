@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'bellotaregular';
+    src: url('Bellota-Regular-webfont.eot');
+    src: url('Bellota-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Bellota-Regular-webfont.woff') format('woff'),
+         url('Bellota-Regular-webfont.ttf') format('truetype'),
+         url('Bellota-Regular-webfont.svg#bellotaregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'andada_scbold';
+    src: url('AndadaSC-Bold-webfont.eot');
+    src: url('AndadaSC-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('AndadaSC-Bold-webfont.woff') format('woff'),
+         url('AndadaSC-Bold-webfont.ttf') format('truetype'),
+         url('AndadaSC-Bold-webfont.svg#andada_scbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

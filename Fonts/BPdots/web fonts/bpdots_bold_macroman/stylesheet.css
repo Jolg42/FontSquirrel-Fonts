@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'bpdotsbold';
+    src: url('BPdotsBold-webfont.eot');
+    src: url('BPdotsBold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('BPdotsBold-webfont.woff') format('woff'),
+         url('BPdotsBold-webfont.ttf') format('truetype'),
+         url('BPdotsBold-webfont.svg#bpdotsbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

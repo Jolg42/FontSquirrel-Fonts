@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'odstemplikregular';
+    src: url('odstemplik-webfont.eot');
+    src: url('odstemplik-webfont.eot?#iefix') format('embedded-opentype'),
+         url('odstemplik-webfont.woff') format('woff'),
+         url('odstemplik-webfont.ttf') format('truetype'),
+         url('odstemplik-webfont.svg#odstemplikregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

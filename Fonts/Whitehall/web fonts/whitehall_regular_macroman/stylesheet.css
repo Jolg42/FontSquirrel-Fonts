@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'whitehallregular';
+    src: url('whitehall-webfont.eot');
+    src: url('whitehall-webfont.eot?#iefix') format('embedded-opentype'),
+         url('whitehall-webfont.woff') format('woff'),
+         url('whitehall-webfont.ttf') format('truetype'),
+         url('whitehall-webfont.svg#whitehallregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'aurulent_sans_monoregular';
+    src: url('AurulentSansMono-Regular-webfont.eot');
+    src: url('AurulentSansMono-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('AurulentSansMono-Regular-webfont.woff') format('woff'),
+         url('AurulentSansMono-Regular-webfont.ttf') format('truetype'),
+         url('AurulentSansMono-Regular-webfont.svg#aurulent_sans_monoregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

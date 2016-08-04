@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'tiresias_infofontregular';
+    src: url('Tiresias_Infofont-webfont.eot');
+    src: url('Tiresias_Infofont-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Tiresias_Infofont-webfont.woff') format('woff'),
+         url('Tiresias_Infofont-webfont.ttf') format('truetype'),
+         url('Tiresias_Infofont-webfont.svg#tiresias_infofontregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

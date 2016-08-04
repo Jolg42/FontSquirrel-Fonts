@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'komika_parchregular';
+    src: url('Komika_Parch-webfont.eot');
+    src: url('Komika_Parch-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Komika_Parch-webfont.woff') format('woff'),
+         url('Komika_Parch-webfont.ttf') format('truetype'),
+         url('Komika_Parch-webfont.svg#komika_parchregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

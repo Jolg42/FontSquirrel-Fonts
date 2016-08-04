@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'mathleteskinny_slant';
+    src: url('Mathlete-SkinnySlant-webfont.eot');
+    src: url('Mathlete-SkinnySlant-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Mathlete-SkinnySlant-webfont.woff') format('woff'),
+         url('Mathlete-SkinnySlant-webfont.ttf') format('truetype'),
+         url('Mathlete-SkinnySlant-webfont.svg#mathleteskinny_slant') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

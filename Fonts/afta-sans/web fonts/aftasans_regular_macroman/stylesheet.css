@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'afta_sansregular';
+    src: url('AftaSansThin-Regular-webfont.eot');
+    src: url('AftaSansThin-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('AftaSansThin-Regular-webfont.woff') format('woff'),
+         url('AftaSansThin-Regular-webfont.ttf') format('truetype'),
+         url('AftaSansThin-Regular-webfont.svg#afta_sansregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

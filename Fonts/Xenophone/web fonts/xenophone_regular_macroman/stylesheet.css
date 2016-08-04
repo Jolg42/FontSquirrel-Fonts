@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'xenophoneregular';
+    src: url('xenophone-webfont.eot');
+    src: url('xenophone-webfont.eot?#iefix') format('embedded-opentype'),
+         url('xenophone-webfont.woff') format('woff'),
+         url('xenophone-webfont.ttf') format('truetype'),
+         url('xenophone-webfont.svg#xenophoneregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

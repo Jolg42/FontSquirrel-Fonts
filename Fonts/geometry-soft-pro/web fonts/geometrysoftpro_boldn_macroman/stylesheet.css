@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'geometry_soft_probold_n';
+    src: url('Geometry_Soft_Pro-Bold_N-webfont.eot');
+    src: url('Geometry_Soft_Pro-Bold_N-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Geometry_Soft_Pro-Bold_N-webfont.woff') format('woff'),
+         url('Geometry_Soft_Pro-Bold_N-webfont.ttf') format('truetype'),
+         url('Geometry_Soft_Pro-Bold_N-webfont.svg#geometry_soft_probold_n') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

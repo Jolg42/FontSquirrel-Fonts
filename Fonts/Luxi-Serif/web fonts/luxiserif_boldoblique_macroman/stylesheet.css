@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'luxi_serifbold_oblique';
+    src: url('luxirbi-webfont.eot');
+    src: url('luxirbi-webfont.eot?#iefix') format('embedded-opentype'),
+         url('luxirbi-webfont.woff') format('woff'),
+         url('luxirbi-webfont.ttf') format('truetype'),
+         url('luxirbi-webfont.svg#luxi_serifbold_oblique') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

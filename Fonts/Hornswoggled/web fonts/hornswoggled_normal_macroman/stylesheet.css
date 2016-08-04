@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'hornswogglednormal';
+    src: url('HORNSWOG-webfont.eot');
+    src: url('HORNSWOG-webfont.eot?#iefix') format('embedded-opentype'),
+         url('HORNSWOG-webfont.woff') format('woff'),
+         url('HORNSWOG-webfont.ttf') format('truetype'),
+         url('HORNSWOG-webfont.svg#hornswogglednormal') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

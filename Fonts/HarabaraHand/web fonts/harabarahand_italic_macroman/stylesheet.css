@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'harabarahanditalic';
+    src: url('HarabaraHand-webfont.eot');
+    src: url('HarabaraHand-webfont.eot?#iefix') format('embedded-opentype'),
+         url('HarabaraHand-webfont.woff') format('woff'),
+         url('HarabaraHand-webfont.ttf') format('truetype'),
+         url('HarabaraHand-webfont.svg#harabarahanditalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

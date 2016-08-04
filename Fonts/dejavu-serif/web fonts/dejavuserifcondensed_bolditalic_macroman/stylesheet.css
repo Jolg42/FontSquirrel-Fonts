@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'dejavu_serifCnBdIt';
+    src: url('DejaVuSerifCondensed-BoldItalic-webfont.eot');
+    src: url('DejaVuSerifCondensed-BoldItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('DejaVuSerifCondensed-BoldItalic-webfont.woff') format('woff'),
+         url('DejaVuSerifCondensed-BoldItalic-webfont.ttf') format('truetype'),
+         url('DejaVuSerifCondensed-BoldItalic-webfont.svg#dejavu_serifCnBdIt') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

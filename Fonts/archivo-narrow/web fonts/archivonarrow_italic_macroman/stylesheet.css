@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'archivo_narrowitalic';
+    src: url('ArchivoNarrow-Italic-webfont.eot');
+    src: url('ArchivoNarrow-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('ArchivoNarrow-Italic-webfont.woff') format('woff'),
+         url('ArchivoNarrow-Italic-webfont.ttf') format('truetype'),
+         url('ArchivoNarrow-Italic-webfont.svg#archivo_narrowitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

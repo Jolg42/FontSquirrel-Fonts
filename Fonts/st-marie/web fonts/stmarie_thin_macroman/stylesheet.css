@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'st_marie_thinthin';
+    src: url('StMarie-Thin-webfont.eot');
+    src: url('StMarie-Thin-webfont.eot?#iefix') format('embedded-opentype'),
+         url('StMarie-Thin-webfont.woff') format('woff'),
+         url('StMarie-Thin-webfont.ttf') format('truetype'),
+         url('StMarie-Thin-webfont.svg#st_marie_thinthin') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

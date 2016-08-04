@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'plug-nickelblackregular';
+    src: url('Plug-NickelBlack-webfont.eot');
+    src: url('Plug-NickelBlack-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Plug-NickelBlack-webfont.woff') format('woff'),
+         url('Plug-NickelBlack-webfont.ttf') format('truetype'),
+         url('Plug-NickelBlack-webfont.svg#plug-nickelblackregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

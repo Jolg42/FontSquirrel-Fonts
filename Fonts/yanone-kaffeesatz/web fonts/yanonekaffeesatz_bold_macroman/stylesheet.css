@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'yanone_kaffeesatzbold';
+    src: url('YanoneKaffeesatz-Bold-webfont.eot');
+    src: url('YanoneKaffeesatz-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('YanoneKaffeesatz-Bold-webfont.woff') format('woff'),
+         url('YanoneKaffeesatz-Bold-webfont.ttf') format('truetype'),
+         url('YanoneKaffeesatz-Bold-webfont.svg#yanone_kaffeesatzbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

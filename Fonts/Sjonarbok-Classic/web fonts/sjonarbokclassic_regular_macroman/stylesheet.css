@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'sjonarbok_classicregular';
+    src: url('sjonarbok_classic-webfont.eot');
+    src: url('sjonarbok_classic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('sjonarbok_classic-webfont.woff') format('woff'),
+         url('sjonarbok_classic-webfont.ttf') format('truetype'),
+         url('sjonarbok_classic-webfont.svg#sjonarbok_classicregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

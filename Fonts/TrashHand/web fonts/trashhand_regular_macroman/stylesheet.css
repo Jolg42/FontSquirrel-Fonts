@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'trashhandregular';
+    src: url('TrashHand-webfont.eot');
+    src: url('TrashHand-webfont.eot?#iefix') format('embedded-opentype'),
+         url('TrashHand-webfont.woff') format('woff'),
+         url('TrashHand-webfont.ttf') format('truetype'),
+         url('TrashHand-webfont.svg#trashhandregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

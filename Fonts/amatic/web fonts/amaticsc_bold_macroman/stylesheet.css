@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'amaticbold';
+    src: url('Amatic-Bold-webfont.eot');
+    src: url('Amatic-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Amatic-Bold-webfont.woff') format('woff'),
+         url('Amatic-Bold-webfont.ttf') format('truetype'),
+         url('Amatic-Bold-webfont.svg#amaticbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
